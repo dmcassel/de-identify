@@ -1,0 +1,58 @@
+<wpt lat="40.008783" lon="-75.702333" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-02-08T08:00:00Z</time>
+    <name>GC2NGM6</name>
+    <desc>6 of 1 by GeoGirls of Chesco, Unknown Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ccd34c6f-0c17-45e8-9b1c-10ed572a0faf</url>
+    <urlname>6 of 1</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="2077535" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>6 of 1</groundspeak:name>
+      <groundspeak:placed_by>GeoGirls of Chesco</groundspeak:placed_by>
+      <groundspeak:owner id="3602545">GeoGirls of Chesco</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">The cache and log are not at the posted coordinates.
+&lt;b&gt;&lt;font color="#FF000"&gt;You must sign the OFFICIAL LOG sheet to
+claim this cache.&lt;/font&gt;&lt;/b&gt; NO replacement logs allowed.</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;&lt;font color="#996600"&gt;"Six of one, half dozen of the
+other"&lt;/font&gt;&lt;/b&gt;, that is what one GeoGirl said when they were
+deciding on where to hide a new cache.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;&lt;font color="#996600"&gt;"These types of hides are a dime a
+dozen"&lt;/font&gt;&lt;/b&gt; chimed in another GeoGirl.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;&lt;font color="#996600"&gt;"Yeah, it's a toss up!"&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;&lt;font color="#996600"&gt;"It is what it is."&lt;/font&gt;&lt;/b&gt; &lt;b&gt;But
+where is it?&lt;/b&gt; It's anyone's call!&lt;br /&gt;
+&lt;br /&gt;
+The GeoGirls are full of idioms. What's your favorite saying? Let
+us know in your log.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;&lt;font color="#FF000"&gt;At each of the given waypoints, you will
+find a container - but only one contains the OFFICIAL 6 of 1 LOG
+sheet. You must find and sign that log!&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Remember:&lt;b&gt;&lt;font color="#996600"&gt;"If at first you don't succeed,
+try, try again".&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+As a wise elder once said, &lt;b&gt;&lt;font color="#996600"&gt;"Do or do not,
+there is no try"&lt;/font&gt;&lt;/b&gt;.&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="165075381">
+          <groundspeak:date>2011-06-05T23:17:44Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22, 19acassel and our youngest daughter. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

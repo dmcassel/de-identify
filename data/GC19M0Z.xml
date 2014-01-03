@@ -1,0 +1,42 @@
+<wpt lat="39.495533" lon="-76.23395" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-02-23T08:00:00Z</time>
+    <name>GC19M0Z</name>
+    <desc>Maryland House (Version 2.0) by Son_of_Mt_Soma, Traditional Cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5ee53529-77e8-41f4-9bf7-12e83ac4c00e</url>
+    <urlname>Maryland House (Version 2.0)</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="799770" available="False" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Maryland House (Version 2.0)</groundspeak:name>
+      <groundspeak:placed_by>Son_of_Mt_Soma</groundspeak:placed_by>
+      <groundspeak:owner id="658550">Son_of_Mt_Soma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">A regular size cache located at the Maryland House Rest Stop on I-95, just north of Exit 80 (Belcamp, MD).</groundspeak:short_description>
+      <groundspeak:long_description html="False">This rest area used to have an active cache, which was archived last year.  So, to fill in the void, I have placed a cache in some woods just off the parking lot at the south end of the rest area.  This is Version 2.0 of that cache.  This should give the traveling geocacher a good excuse for a walk in the woods to stretch his legs.  The parking area near the cache is accessible to both north and south bound traffic.
+
+Please do not park on I-95 to get to this cache.  There is plenty of parking at the rest area, and it is only a short walk.  There is a path down the hill into the woods--there is no need to go bushwhacking down the hill to get near ground zero.
+
+During the summer months, briers and ticks will be a problem.  
+
+The cache is large enough for a good number of travel bugs or geocoins looking for a place to rest and change rides.  I do not want to call this cache a TB hotel until I am sure that this location is safe for such a cache.
+
+Get Happy! TBKCZX is in the cache for the FTF.
+
+UPDATE (26 Sep 2009):  Version 1.0 has gone missing--the victim of a probable muggle attack.  Version 2.0 is now in place a short distance from the location of Version 1.0 and more off the beaten trail.  Anyone who logged in Version 1.0 is welcome to come back out to find and log Version 2.0 (since this is both a new container and new location).</groundspeak:long_description>
+      <groundspeak:encoded_hints>Look for item that normally comes in a set of four.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="207714218">
+          <groundspeak:date>2012-01-11T14:08:11Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found while heading south on a business trip. Dropped off a travel bug. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,34 @@
+<wpt lat="39.134917" lon="-76.7934" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-06-27T07:00:00Z</time>
+    <name>GC2AWMQ</name>
+    <desc>Cars, We got cars...3rd try by ROOKIE49, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c4411323-1fd3-44a1-bed7-5be727f0828c</url>
+    <urlname>Cars, We got cars...3rd try</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1760422" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Cars, We got cars...3rd try</groundspeak:name>
+      <groundspeak:placed_by>ROOKIE49</groundspeak:placed_by>
+      <groundspeak:owner id="650241">ROOKIE49</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">This one is located near the other one but I think I have moved it to a more muggle free area. The theme is cars for reasons that are clear when you get to the area. I have noticed the changes across the street depending on the economy. This one is a small L&amp;L container.
+Be sure to read the parking signs. Better on w/e or evenings</groundspeak:long_description>
+      <groundspeak:encoded_hints>on the CAR side of fence</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="150651699">
+          <groundspeak:date>2011-03-24T01:32:39Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">I think the hardest part of this one was finding a place to park. Otherwise a quick find. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,33 @@
+<wpt lat="40.006761" lon="-75.298521" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-02-27T08:00:00Z</time>
+    <name>GC2PF5T</name>
+    <desc>Home run! by lordebubble, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=06b742d1-f443-4843-84b5-fed8c6fa15ed</url>
+    <urlname>Home run!</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2105919" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Home run!</groundspeak:name>
+      <groundspeak:placed_by>lordebubble</groundspeak:placed_by>
+      <groundspeak:owner id="3363773">lordebubble</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">watch out for muggles enjoy!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>hard hit foul ball into the stands on the first base side!!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="149814548">
+          <groundspeak:date>2011-03-19T22:57:46Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22, LNRC, and billcas. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

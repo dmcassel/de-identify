@@ -1,0 +1,36 @@
+<wpt lat="39.9752" lon="-75.73965" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-03-13T07:00:00Z</time>
+    <name>GC1NMQR</name>
+    <desc>Broad Run Park by Libr@ryL@dy, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0eca71f0-8546-435f-8bef-71233c17687b</url>
+    <urlname>Broad Run Park</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1157969" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Broad Run Park</groundspeak:name>
+      <groundspeak:placed_by>Libr@ryL@dy</groundspeak:placed_by>
+      <groundspeak:owner id="1847117">Libr@ryL@dy</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">One of the beautiful West Bradford Parks.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Broad Run Park is a 29 acre park located on Broad Run Road.  The park contains nice playground areas, volleyball courts, tennis courts, basketball courts, an inline hockey court and a pond.  Bathrooms are available for anyone using the park.  There are also four pavilions, which can be reserved for group use for a fee.  Enjoy the many bird houses.  Most of the year the lights remain on at the tennis, hockey and basketball courts until 9:30 p.m.   The rest of the facilities may be used from sunrise until sunset.  However, in winter months the lights go off at 7:30 p.m., when the park closes.    
+You are looking for a small tupperware container not too far off of the path. This was placed in the winter with no real bushwacking required.  In the summer, things will be most likely be different.  BYOPen and rehide as well or better.
+
+Congratulations to NeedAlt for the FTF</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="107571763">
+          <groundspeak:date>2010-05-08T20:10:14Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">My daughter helped my parents find this one. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,37 @@
+<wpt lat="39.98985" lon="-75.693417" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-08-27T07:00:00Z</time>
+    <name>GC26XFY</name>
+    <desc>Poker Run #3 - Spring House by bpp_picnic, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7876bfa2-b641-4ade-a6e5-43f469b18c0d</url>
+    <urlname>Poker Run #3 - Spring House</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1642070" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Poker Run #3 - Spring House</groundspeak:name>
+      <groundspeak:placed_by>bpp_picnic</groundspeak:placed_by>
+      <groundspeak:owner id="864597">bpp_picnic</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">This was hidden for my 2010 Fall Picnic. It was part of a Geo Game but remains as a cache.</groundspeak:short_description>
+      <groundspeak:long_description html="False">I always like finding these old structures. Not much left of this old Spring House. When searching for this one you may come accross some barbed wire depending on your approach. 
+
+Please DO NOT try and get this one from Route 322. There is no legal parking and the road is very dangerous. Please use the listed parking coords and walk down the nice new paved trail until you have to turn to get to GZ. It is not embedded in the structure so please do not disturb any of the walls.
+
+Be careful and have fun! [B]bpp_picnic[/B]</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133303300">
+          <groundspeak:date>2010-10-27T16:39:32Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">I've lived in this area for years but never stopped to see this trail. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

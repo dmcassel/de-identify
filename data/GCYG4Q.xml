@@ -1,0 +1,50 @@
+<wpt lat="38.861733" lon="-77.17245" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-10-31T08:00:00Z</time>
+    <name>GCYG4Q</name>
+    <desc>First Bell by zgrav, Traditional Cache (3/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c3f1a0ed-40a9-41e9-928f-8f120090e01c</url>
+    <urlname>First Bell</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="468342" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>First Bell</groundspeak:name>
+      <groundspeak:placed_by>zgrav</groundspeak:placed_by>
+      <groundspeak:owner id="579718">zgrav</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Virginia</groundspeak:state>
+      <groundspeak:short_description html="True">This traditional cache is in a small interior neighborhood park.
+NEW CONTAINER, NEW LOCATION Sept 12, 2010</groundspeak:short_description>
+      <groundspeak:long_description html="True">The cache is now a small nalgene bottle with small wacky trade
+items (nuts and bolts, odd hardware). The park has been extensively
+landscaped and improved since I placed my first geocache hide here.
+The giant tree on the knoll also toppled during a storm earlier
+this summer, and further changed the hiding area. Tucked away in an
+igneous spot. Three trails lead to the park from the coordinates
+given below. The park is surrounded by houses, and closes at dark.
+Please limit searches to daylight times and be discrete if children
+are using the playground. Access is from paved trails at:
+&lt;p&gt;1. 38 51 39.86 w 77 10 22.14&lt;/p&gt;
+&lt;p&gt;2. 38 51 45.75 w 77 10 21.73&lt;/p&gt;
+&lt;p&gt;3. 38 51 44.34 w 77 10 16.57&lt;/p&gt;
+&lt;div style=
+"font-weight: bold;color: #151B54;background-color: #F62217;border: medium outset grey;padding: 3px 5px;margin: 10px 30px;"&gt;
+NOTICE: Please be respectful of the posted park hours. If you enter
+the park after hours you are trespassing. If you are stopped you
+can be ticketed or arrested and will put the future of geocaching
+in the parks in jeopardy.&lt;/div&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Close to the Big Red Three.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="128381927">
+          <groundspeak:date>2010-09-25T21:52:39Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it while visiting friends. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

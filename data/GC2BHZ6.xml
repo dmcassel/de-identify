@@ -1,0 +1,32 @@
+<wpt lat="43.947433" lon="-76.120533" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-07-11T07:00:00Z</time>
+    <name>GC2BHZ6</name>
+    <desc>Sackets Harbor "center" by sampiper, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=745c8046-9a9d-47d5-be08-6837950511da</url>
+    <urlname>Sackets Harbor "center"</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1780896" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sackets Harbor "center"</groundspeak:name>
+      <groundspeak:placed_by>sampiper</groundspeak:placed_by>
+      <groundspeak:owner id="3071715">sampiper</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>New York</groundspeak:state>
+      <groundspeak:short_description html="False">Cache is a plastic container 7x7x2 with log, pen and a few treasures.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Situated on the shore of beautiful Lake Ontario and sheltered by Black River Bay, Sackets Harbor offers year round activities for the entire family. The village is one of New York State’s Heritage Areas with exceptional historic attractions and beautiful tree-lined streets. The town provides an opportunity to discover a unique history, charming architecture and a variety of activities.</groundspeak:long_description>
+      <groundspeak:encoded_hints>look for a stone slightly out of place :)</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="249325554">
+          <groundspeak:date>2012-07-15T19:36:17Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find while on vacation. Found with dawnie22, 19acassel and younger daughter. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

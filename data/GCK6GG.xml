@@ -1,0 +1,43 @@
+<wpt lat="40.004583" lon="-75.694983" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2004-08-05T07:00:00Z</time>
+    <name>GCK6GG</name>
+    <desc>Hedge Hog by StarQ, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3a127cfd-3483-4b38-9a49-7b15e85e862a</url>
+    <urlname>Hedge Hog</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="161187" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Hedge Hog</groundspeak:name>
+      <groundspeak:placed_by>StarQ</groundspeak:placed_by>
+      <groundspeak:owner id="122044">StarQ</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;font size="+2" color="#660033"&gt;Cache is larger than a 35mm
+      canister but smaller than a breadbox.&lt;/font&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;hr&gt;
+&lt;font size="+1" color="#CC0000"&gt;&lt;b&gt;Hedge Hog&lt;/b&gt;&lt;/font&gt;
+      &lt;font size="+1" color="#3300FF"&gt;is a micro cache located
+      somewhere in my front yard. You don't have to enter the yard
+      to find the cache. Most of my neighbors know about the
+      cache.&lt;br&gt;
+&lt;br&gt;
+ You can usually park along the street.&lt;br&gt;
+&lt;br&gt;
+ Bring a pen or pencil to make your log entry with.&lt;/font&gt; 
+&lt;hr&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>If you're hedging on this one add up the digits. Your lucky number is 13.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="125429429">
+          <groundspeak:date>2010-09-05T23:08:16Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Number 6 today</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

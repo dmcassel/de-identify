@@ -1,0 +1,36 @@
+<wpt lat="38.9289" lon="-77.2481" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-12-26T08:00:00Z</time>
+    <name>GC2KN3Q</name>
+    <desc>Tysons during the Holly-days by cphug184, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2403ae3c-93b7-461b-a1be-8f587409e328</url>
+    <urlname>Tysons during the Holly-days</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2022248" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Tysons during the Holly-days</groundspeak:name>
+      <groundspeak:placed_by>cphug184</groundspeak:placed_by>
+      <groundspeak:owner id="855316">cphug184</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Virginia</groundspeak:state>
+      <groundspeak:short_description html="False">Nano on a street side sign.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Simple grab- just gotta find it.  This is findable in the snow and is a 24/7 cache.  It is in an office park right off Rt 7.  Nothing too special.  
+
+There is parking in the cul de sac nearby.  You can take the sidewalk down the hill to Raglan Park for a nice walk in some woods.  Walk up the hill to watch the construction of the Metro.
+
+I confess to placing this cache to assist 366 day streakers keep going should there be snow.</groundspeak:long_description>
+      <groundspeak:encoded_hints>About 6'+ high.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="140397679">
+          <groundspeak:date>2011-01-05T16:09:58Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found before work on a business trip. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

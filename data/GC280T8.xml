@@ -1,0 +1,32 @@
+<wpt lat="40.133967" lon="-75.513333" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-05-04T07:00:00Z</time>
+    <name>GC280T8</name>
+    <desc>Balderstash by cramjo, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=16b6888e-b65e-42be-a8a7-6b1eb94181b4</url>
+    <urlname>Balderstash</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1675033" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Balderstash</groundspeak:name>
+      <groundspeak:placed_by>cramjo</groundspeak:placed_by>
+      <groundspeak:owner id="3232342">cramjo</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Small cache in a small borough park.  Muggles may be around.  Made it easy because you may lose satellite on GPS.  May be difficult in winter with snow.  Watch out for mosquitoes in damp weather . . . they are hungry little devils.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Small cache with log and pencil.  My first hide.  It was a seed cache found in my first find in Kalamazoo, MI.  Thanks to G. O. John and Carol for the seed.</groundspeak:long_description>
+      <groundspeak:encoded_hints>About Face.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="158569390">
+          <groundspeak:date>2011-05-02T02:47:36Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Played a hunch and made the find with dawnie22 and our girls</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

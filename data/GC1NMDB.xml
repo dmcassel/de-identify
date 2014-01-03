@@ -1,0 +1,37 @@
+<wpt lat="39.992233" lon="-75.580433" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-08-18T07:00:00Z</time>
+    <name>GC1NMDB</name>
+    <desc>Barcodes in the Sky by familyk19380 &amp; illb, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=686b3a73-c263-4e2d-a1c5-5d44a2410c6e</url>
+    <urlname>Barcodes in the Sky</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1157646" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Barcodes in the Sky</groundspeak:name>
+      <groundspeak:placed_by>familyk19380 &amp; illb</groundspeak:placed_by>
+      <groundspeak:owner id="1914055">familyK19380</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;b&gt;NOTE: THE CACHE IS NOT.... WE EMPHASIZE.. NOT... AROUND THE GREEN BOX! TRUST US ON THIS ONE....&lt;/b&gt;
+&lt;p&gt;This cache is solely for our entertainment purposes. We work in the building (at the end AWAY from the loading docks) near where this cache is placed and can look out and see you finding this cache.&lt;/p&gt;
+
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">NOTE: We have received permission to place this cache at this location. This is NOT near the building. Originally, back in the winter, we thought this would be a really quick and easy place to find a cache. Now that summer is here and things have grown up, it might not be quite as easy. Should be a quick and easy pickup, &lt;b&gt;PLEASE park in the cul-de-sac and be observant of the delivery truck traffic.&lt;/b&gt;
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="191306981">
+          <groundspeak:date>2011-10-08T18:49:22Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Our girls made the find after a stop at the QVC shop. Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,38 @@
+<wpt lat="30.390867" lon="-97.719633" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-07-22T07:00:00Z</time>
+    <name>GC30MFZ</name>
+    <desc>Fine Dining by cealliegh, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8f0df2fe-fc20-48fb-a299-a4fd4ecb4be7</url>
+    <urlname>Fine Dining</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2379158" available="False" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Fine Dining</groundspeak:name>
+      <groundspeak:placed_by>cealliegh</groundspeak:placed_by>
+      <groundspeak:owner id="3438502">cealliegh</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Texas</groundspeak:state>
+      <groundspeak:short_description html="False">Fine dining Braker style. From Mcnuggets to burritos.
+There was a Derwienerschnitzel here, but it has just closed.  We shall see what moves in next.
+
+The cache is a medium bison tube.
+
+Congrats to mda taz for first to find!</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>Permit required</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="186292286">
+          <groundspeak:date>2011-09-13T01:48:58Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find. Followed that up by stopping at one of the fine dining institutions for a little dessert. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

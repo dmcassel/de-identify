@@ -1,0 +1,34 @@
+<wpt lat="39.9292" lon="-75.822633" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-05-09T07:00:00Z</time>
+    <name>GC2VYGJ</name>
+    <desc>covered cache by agwwomer&amp;willdeb, Traditional Cache (4/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5704ecea-409a-4201-bb01-5ae2000b1a30</url>
+    <urlname>covered cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2238871" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>covered cache</groundspeak:name>
+      <groundspeak:placed_by>agwwomer&amp;willdeb</groundspeak:placed_by>
+      <groundspeak:owner id="4313010">agwwomer</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>4</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">there should be a parking spot on the side of where the roads meet</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="168081030">
+          <groundspeak:date>2011-06-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">A fun find on Father's Day. Looks like it will take a wrench, or stronger hands than mine to get it open, though.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

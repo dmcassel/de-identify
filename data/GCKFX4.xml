@@ -1,0 +1,34 @@
+<wpt lat="38.8811" lon="-77.017967" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2004-09-06T07:00:00Z</time>
+    <name>GCKFX4</name>
+    <desc>Animal Crackers by flowerman (adopted by kelly@9), Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=376471ac-d02d-4299-a995-2d2c9989c22e</url>
+    <urlname>Animal Crackers</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="170196" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Animal Crackers</groundspeak:name>
+      <groundspeak:placed_by>flowerman (adopted by kelly@9)</groundspeak:placed_by>
+      <groundspeak:owner id="180166">kelly@9</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>District of Columbia</groundspeak:state>
+      <groundspeak:short_description html="False">Cache and Grab Here if no one is around - but if there are folks near by - cache carefully!</groundspeak:short_description>
+      <groundspeak:long_description html="False">Another DC park with benches and a sculpture? Cache is a log only cache so bring a pen.
+
+The clue in the logbook is no longer necessary.To find the (former) mystery cache go to waypoint GCKJ39.</groundspeak:long_description>
+      <groundspeak:encoded_hints>get low</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138639048">
+          <groundspeak:date>2010-12-16T02:06:30Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Really cold tonight but couldn't pass up the chance for a cache on a trip. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

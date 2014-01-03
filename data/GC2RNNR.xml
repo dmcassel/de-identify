@@ -1,0 +1,38 @@
+<wpt lat="39.722033" lon="-75.662067" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-04-06T07:00:00Z</time>
+    <name>GC2RNNR</name>
+    <desc>PEM #3 PAF by MikeOtt, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=57361afe-13ab-45f5-b678-2b4b0fc73b8e</url>
+    <urlname>PEM #3 PAF</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2171762" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>PEM #3 PAF</groundspeak:name>
+      <groundspeak:placed_by>MikeOtt</groundspeak:placed_by>
+      <groundspeak:owner id="92122">MikeOtt</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Delaware</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Post Event Madness caches were made available at conclusion of
+April Delaware Geocachers Event.&lt;/p&gt;
+&lt;p&gt;After that the mad scramble started to get the 5 caches in this
+series&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="272669389">
+          <groundspeak:date>2012-10-13T14:23:29Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find while passing through the area. Found with dawnie22. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

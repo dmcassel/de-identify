@@ -1,0 +1,55 @@
+<wpt lat="38.98925" lon="-76.159933" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-01-24T08:00:00Z</time>
+    <name>GC18VYV</name>
+    <desc>Swan Lake by Mother Wolf, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=91c90fce-9eeb-49a6-802d-1d4dc314a23f</url>
+    <urlname>Swan Lake</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="776640" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Swan Lake</groundspeak:name>
+      <groundspeak:placed_by>Mother Wolf</groundspeak:placed_by>
+      <groundspeak:owner id="713059">Mother Wolf</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="True">An easy C&amp;amp;D but stay for few minutes to ENJOY. You are looking
+for a nano.</groundspeak:short_description>
+      <groundspeak:long_description html="True">OK so it's not really a lake but the end of the inlet from the
+Chester River, but it is a Swan Haven.
+&lt;p&gt;You may want to sit for a few minutes while you retrieve &amp;amp;
+sign the log so while you do that you can see the Beautiful Swans
+that seem to congregate here.&lt;/p&gt;
+&lt;p&gt;It is a boat launch here &amp;amp; may be a bit busy come summer.
+Although you can't PARK here for extended periods of time I have
+been assured by the City of Queenstown that it is fine to pull over
+from the launch right of way to stop &amp;amp; go sit for a bit. Take
+pictures, read a book etc.&lt;/p&gt;
+&lt;p&gt;Stealth will be reguired because you will be in view from
+several directions &amp;amp; the towns people do watch the comings
+&amp;amp; goings of folks so be on your toes :) ENJOY!&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;b&gt;&lt;font size="+1" color="olive"&gt;Proud member of the &lt;a rel=
+"nofollow" href="http://militarycache.org/"&gt;Military Association of
+GeoCachers&lt;/a&gt;&lt;br /&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a rel="nofollow" href="http://militarycache.org/"&gt;&lt;font color=
+"olive"&gt;&lt;img src=
+"http://militarycache.org/magclist/templates/subSilver/images/logo_phpBB.gif"
+border="0" alt="MAGC Logo" /&gt;&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;center&gt;*****A BIG WAY TO GO Morningmom for the FTF*****&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>It's where you sit.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="255612632">
+          <groundspeak:date>2012-08-07T18:04:35Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it with dawnie22 after looking for a couple minutes. Nice spot, thanks for leading us here. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

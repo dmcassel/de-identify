@@ -1,0 +1,41 @@
+<wpt lat="40.02335" lon="-75.63365" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-07-06T07:00:00Z</time>
+    <name>GC1VJH7</name>
+    <desc>Commerce Trail Rocks by deb3day, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c523f2af-68a4-4c18-8ae2-8afaefc2aea6</url>
+    <urlname>Commerce Trail Rocks</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1304799" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Commerce Trail Rocks</groundspeak:name>
+      <groundspeak:placed_by>deb3day</groundspeak:placed_by>
+      <groundspeak:owner id="1606719">deb3day</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Should be an easy find on a really nice trail that you probably never noticed.  Small container but it probably will not hold any bugs or coins unless they are very small.  Container holds log and a small pencil.  Please be sure to replace everything as found.</groundspeak:short_description>
+      <groundspeak:long_description html="False">One of the fun parts of this is discovering the decoys.  Please, Please, PLEASE....if you see, touch or move what seems like the cache spot and it is NOT the cache, put it back the way you found it!!!  Every time I check on this cache, some of the decoys are destroyed and do not look like a possible cache.  Please let this cache be the same for everyone.
+
+When driving to the nearby shopping, I noticed this trail and what seemed like a spot that was calling out to have a cache.  This one shouldn't be too difficult. No need for climbing, so please stay at trail level.
+
+DO NOT attempt to get to GZ from the place in the Walmart parking lot that seems closest!!!  YOU CANNOT GET TO THE CACHE FROM THERE!!!  You can park at the far corner of the lot and walk down the steep grass hill. There is a place to park on Commerce Drive that is much easier.
+
+After finding the cache, you may want to take a nice walk back the trail.  The nicely paved trail goes back a few tenths of a mile and just stops.  This is actually an old railroad bed that has been made into a paved trail.  Lots of wildlife back here.  While hiking down the trail the day after placing the cache, we heard something big crashing thru the brush, but never did see what it was.  We thought it was either a deer or a fox.  Also saw a cute little bunny right next to the trail who didn't run even when we got within 3 feet of him.
+
+Have fun!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138279619">
+          <groundspeak:date>2010-12-11T04:35:04Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it with dawnie22 and our girls on a cold night, without finding any of the decoys. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

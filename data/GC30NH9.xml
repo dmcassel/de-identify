@@ -1,0 +1,37 @@
+<wpt lat="39.99555" lon="-75.762367" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-07-22T07:00:00Z</time>
+    <name>GC30NH9</name>
+    <desc>Money Doesn't Grow on Trees by Rrrbt202, Traditional Cache (2.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3b3a3b0b-086c-49de-a826-7967b819cc09</url>
+    <urlname>Money Doesn't Grow on Trees</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2380160" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Money Doesn't Grow on Trees</groundspeak:name>
+      <groundspeak:placed_by>Rrrbt202</groundspeak:placed_by>
+      <groundspeak:owner id="4299326">Rrrbt202</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">A small Lock-n-lock in the neighborhood of two banks.</groundspeak:short_description>
+      <groundspeak:long_description html="False">A theme style Lock-n-lock with international and other coins. The coins are in a bag to make it easy to open the cache. If you don’t have such a coin, no need to leave something. Feel free to take a coin ( not the whole bag Please).
+Since Muggle activity can be high, you might want to take the cache to your car to open and explore. Return cache to location and camo lightly please. 
+
+
+Congratulations to deb3day for FTF</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="211327861">
+          <groundspeak:date>2012-02-04T19:01:31Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find, neat collection. Found with dawnie22 and 19acassel. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

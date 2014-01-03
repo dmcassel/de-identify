@@ -1,0 +1,32 @@
+<wpt lat="39.871167" lon="-75.6331" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-08-06T07:00:00Z</time>
+    <name>GCXHXW</name>
+    <desc>Pennsbury 24 by daysak, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=25602c2e-da5b-4ffa-a084-4cc3fd5a3d5c</url>
+    <urlname>Pennsbury 24</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="440260" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Pennsbury 24</groundspeak:name>
+      <groundspeak:placed_by>daysak</groundspeak:placed_by>
+      <groundspeak:owner id="530690">daysak</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">This cache is located in the Pennsbury Township Park</groundspeak:short_description>
+      <groundspeak:long_description html="False">This is a green ammo box filled with extra nice goodies such as stickers, pens, beads, and other stuff for young and old.  Title refers to its date of placement:  our 24th Anniversary.  (Those who geocache together, stay together!) Park in the lot for the Pennsbury Township Park and proceed into the park area behind the parking area.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Down the slope to the back of the field, trail to the right, look along the right side of the trail.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="147591723">
+          <groundspeak:date>2011-03-06T01:29:14Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22 and kids</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,35 @@
+<wpt lat="40.023467" lon="-75.694717" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-01-15T08:00:00Z</time>
+    <name>GC10D01</name>
+    <desc>Northwood Hill Cache by dndsnel1210 adopted by Kin9sPanK, Traditional Cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=20160550-3d2b-4e08-83b8-dc123fb13ee3</url>
+    <urlname>Northwood Hill Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="524895" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Northwood Hill Cache</groundspeak:name>
+      <groundspeak:placed_by>dndsnel1210 adopted by Kin9sPanK</groundspeak:placed_by>
+      <groundspeak:owner id="83789">Kin9sPanK</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">This cache is a Army Decon Container. The area can get a bit overgrown in the summer so I would wear long pants at that time of year. A slight hill will not allow biking to the actual cache site. Some bushwhacking may be required. The cache is well hidden. Please rehide as well or better.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The cache is filled with a bunch of neat small items that were rescued from the previous cache container.  The new cache container is a Army Decon Container.  It will happily accept geocoins and small travelbugs.  Decon Container lids seal with an audible snap.  No snap, no seal.  Please do not overstuff the container and insure that the lid is on tight before rehiding the cache.  
+
+Have fun!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133722043">
+          <groundspeak:date>2010-10-30T23:19:13Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22. TFTC! </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

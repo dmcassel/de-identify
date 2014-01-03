@@ -1,0 +1,32 @@
+<wpt lat="34.741767" lon="-86.6783" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-04-18T07:00:00Z</time>
+    <name>GC2718X</name>
+    <desc>Gone Digital  by slykyd, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ad839837-2be4-44d3-9787-3b021ca2b414</url>
+    <urlname>Gone Digital </urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1645696" available="False" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Gone Digital </groundspeak:name>
+      <groundspeak:placed_by>slykyd</groundspeak:placed_by>
+      <groundspeak:owner id="1275854">slykyd</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Alabama</groundspeak:state>
+      <groundspeak:short_description html="False">these have gone digital now as we move forward in progress. clever concept. there are only eight of these in the hsv/mad area</groundspeak:short_description>
+      <groundspeak:long_description html="False">this container only holds a log so bring your own writing utensil replace as found and have fun</groundspeak:long_description>
+      <groundspeak:encoded_hints>should be easy enough !</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="124922601">
+          <groundspeak:date>2010-09-02T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found the cache, had a pen, my pen wouldn't write. Oh well. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

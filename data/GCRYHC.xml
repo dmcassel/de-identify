@@ -1,0 +1,54 @@
+<wpt lat="40.022933" lon="-75.705483" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-01-08T08:00:00Z</time>
+    <name>GCRYHC</name>
+    <desc>What's Buggin' You? by StarQ and Autumn Cloud, Traditional Cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c153e8b9-233a-4b07-862b-c65d2729294a</url>
+    <urlname>What's Buggin' You?</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="332272" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>What's Buggin' You?</groundspeak:name>
+      <groundspeak:placed_by>StarQ and Autumn Cloud</groundspeak:placed_by>
+      <groundspeak:owner id="122044">StarQ</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;hr /&gt;
+&lt;font color="green" size="+1"&gt;&lt;b&gt;Cache is a screw-top plastic
+container.&lt;/b&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;hr /&gt;
+&lt;br /&gt;
+&lt;font color="brown" size="3"&gt;&lt;b&gt;Original contents:&lt;/b&gt;&lt;/font&gt;
+&lt;ul class="noindent"&gt;
+&lt;li&gt;&lt;font color="brown" size="3"&gt;&lt;b&gt;Lots of plastic
+bugs.&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="brown" size="3"&gt;&lt;b&gt;Log book.&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="brown" size="3"&gt;&lt;b&gt;Pen.&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;hr /&gt;
+&lt;b&gt;&lt;font color="blue"&gt;The theme of this cache is BUGS. Not travel
+bugs, bugs like centipedes, spiders, crickets.... Plastic ones like
+you find at the dollar store.&lt;/font&gt;&lt;/b&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="#330066"&gt;The cache is located near a very busy
+walking trail. Please watch for muggles.&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Are you stumped?</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="145971605">
+          <groundspeak:date>2011-02-21T21:37:34Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22 and our girls while teaching the younger how to ride a bike. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

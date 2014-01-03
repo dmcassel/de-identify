@@ -1,0 +1,38 @@
+<wpt lat="39.964067" lon="-75.723017" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2012-01-25T08:00:00Z</time>
+    <name>GC3BFG9</name>
+    <desc>Another Game in the Park by Rrrbt202, Traditional Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f4154ff1-41d7-4dc6-b1a8-d30b36935720</url>
+    <urlname>Another Game in the Park</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2702064" available="False" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Another Game in the Park</groundspeak:name>
+      <groundspeak:placed_by>Rrrbt202</groundspeak:placed_by>
+      <groundspeak:owner id="4299326">Rrrbt202</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Small Micro in a Park. EC#1
+
+BYOP and Log removal tool.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Hidden on the edge of a very popular park. Muggles all the time. Must be careful. Park open dawn to dusk. Bring your dog on a leash. 
+Thanks to Korat for the idea.
+Difficulty is for muggles and the cache.
+
+Congratulations to bpp_picnic for FTF and Deb3day for STF.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Not a bison tube in a pine tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="297707479">
+          <groundspeak:date>2013-03-09T21:40:25Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Neat one. Found by the youngest member of our group</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

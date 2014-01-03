@@ -1,0 +1,80 @@
+<wpt lat="40.0066" lon="-75.620583" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-09-27T07:00:00Z</time>
+    <name>GC1GNK6</name>
+    <desc>Bobby's Toy Box by BKormann, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=bfef186c-1441-4e24-8f79-d40d8e93ef56</url>
+    <urlname>Bobby's Toy Box</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1009833" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bobby's Toy Box</groundspeak:name>
+      <groundspeak:placed_by>BKormann</groundspeak:placed_by>
+      <groundspeak:owner id="739562">ajkormann</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Lock-and-lock with toys for kids.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Placed with permission from West Whiteland Township.
+You are looking for a 4 liter, camo'd lock-and-lock, just to the west of the playground at Boot Road Park in West Whiteland, PA. Please use Parking Entrance coords, do not approach from neighborhood from South.
+
+A kid's cache, stocked with Toys selected by my son, Bobby. Feel free to trade or take a toy. Bobby will be watching this cache, as he has a special interest in it - it has toys! Please try to bring a kid with you since this newest park of West Whiteland is wonderful.
+
+Congrats to deb3day on the FTF.
+
+And don't forget: Play-Cache-Play!
+
+West Whiteland Park Rules:
+1. Hours - The parks shall be open between the hours of sunrise and sunset. At sunset, all activities in the parks
+shall cease and all persons in the parks shall leave as soon as possible (except for those activities specially
+permitted by the Township).
+2. Facilities - The reserved use of Township parks such as recreation fields and other facilities by organized
+groups or individuals shall be scheduled at the discretion of the Township, a permit shall be issued specifying
+the date, time and location of the use and such use shall be subject to any conditions that may be imposed
+thereunder.
+3. Alcoholic Beverages - No individual or group shall possess or consume any alcoholic and/or intoxicating
+beverages in any park unless specifically granted permission by the Board of Supervisors.
+4. Personal Conduct – No individual or group shall engage in improper conduct within the parks so as to annoy or
+risk injury to any other person using the parks or occupying adjacent property.
+5. Disposal of Waste - All waste and garbage shall be disposed of in receptacles designated for this purpose. The
+burning of trash or garbage is prohibited. It is unlawful to transport trash, garbage or any other matter to any
+park for the purpose of disposal.
+6. Township Property - No person shall damage, deface, destroy or remove any park property, including but not
+limited to: signs, structures, equipment, natural growth or other material.
+7. Motor Vehicles –No person shall operate, stop or park any motor vehicle except on park roads, parking areas or
+other areas so designated for such use. Nor shall any person operate any motor vehicle in a reckless or
+negligent manner, in excess of the posted speed limit, or in such a manner as to become a nuisance to other
+park users or persons occupying adjacent property
+8. Firearms - No person other than an officer of the law shall carry any firearm within the limits of the parks.
+9. Building of Fires - No person shall set or maintain any fire in the parks except in stoves or grills or fireplaces
+maintained for the purpose and located by authority of the Township.
+10. Pets/Animals - Pets/animals are not allowed in the parks.
+11. Notices - No person shall deface or destroy any notice, or sign posted at any place within the parks or open
+space areas by authority of the Township, nor shall any person post any notice or placard at any place within
+the parks other than by authority of the Township.
+12. Dangerous Athletic Equipment - No person shall use javelins, arrows, discus or similar athletic equipment
+dangerous in character unless the Township has expressly permitted the use. The use of baseballs (hardball)
+is limited to developed ball fields.
+13. Sound Equipment - No person shall use any sound amplification equipment in a Township park.
+14. Explosives and Fireworks - No person shall have in his/her possession or ignite any fireworks (fireworks shall
+be defined by the National Fire Protection Association standards).
+15. Golf - The playing or practicing of golf is prohibited.
+16. Skateboards - The use of skateboards is prohibited.
+17. All terrain vehicles (ATV’s), mini-bikes, dirt bikes, trailers, and commercial vehicles (except those making
+deliveries) are prohibited.
+18. Boot Road Park – Ball fields located at Boot Road Park are for baseball and softball use only.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="155178322">
+          <groundspeak:date>2011-04-17T23:08:37Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">First GPS read had us looking in the wrong place, but a quick look at the map fixed us up. Found with dawnie22 and our girls. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

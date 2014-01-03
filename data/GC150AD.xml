@@ -1,0 +1,36 @@
+<wpt lat="38.992667" lon="-76.877117" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-03-03T08:00:00Z</time>
+    <name>GC150AD</name>
+    <desc>Son Of Safe Resource by cyberspnr, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6286259f-2bba-4033-a423-67602e614581</url>
+    <urlname>Son Of Safe Resource</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="661679" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Son Of Safe Resource</groundspeak:name>
+      <groundspeak:placed_by>cyberspnr</groundspeak:placed_by>
+      <groundspeak:owner id="1050672">cyberspnr</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">This is a quick cache and dash that is easily accessible.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Put away your GPS; you won't get much of a reading when you are at GZ.  Re-read the title and use your geosense.  This is a nano cache, so you will have to bring your own pen.
+
+This cache is very near the former location of "Safe Resource".
+
+Congratulations to iablublurr for FTF!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Think inside the box and let your fingers do the walking.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138970515">
+          <groundspeak:date>2010-12-21T20:53:59Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Required patience because of muggle traffic, but I got it. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

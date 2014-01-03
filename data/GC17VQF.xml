@@ -1,0 +1,34 @@
+<wpt lat="40.030317" lon="-75.704667" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-12-08T08:00:00Z</time>
+    <name>GC17VQF</name>
+    <desc>Rocking Horse by tomlubrano, Traditional Cache (4/4)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=03183a49-90e2-41c8-a157-c86be7b55cec</url>
+    <urlname>Rocking Horse</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="746652" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rocking Horse</groundspeak:name>
+      <groundspeak:placed_by>tomlubrano</groundspeak:placed_by>
+      <groundspeak:owner id="938524">tomlubrano</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>4</groundspeak:difficulty>
+      <groundspeak:terrain>4</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Steep trail but paved for most of the way. If you are going up go past the mark and look for a trail into the woods. If you are coming done the trail is quick to find on the right. Watch out for the creek and look for a horse that rocks that guards from a short distance.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="145976741">
+          <groundspeak:date>2011-02-21T22:08:12Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice trek the woods with dawnie22 and kids</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

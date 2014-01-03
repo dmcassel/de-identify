@@ -1,0 +1,40 @@
+<wpt lat="39.494183" lon="-76.236033" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-10-26T07:00:00Z</time>
+    <name>GC1HJJF</name>
+    <desc>Maryland House III--Bushwhacker's Delight by Son_of_Mt_Soma, Traditional Cache (3/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cff5ed9f-0c0d-4604-b6ae-3e53ac92e6f3</url>
+    <urlname>Maryland House III--Bushwhacker's Delight</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1036719" available="False" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Maryland House III--Bushwhacker's Delight</groundspeak:name>
+      <groundspeak:placed_by>Son_of_Mt_Soma</groundspeak:placed_by>
+      <groundspeak:owner id="658550">Son_of_Mt_Soma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">A small cache hidden in the woods in the Maryland House Rest Stop off of I-95 in Harford County, MD.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The previous two caches at the Maryland House Rest Stop have proven to be very popular.  So, here is another one.  However, this one is the most difficult of the three.  It is located in the same woods as Maryland House I, but it is further into the woods.  Also there is no visible trail to work with.  There are just briers, rough terrain, and a couple of small streams to greet you.  For many geocachers though, this is just heaven.  Once you get to ground zero, it will be hard to believe that you are actually in the middle of one of the busiest interstates in the US.
+
+Like the other two caches here, please do not park on I-95 itself.  There is plenty of parking at the rest stop.
+
+Update (5 Nov 2008):  Added another hint.
+Update (7 Nov 2008):  Added another hint.</groundspeak:long_description>
+      <groundspeak:encoded_hints>(1) It is not in the obvious hiding place.  However, it is within 20 feet of it.
+(2) Location of the treasure--see theme song for the movie, "Billy Jack".  
+(3) If a movie from 1971 is too obscure, try listening better to the world around you (see Luke nineteen: forty).
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139038099">
+          <groundspeak:date>2010-12-23T02:05:34Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Aptly named! And while I wouldn't recommend it, it is possible to get this one in the dark with a flashlight. Be ready for an extra helping of briars. :)</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

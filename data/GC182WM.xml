@@ -1,0 +1,36 @@
+<wpt lat="40.076517" lon="-75.7556" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-12-23T08:00:00Z</time>
+    <name>GC182WM</name>
+    <desc>The Little Church by GeoDuoDudes, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4fbf0618-50eb-413a-8ecb-45a6f5d0281b</url>
+    <urlname>The Little Church</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="753508" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The Little Church</groundspeak:name>
+      <groundspeak:placed_by>GeoDuoDudes</groundspeak:placed_by>
+      <groundspeak:owner id="1365422">Geo4Dudes</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Perhaps the smallest church in America.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The sign outside the church reads:  "The Little Church, 1928, Francisco Gasparia Cannella.  Born Palermo, Italy, 1875.  Died 1952."  The story behind this small church is a sweet one.  Francisco Cannella came here from Italy in the 1920’s and worked in the nearby quarry.  Like many immigrants, he left his wife and children behind, until he raised enough money to bring his family to America.  Francisco even made a promise to God that he would go to church every day if God would allow him to bring his family from Italy.  God and Francisco's hard work paid off.  The only problem was that in order for Francisco to honor his pledge, he had to travel nine miles to the nearest Catholic Church in Downingtown in all kinds of weather on a dangerously winding road.  But the Italian stonemason was a man of his word, so he built the Little Church with his own hands, and each day until the day he died, he went there to thank God for bringing his family to America.
+
+The above information taken from the book, “Pennsylvania Curiosities” by Clark DeLeon (c. 2001).
+
+The "Little Church" is located in the area where my wife grew up, and where some of the descendants of Francisco Cannella still live.  Please be respectful of the church and land when visiting the cache.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Have a seat near the church and ponder where it may be...</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="168813183">
+          <groundspeak:date>2011-06-25T22:39:01Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find, neat church. Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

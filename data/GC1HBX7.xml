@@ -1,0 +1,32 @@
+<wpt lat="39.948583" lon="-75.18215" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-10-19T07:00:00Z</time>
+    <name>GC1HBX7</name>
+    <desc>Woof and Found by fatula, Traditional Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9cb7c5ff-cfec-4adc-ad0e-37c0b150554b</url>
+    <urlname>Woof and Found</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1030294" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Woof and Found</groundspeak:name>
+      <groundspeak:placed_by>fatula</groundspeak:placed_by>
+      <groundspeak:owner id="1343127">fatula</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">This is cache is open year round, 24 hours a day.</groundspeak:short_description>
+      <groundspeak:long_description html="False">No need to barking up the wrong tree on this cache.  Keep your nose low to the ground to sniff out this 50mL conical canister wrapped in black duct tape.</groundspeak:long_description>
+      <groundspeak:encoded_hints>In the cracked base of a BRIGHT point in the park</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133146628">
+          <groundspeak:date>2010-10-26T01:23:20Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Took me some time because of muggle activity, but I got it. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

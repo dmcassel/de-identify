@@ -1,0 +1,82 @@
+<wpt lat="40.080833" lon="-75.38435" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-07-26T07:00:00Z</time>
+    <name>GC1EGPT</name>
+    <desc>Home Cache Home #3 - KOP by Un Cachable, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f53b9aec-efea-4448-9ae1-38d6fdd339da</url>
+    <urlname>Home Cache Home #3 - KOP</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="945558" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Home Cache Home #3 - KOP</groundspeak:name>
+      <groundspeak:placed_by>Un Cachable</groundspeak:placed_by>
+      <groundspeak:owner id="958837">UnNamed</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;font size="7"
+face="Arial Black"&gt;&lt;font color="#FF6600"&gt;Home&lt;/font&gt;
+&lt;font color="#008000"&gt;Cache&lt;/font&gt;
+&lt;font color="#FF6600"&gt;Home&lt;/font&gt;
+&lt;font color="#800000"&gt;#3&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;hr /&gt;
+&amp;nbsp; 
+&lt;p&gt;&lt;b&gt;&lt;font size="5" face="ReservoirGrunge" color="#800000"&gt;Have
+you seen this before?&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;font size="4" face="Arial Black"&gt;&lt;font color="#008080"&gt;You can
+get close, but your GPS will bounce.&lt;/font&gt; A
+&lt;font color="&amp;lt;br"&gt;micro container&lt;/font&gt; with a log only.
+&lt;font color="#008080"&gt;Please bring writing tool and your&lt;/font&gt;
+&lt;font color="#FF3300"&gt;only need to records your date and
+initials&lt;/font&gt;.&lt;/font&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;img src="http://www.9key.com/images/cache_icons/lunch.gif"
+alt="A good cache for your lunchtime" align="middle" border="1"
+width="29" height="29" /&gt; Lunchtime Cache
+&lt;img src="http://www.9key.com/images/cache_icons/thorn0.gif"
+alt=" No Thorns" align="middle" border="1" width="29"
+height="29" /&gt; No Thorns
+&lt;img src="http://www.9key.com/images/cache_icons/handicap0.gif"
+alt="No Wheelchair Access" align="middle" border="1" width="29"
+height="29" /&gt; No Wheelchair Access
+&lt;img src="http://www.9key.com/images/cache_icons/dog2.gif"
+alt="Dogs Allowed" align="middle" border="1" width="29"
+height="29" /&gt; Dogs Allowed
+&lt;img src="http://www.9key.com/images/cache_icons/bike2.gif"
+alt="Bikes permitted" align="middle" border="1" width="29"
+height="28" /&gt; Bicycles permitted on paths
+&lt;img src="http://www.9key.com/images/cache_icons/car.gif"
+alt="Car " align="middle" border="1" width="29" height="29" /&gt; Less
+than 500 ft. from car to cache
+&lt;img src="http://www.9key.com/images/cache_icons/grab.gif"
+alt="Park n Grab" align="middle" border="1" width="29"
+height="29" /&gt; Park and Grab
+&lt;img src="http://www.9key.com/images/cache_icons/cactus0.gif"
+alt="Cactus" align="middle" border="1" width="29" height="29" /&gt; No
+Cactus Nearby
+&lt;img src="http://www.9key.com/images/cache_icons/pw.gif"
+alt="Muggles" align="middle" border="1" width="29" height="29" /&gt;
+Beware of Muggles
+&lt;img src="http://www.9key.com/images/cache_icons/pencil.gif"
+alt="pencil" align="middle" border="1" width="29" height="28" /&gt;
+Bring a pen or pencil&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;br /&gt;
+&amp;nbsp;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="162923645">
+          <groundspeak:date>2011-05-27T02:20:09Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find, TFTC. A big truck conveniently blocked the view of any muggles. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

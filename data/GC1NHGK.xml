@@ -1,0 +1,34 @@
+<wpt lat="40.057933" lon="-75.655133" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-03-10T07:00:00Z</time>
+    <name>GC1NHGK</name>
+    <desc>Park Un Ride - Heritage Center by UnNamed, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=33036fad-444d-4fdd-b53b-1b2a7619f1e2</url>
+    <urlname>Park Un Ride - Heritage Center</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1154864" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Park Un Ride - Heritage Center</groundspeak:name>
+      <groundspeak:placed_by>UnNamed</groundspeak:placed_by>
+      <groundspeak:owner id="958837">UnNamed</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Lots of Parking.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135377354">
+          <groundspeak:date>2010-11-11T22:02:49Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find while out on an errand. TFTC! </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

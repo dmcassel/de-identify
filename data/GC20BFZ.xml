@@ -1,0 +1,32 @@
+<wpt lat="40.087087" lon="-75.38911" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-10-27T07:00:00Z</time>
+    <name>GC20BFZ</name>
+    <desc>King of 'Cashia' by aarohed, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b260dbf5-bbe9-4c78-8b98-7f8d3fb36bff</url>
+    <urlname>King of 'Cashia'</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1446988" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>King of 'Cashia'</groundspeak:name>
+      <groundspeak:placed_by>aarohed</groundspeak:placed_by>
+      <groundspeak:owner id="2645855">aarohed</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Public Parking lot; BYOP and lots of "cache"...</groundspeak:short_description>
+      <groundspeak:long_description html="False">MICRO cache; lots of Muggles, in public parking lot of mall. Parking plentiful in the area. Enjoy your shopping!!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>14E</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137753545">
+          <groundspeak:date>2010-12-03T03:53:17Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">This was my second try, but this time I got it. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

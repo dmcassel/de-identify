@@ -1,0 +1,37 @@
+<wpt lat="50.003917" lon="8.275317" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-03-06T08:00:00Z</time>
+    <name>GC1NANX</name>
+    <desc>Pegeluhr Mainz by Lamima, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=67c27109-b2bc-492e-82cd-97d0afb50c05</url>
+    <urlname>Pegeluhr Mainz</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1148301" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Pegeluhr Mainz</groundspeak:name>
+      <groundspeak:placed_by>Lamima</groundspeak:placed_by>
+      <groundspeak:owner id="1979323">Lamima</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Rheinland-Pfalz</groundspeak:state>
+      <groundspeak:short_description html="False">die alte Pegeluhr in Mainz</groundspeak:short_description>
+      <groundspeak:long_description html="False">Durch unsere Spaziergänge am Rhein entlang sind wir auf dieses Relikt analoger Zeiten gestoßen.
+Hier kann man bei jeder Wetterlage ablesen wieviel Wasser der Rhein gerade führt - und ab jetzt führt zumindest die nähere Umgebung auch einen Cache.
+Viel Spaß beim suchen und dem genießen der Umgebung, wünschen
+
+Lamima</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="171300565">
+          <groundspeak:date>2011-06-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22, 19acassel, LNRC, GrandmaMoses and our younger daughter.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

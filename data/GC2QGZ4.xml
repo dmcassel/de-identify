@@ -1,0 +1,41 @@
+<wpt lat="39.7781" lon="-76.006417" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-03-19T07:00:00Z</time>
+    <name>GC2QGZ4</name>
+    <desc>Listen - You Smell Something? by rflester, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8e213144-0a0f-4601-86d9-723f89ba70da</url>
+    <urlname>Listen - You Smell Something?</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2137425" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Listen - You Smell Something?</groundspeak:name>
+      <groundspeak:placed_by>rflester</groundspeak:placed_by>
+      <groundspeak:owner id="477668">rflester</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Located at a small community park outside of Oxford.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Located at the Oxford Area Regional Park.  The sewage treatment plant is nearby, hence the name (with a nod to Ghostbusters).  This is a fairly new park just begging for a cache to be placed here.  A typical cache hide, this should be an easy find for experienced and novice cachers alike. Making the find may be difficult at times - you'll see why when you get there.  As always, use stealth when needed.   Park is open from dawn to dusk.
+
+A hint will be provided if DNFs start to pile up.
+
+This cache is NOT accessible from the Rt. 1 bypass!  Use the Rt. 472 exit and navigate off road from there.  It appears that auto navigation won't be much good - it'll do it's best to put you on the bypass.
+
+I've added a link to the Oxford Recreation website so that you can see the future plans they have for this area.
+
+Congrats to $hunter for the FTF!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="221154104">
+          <groundspeak:date>2012-03-25T20:20:58Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find on our way back home. Found with dawnie22.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

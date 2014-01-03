@@ -1,0 +1,40 @@
+<wpt lat="32.769283" lon="-79.928833" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2001-10-08T07:00:00Z</time>
+    <name>GC22B0</name>
+    <desc>White Point by TVN &amp; PDD, Virtual Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d16ebbc0-6205-4429-9cab-025e48901df6</url>
+    <urlname>White Point</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Virtual Cache</type>
+    <groundspeak:cache id="8880" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>White Point</groundspeak:name>
+      <groundspeak:placed_by>TVN &amp; PDD</groundspeak:placed_by>
+      <groundspeak:owner id="2695">TVN</groundspeak:owner>
+      <groundspeak:type>Virtual Cache</groundspeak:type>
+      <groundspeak:container>Virtual</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>South Carolina</groundspeak:state>
+      <groundspeak:short_description html="True">This park is one of the most visited sites in Charleston. It
+features beautiful live oaks, incredible views and many historical
+monuments and memorials.</groundspeak:short_description>
+      <groundspeak:long_description html="True">This area was named "White Point" or "Oyster Point" in 1670 by the
+original colonists of Charles Town. Learn a lot of history, have a
+relaxing picnic lunch, enjoy a leisurely stroll and great views. 
+&lt;p&gt;To log the cache, locate the coordinates above and email the
+&lt;b&gt;two&lt;/b&gt; years found on the Geodetic Survey marker (small brass
+disc set into concrete). How accurate was your GPS?&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136132691">
+          <groundspeak:date>2010-11-17T02:44:33Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Windy at the point tonight! Or is it like that all the time? </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

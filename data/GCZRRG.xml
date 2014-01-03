@@ -1,0 +1,41 @@
+<wpt lat="38.776733" lon="-77.059833" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-12-11T08:00:00Z</time>
+    <name>GCZRRG</name>
+    <desc>One Degree of Separation:  WWCD by WWCD, Traditional Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=89540194-281c-4cf3-811b-32f54a2dbc0e</url>
+    <urlname>One Degree of Separation:  WWCD</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="506434" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>One Degree of Separation:  WWCD</groundspeak:name>
+      <groundspeak:placed_by>WWCD</groundspeak:placed_by>
+      <groundspeak:owner id="442120">WWCD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Virginia</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">This cache was hidden as part of the One Degree of Separation Geocaching Project.
+
+This is a seed that came from: CacheAbel's - Lettie (GCWBKV)by NetworkCacher
+
+The cache:
+
+Your typical hide -- in a shopping center.  The cache is a micro and contains only a log.  BYOP.  Spring and Summer difficulty is higher than in the Winter.
+
+Congratulations to CliffMcC31 on the FTF</groundspeak:long_description>
+      <groundspeak:encoded_hints>Don't let this one stump you. It is on the shopping center side; you can park within two feet.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="134420245">
+          <groundspeak:date>2010-11-04T02:56:21Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it at night. Good thing I keep a flashlight handy. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,38 @@
+<wpt lat="39.955733" lon="-75.167233" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-03-18T07:00:00Z</time>
+    <name>GC2572H</name>
+    <desc>The Black Sculpture by SteveSquirrel (adopted by Delphineous), Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b5155c8e-dd45-46ea-abf5-5668b7d5f67f</url>
+    <urlname>The Black Sculpture</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1591683" available="False" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The Black Sculpture</groundspeak:name>
+      <groundspeak:placed_by>SteveSquirrel (adopted by Delphineous)</groundspeak:placed_by>
+      <groundspeak:owner id="2925341">delphineous</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">This should be a quick park and grab. The area will probably be quite muggle heavy during normal business hours so please use stealth.
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">The local sculptures are one of the things that make Philly a wonderful place for Art. I gave it a 1.5 difficulty due to high muggle activity and stealth being required.&lt;br /&gt;
+&lt;br /&gt;
+Thank you SteveSquirrel for placing this cache and getting me started on this fun game!&lt;br /&gt;
+&lt;br /&gt;
+If you scan QR code-style codes, you might be interested in this &lt;a href="http://www.munzee.com/m/Delphineous/1/"&gt;related hide&lt;/a&gt;.
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>magnetic nano</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133175363">
+          <groundspeak:date>2010-10-26T08:05:04Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick cache &amp; go. The log is about full. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

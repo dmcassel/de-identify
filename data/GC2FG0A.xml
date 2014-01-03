@@ -1,0 +1,33 @@
+<wpt lat="39.935367" lon="-76.809733" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-09-20T07:00:00Z</time>
+    <name>GC2FG0A</name>
+    <desc>York County Sunday Drive # 18 by ghost9mm, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2d0f0e11-d5c6-46cb-8dfe-434f6d73cc6c</url>
+    <urlname>York County Sunday Drive # 18</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1898173" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>York County Sunday Drive # 18</groundspeak:name>
+      <groundspeak:placed_by>ghost9mm</groundspeak:placed_by>
+      <groundspeak:owner id="459906">ghost9mm</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">When we were kids, after church on Sunday my Dad would go for a Sunday drive, we would aways end up at grandma's house...gas was about 25 cents a gallon.. This series are all guardrail or sign post caches and are all keyholders. Nothing difficult here, all I ask is take the time to put things back the right way..there is parking for at least one car.. BRING A PEN</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>None...</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="174407312">
+          <groundspeak:date>2011-07-22T18:15:09Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find on my way home from a business trip. The bag isn't sealing (it's torn near the seal), and the log was damp. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

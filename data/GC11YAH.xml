@@ -1,0 +1,47 @@
+<wpt lat="39.87245" lon="-75.6685" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-04-05T07:00:00Z</time>
+    <name>GC11YAH</name>
+    <desc>Indian Hannah by SquirtGunn, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1bbd90a8-e4e2-4548-b403-1f8676c1c557</url>
+    <urlname>Indian Hannah</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="570388" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Indian Hannah</groundspeak:name>
+      <groundspeak:placed_by>SquirtGunn</groundspeak:placed_by>
+      <groundspeak:owner id="718637">SquirtGunn</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">INDIAN HANNAH (1730 - 1802)
+
+The last of the Indians in Chester County, was born in the vale about 300 yards to the east on the land of the protector of her people the Quaker Assemblyman, William Webb.  Her mother was Indian Sarah and her grandmother was Indian Jane.
+
+Their totem: the tortoise.
+The Lenape creation myth maintains that Kishelemukong, the Creator, brought a turtle up from the ocean.  It grew into an island (North America).  The first men and women sprouted from a tree on the turtle’s back.
+
+About the time Indian Hannah was born there was an influx of English, Scotch-Irish, and German settlers who ignored colonial land laws protecting Indians. Europeans wanted all the land.  Most Lenapes were pushed west to the Susquehanna and Ohio river valleys or died of war and European diseases like smallpox and malaria.
+
+Indian Hannah lived along the Brandwine and made baskets and brooms and sold herbs. She was know as a healer.
+
+___________________________________________________
+
+This area is not plowed in the winter.
+BYOP</groundspeak:long_description>
+      <groundspeak:encoded_hints>east corner</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137275934">
+          <groundspeak:date>2010-11-27T23:29:27Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22 on our way to LG. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

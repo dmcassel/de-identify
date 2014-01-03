@@ -1,0 +1,41 @@
+<wpt lat="30.403883" lon="-97.72845" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-03-08T08:00:00Z</time>
+    <name>GC2NXHX</name>
+    <desc>What Would You Do - Take 2 by Bigguy  In  Texas, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4845a034-f912-450e-9822-63c97d370800</url>
+    <urlname>What Would You Do - Take 2</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2088996" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>What Would You Do - Take 2</groundspeak:name>
+      <groundspeak:placed_by>Bigguy  In  Texas</groundspeak:placed_by>
+      <groundspeak:owner id="601992">Bigguy  In  Texas</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Texas</groundspeak:state>
+      <groundspeak:short_description html="False">What would you do if you came looking or a cache that later turned out to have been archived?</groundspeak:short_description>
+      <groundspeak:long_description html="False">Hide another one in (almost) the same spot of course!!!!!
+
+It seems I don't get out to cache as much as I should (must be busy with hiding caches, I guess)and I missed that this one was gone.
+
+No matter, I turned this DNF into another one in my hides column.
+
+Good luck and use the handy pull off to park!
+
+Congrats to The GeoBunch for the FTF honors (their first)!!!!!!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="186277126">
+          <groundspeak:date>2011-09-12T23:03:34Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find, and I'm glad because it is crazy hot out here. I'm in town for a few days from PA -- 70 degrees there, 100 here. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

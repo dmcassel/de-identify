@@ -1,0 +1,33 @@
+<wpt lat="40.131283" lon="-76.217567" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-04-07T07:00:00Z</time>
+    <name>GC1B142</name>
+    <desc>Muggles' Air_ea by geospheres, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=00ffcd4d-2ae4-44e3-a6d3-b6d6a8e68bed</url>
+    <urlname>Muggles' Air_ea</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="841189" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Muggles' Air_ea</groundspeak:name>
+      <groundspeak:placed_by>geospheres</groundspeak:placed_by>
+      <groundspeak:owner id="465282">geospheres</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Needed something fun to do as one bleeds their wallet filling their tank.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Caching is getting so expensive driving around collecting smiley's, we thought we'd put out a couple close together.  Love the smileys.  Enjoy the fun.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="125212437">
+          <groundspeak:date>2010-09-05T02:43:02Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Had to wait a couple minutes for a muggle, but got it pretty quickly. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

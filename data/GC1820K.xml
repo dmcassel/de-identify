@@ -1,0 +1,39 @@
+<wpt lat="40.043283" lon="-75.785067" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-12-21T08:00:00Z</time>
+    <name>GC1820K</name>
+    <desc>Drake's 322 Break Cache by WhiteClayLover, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e89f3507-7144-4402-b9a0-d5486e390332</url>
+    <urlname>Drake's 322 Break Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="752670" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Drake's 322 Break Cache</groundspeak:name>
+      <groundspeak:placed_by>WhiteClayLover</groundspeak:placed_by>
+      <groundspeak:owner id="905065">WhiteClayLover</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">A kid and dog friendly cache in Spatola Memorial Park.</groundspeak:short_description>
+      <groundspeak:long_description html="False">My Gordon Setter Drake is my constant companion on caching runs. Since we have been traveling between Downingtown and Ephrata a few times lately, we decided it was time to place a cache along 322 to help others with kids and dogs that might enjoy a little leg stretch along the way.
+This is an ammo can painted brown. It should be a pretty easy find!</groundspeak:long_description>
+      <groundspeak:encoded_hints>rocky hide not far from the pile of rrts</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="207020789">
+          <groundspeak:date>2012-01-07T20:53:01Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Good path selection is handy for avoiding prickers. Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="207035076">
+          <groundspeak:date>2012-01-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Picked up the Right Shoe...start walking travel bug</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

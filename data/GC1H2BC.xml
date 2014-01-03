@@ -1,0 +1,40 @@
+<wpt lat="50.006383" lon="8.275917" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-10-10T07:00:00Z</time>
+    <name>GC1H2BC</name>
+    <desc>grenzwertig by ViTho, Traditional Cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6779d075-c0b9-4fd0-bf52-536342cd4707</url>
+    <urlname>grenzwertig</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1021123" available="False" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>grenzwertig</groundspeak:name>
+      <groundspeak:placed_by>ViTho</groundspeak:placed_by>
+      <groundspeak:owner id="1313402">ViTho</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Rheinland-Pfalz</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Ein einfacher Tradi an exponierter Stelle. Am besten zu Fuß oder
+mit dem Rad angehen, alles andere wird schwierig...&lt;/p&gt;
+&lt;p&gt;Es ist nicht vorgesehen, dass die umliegenden Verkehrswege an
+nicht dafür gedachten Stellen überquert werden!&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Die Dose befindet sich auf der nördlichen Seite der Brücke.
+Wenn ihr trotzdem falsch seid, dann lauft bitte zur nächsten
+Fußgängerampel zurück! Es ist lebensgefährlich, die Fahrbahn auf
+der Brücke zu überqueren!!&lt;/b&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>wozu?</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="171301604">
+          <groundspeak:date>2011-06-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">I think this is the first time I've found a cache on a bridge. Found with dawnie22, 19acassel, LNRC, GrandmaMoses, and our youngest daughter. Loved this view of the Rhein.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

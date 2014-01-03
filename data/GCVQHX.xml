@@ -1,0 +1,59 @@
+<wpt lat="39.97585" lon="-75.682717" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-04-29T07:00:00Z</time>
+    <name>GCVQHX</name>
+    <desc>Gibson's Bridge Cache by RoyalRed, Traditional Cache (3/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c70af261-e377-4715-accf-d916ecbdb100</url>
+    <urlname>Gibson's Bridge Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="386104" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Gibson's Bridge Cache</groundspeak:name>
+      <groundspeak:placed_by>RoyalRed</groundspeak:placed_by>
+      <groundspeak:owner id="192798">RoyalRed</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">An "Off-Shoot" of the G-Seekin" Six I See A Bridge! Seed Cache!</groundspeak:short_description>
+      <groundspeak:long_description html="True">Parking available off Harmony Hill Road. 
+&lt;p&gt;&lt;b&gt;DO NOT ATTEMPT TO PARK ALONG ROUTE 322 OR CROSS BRIDGE FROM
+322. ACCESS IS ONLY POSSIBLE FROM HARMONY HILL ROAD!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The G-Seekin' Six recently placed a "Seed" cache and this is one
+of its off spring. A micro container hidden at one of Chester
+County's covered bridges. GPS reception is not the greatest near
+the bridge. Reference the cited web location for additional
+information concerning the
+bridge.http://william-king.www.drexel.edu/top/bridge/CBHarmony.HTML&lt;/p&gt;
+&lt;center&gt;&lt;a rel="nofollow" href="http://www.sepag.us"&gt;&lt;img src=
+"http://home.comcast.net/~sepag/sepagbanner1.gif" border="0"&gt;
+&lt;/a&gt;&lt;br&gt;
+ &lt;b&gt;Click to Visit the SEPAG Homepage &amp;amp; Forums&lt;/b&gt;&lt;/center&gt;
+&lt;p&gt;&lt;b&gt;EARLY SUMMER FLOOD OF 2006 UPDATE:&lt;/b&gt; Cache was washed away
+by this flood. Once you locate the cache you will see how high the
+water level actually was!&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Rocks out of place near one of the bridge's tie down rods will give this one away.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132705942">
+          <groundspeak:date>2010-10-23T22:43:12Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found plenty of prickers, but no cache. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134734127">
+          <groundspeak:date>2010-11-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Second try on this one with dawnie22. I'm sure I'll kick myself when I find it eventually. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="153999698">
+          <groundspeak:date>2011-04-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">At long last, we have the smiley!!! It only took 4 or 5 visits -- I kept looking on the wrong side. Found with dawnie22 and our girls. Thanks for the challenge.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,39 @@
+<wpt lat="39.3901" lon="-76.439917" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-02-12T08:00:00Z</time>
+    <name>GC1MMB7</name>
+    <desc>View of I-95 by Jag44, Traditional Cache (2/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=10717b89-ba49-4856-98a3-d4f312559c29</url>
+    <urlname>View of I-95</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1127789" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>View of I-95</groundspeak:name>
+      <groundspeak:placed_by>Jag44</groundspeak:placed_by>
+      <groundspeak:owner id="347171">jag44</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">What happens when they build a new bridge next to the old bridge?
+Well they make a new road of course. Good thing for us because
+these sites make great Geo hide locations. Here is one of them that
+even the kids can do but you still have to be careful because of
+the main road only a couple of yards away. This one is magnetic but
+does not look magnetic. If you drive to the end of the cal de sac
+you have a good view of I-95.</groundspeak:long_description>
+      <groundspeak:encoded_hints>It is not on the guardrail and it is not electric, but it looks like it could be ;-)</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138777977">
+          <groundspeak:date>2010-12-18T23:09:41Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22 on our way down I-95.  TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,36 @@
+<wpt lat="40.02095" lon="-75.670567" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-08-31T07:00:00Z</time>
+    <name>GC15J9N</name>
+    <desc>Off Your Rocker - Downingtown, PA by SquirtGunn, Traditional Cache (3/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=05f2d98f-7d20-4dbc-b241-1463c78aae30</url>
+    <urlname>Off Your Rocker - Downingtown, PA</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="678954" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Off Your Rocker - Downingtown, PA</groundspeak:name>
+      <groundspeak:placed_by>SquirtGunn</groundspeak:placed_by>
+      <groundspeak:owner id="718637">SquirtGunn</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">I won this container at the Flash Mob PrizeHunt event in Philadelphia a week ago and wanted to place it right away.  The placement is not too sneaky.  BYOP</groundspeak:short_description>
+      <groundspeak:long_description html="False">The reason for the 3star Difficulty is because of muggle activity, inside and outside, they will be watching you. Please sit and talk on your cell or tie your shoe while retrieving cache.
+
+Please exercise good geocaching etiquette and be respectful of hours when store is open:
+Sun - Th:   6:00am - 10:00pm
+Fri + Sat:  6:00am - 11:00pm</groundspeak:long_description>
+      <groundspeak:encoded_hints>CON/NOR</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136401447">
+          <groundspeak:date>2010-11-20T04:57:53Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Had to wait for a muggle to move on, but found it with dawnie22. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

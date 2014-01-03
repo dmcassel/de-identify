@@ -1,0 +1,41 @@
+<wpt lat="40.2908" lon="-75.54435" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-05-23T07:00:00Z</time>
+    <name>GC29350</name>
+    <desc>Bridge of Dreams by koikeeper &amp; ImpalaBob, Traditional Cache (3/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=57886c45-cc4a-469f-8bf8-5c9cd8d752d3</url>
+    <urlname>Bridge of Dreams</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1707079" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bridge of Dreams</groundspeak:name>
+      <groundspeak:placed_by>koikeeper &amp; ImpalaBob</groundspeak:placed_by>
+      <groundspeak:owner id="342450">koikeeper</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">The Bridge of Dreams was built and dedicated in 2009 but has yet to be opened for vehicular traffic.</groundspeak:short_description>
+      <groundspeak:long_description html="False">This is a log-only cache so bring a pen or pencil. Please rehide the cache as you found it.
+
+When you log your find, please do not reveal what you found or include any spoilers. Also, if you touch or remove anything, please replace as found!
+
+You can walk on the bridge but the cache is not on or under the bridge. And please, NO NIGHT CACHING!
+
+Best way to access the area is to come south on Colonial Road from Rt. 73. There is parking on the right before the Road Closed sign in a small stone parking lot for the Constable Charles Speelhoffer Memorial Park at N40 17.485 W075 32.596. If you try to access it from the other side, the road is closed and it is a much longer walk. 
+
+If you come in from Rt. 73, you will pass a stone house on the left. This house was designed and built by Henry Antes in 1736. It was designated a National Historic Landmark on April 27, 1992 and is the Historic House Museum of the Goschenhoppen Historians, Inc. If you have time, check it out while you're here.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="158507387">
+          <groundspeak:date>2011-05-01T23:11:43Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22. Sneaky!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

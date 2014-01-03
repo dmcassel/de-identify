@@ -1,0 +1,34 @@
+<wpt lat="39.949383" lon="-75.97375" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-02-23T08:00:00Z</time>
+    <name>GC2P8K1</name>
+    <desc>More Cowbell? by The GutterBoys, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b7fe9ded-d41c-420d-a59b-3fd1d260d1e7</url>
+    <urlname>More Cowbell?</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2099602" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>More Cowbell?</groundspeak:name>
+      <groundspeak:placed_by>The GutterBoys</groundspeak:placed_by>
+      <groundspeak:owner id="344862">The GutterBoys</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Quick little find, with a little bit of history.</groundspeak:short_description>
+      <groundspeak:long_description html="False">We love the Will Farrell skit on Saturday Night Live where he is playing the cowbell.  This actually isn't a cowbell, but the town bell that dates back to 1898.  Please read the historical sign next to the cache to learn the history of the bell.  Stealth will be required and please BYOP.
+
+Happy Caching!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Up and under.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="190835988">
+          <groundspeak:date>2011-10-05T16:57:43Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Took us just a couple minutes -- and a helpful cachet across the street. :) Found with dawnie22. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

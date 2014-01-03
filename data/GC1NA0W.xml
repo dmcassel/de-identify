@@ -1,0 +1,40 @@
+<wpt lat="40.129433" lon="-76.2196" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-03-03T08:00:00Z</time>
+    <name>GC1NA0W</name>
+    <desc>I need some Tyle(r)nol! by mcjeeper and stukboy, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a52fb44c-4ca8-48bd-8419-ae8b61c9405c</url>
+    <urlname>I need some Tyle(r)nol!</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1147649" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>I need some Tyle(r)nol!</groundspeak:name>
+      <groundspeak:placed_by>mcjeeper and stukboy</groundspeak:placed_by>
+      <groundspeak:owner id="1766829">mcjeeper and stukboy</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Everytime stukboy and I see one of these man-made creations, the first thing that comes to mind is: geocache!
+
+Be aware of your surroundings... especially the office building windows close by.  We wouldn't want a sick muggle retrieving our container and using it as a barf bucket!
+
+Tyler, our 9-year-old son, came up with the clever name for the cache so we have dedicated this hide to him.  
+
+Good luck and have fun!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="125215377">
+          <groundspeak:date>2010-09-05T03:04:55Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Was getting dark, so we needed a flashlight, but we got it. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

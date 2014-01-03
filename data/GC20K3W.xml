@@ -1,0 +1,33 @@
+<wpt lat="39.751483" lon="-76.0248" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-11-02T08:00:00Z</time>
+    <name>GC20K3W</name>
+    <desc>Veterans TB Hotel by saraastm, Traditional Cache (2.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=978a90ea-bb87-4ce2-900f-50e7cd347a40</url>
+    <urlname>Veterans TB Hotel</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1454301" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Veterans TB Hotel</groundspeak:name>
+      <groundspeak:placed_by>saraastm</groundspeak:placed_by>
+      <groundspeak:owner id="2208407">saraastm</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Travel Bug Hotel that is easily accessible at a park and ride dedicated to WWII Veterans. Please use stealth, trade fairly, and re-hide better than you found it! Use the hint...coords may not be completely accurate!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Which pine to look behind? Follow "path" along guardrail towards Route 1. You will see two big pine trees. Cache is at the base of one of them.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="134512102">
+          <groundspeak:date>2010-11-05T03:01:15Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find. I concealed it a little better than I'd found it. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

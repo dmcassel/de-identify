@@ -1,0 +1,41 @@
+<wpt lat="39.994283" lon="-75.70175" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-02-01T08:00:00Z</time>
+    <name>GC1MA68</name>
+    <desc>LGL#8 - Trestle Trail by Josephus (adopted by spoyd), Traditional Cache (2.5/3.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=879f1d7e-d9ca-4be4-928c-412437227aaf</url>
+    <urlname>LGL#8 - Trestle Trail</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1118025" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>LGL#8 - Trestle Trail</groundspeak:name>
+      <groundspeak:placed_by>Josephus (adopted by spoyd)</groundspeak:placed_by>
+      <groundspeak:owner id="1322170">spoyd</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>3.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">A regular sized cache near the old Low Grade line.</groundspeak:short_description>
+      <groundspeak:long_description html="False">After discussing with spoyd how we could continue the LGL series on the other side of this town landmark it occured to me that we could not leave such a huge span untouched. There is parking available at the coordinates listed, and a medium grade trail up to the long abandoned railbed. Please note there are numerous "No Tresspassing" signs to the left of the biking/foot trail, and there is no need to go onto that property. Follow the obvious trail keeping the trestle bridge to your right.
+
+Once you reach the railbed turn back towards the trestle bridge and locate the cache. Please be sure to cover and camo the container well, as muggles, vandals and "Diesel" frequent these  grounds. 
+
+To keep the foot traffic erosion down, I'm keeping this a "Members-Only" cache. Watch your footing, as I struggled on a snow-covered but beautiful day on these inclines.
+Feel free to post any photos from the overlook in the gallery.
+
+Give yourself 45 minutes to hike, search, log &amp; return to parking. Mud should be expected, but there are no water crossings. The terrain rating is based upon you sticking to the real trail, if you charge straight at it, it will be a 4.
+
+NOTE: If you decide to park at East Branch Brandywine Trial lot across the street please be VERY careful crossing this EXTREMELY busy road.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Switch contol box. Check your soles.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138148275">
+          <groundspeak:date>2010-12-08T18:41:33Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">A chilly day, but I got it. Not hard to find once you get up there. I walked out onto the bridge a bit to take in the view. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

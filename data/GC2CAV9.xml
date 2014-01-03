@@ -1,0 +1,35 @@
+<wpt lat="40.142417" lon="-75.546717" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-07-25T07:00:00Z</time>
+    <name>GC2CAV9</name>
+    <desc>Bowl Me Over by iamhewhoisnot, Traditional Cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=734c1c54-fbe9-42cc-933a-8d2fa8a63163</url>
+    <urlname>Bowl Me Over</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1803839" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bowl Me Over</groundspeak:name>
+      <groundspeak:placed_by>iamhewhoisnot</groundspeak:placed_by>
+      <groundspeak:owner id="3574397">iamhewhoisnot</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Should be easy to find, you can drive to location, but be careful as there are a lot of potholes and trash, etc. It's Behind the Building.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Cache is a brown Rx bottle with the label remove. Bottle contains instructions, a log, pencil, and a Blessed Miraculous Medal of Our Lady which came from Lebanon (as in the county located North of Israel in the Middle East) so the inscription on the medal in in written in French. English Translation of medal: "O Mary conceived without sin, pray for us who have recourse to you."  
+
+The medal is Blessed so please be respectful to and with it, regardless if you agree with Catholicism or not. Thank You.</groundspeak:long_description>
+      <groundspeak:encoded_hints>A bottle of pills that's easy on an old pallet.
+Right a few steps between 24 and 25 or Left between 25 and 24.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="184104833">
+          <groundspeak:date>2011-09-03T17:44:19Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find after lunch at Sly Fox. Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

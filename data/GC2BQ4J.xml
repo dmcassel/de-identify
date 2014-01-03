@@ -1,0 +1,39 @@
+<wpt lat="40.05615" lon="-75.666383" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-07-14T07:00:00Z</time>
+    <name>GC2BQ4J</name>
+    <desc>Mail a Red Lemon by hoagies and Mrs.Hoagie, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=60433249-d1a3-4c72-885e-d298edc85f1c</url>
+    <urlname>Mail a Red Lemon</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1785868" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Mail a Red Lemon</groundspeak:name>
+      <groundspeak:placed_by>hoagies and Mrs.Hoagie</groundspeak:placed_by>
+      <groundspeak:owner id="1409871">hoagies</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">It's traditional.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Our second cache is in honor of our daughters, whether they think we're nuts for geocaching or not.
+ 
+When the girls were little, we liked to use code to talk about things we didn't want them to know about. They quickly learned that when Mom and Dad were considering a stop at the "red lemon" they would be very happy!  We still enjoy our traditional visit to the "red lemon" once in a while... especially on a warm summer evening.  
+ 
+Enjoy a snack at the "red lemon" or post a letter during the day, there's plenty to do here.
+ 
+FTF is a gold dollar.  Congrats to deb3day for the FTF!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Skirting the obvious.
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="153999326">
+          <groundspeak:date>2011-04-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22 and our girls after dinner out. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

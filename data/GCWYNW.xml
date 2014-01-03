@@ -1,0 +1,37 @@
+<wpt lat="40.029433" lon="-75.51545" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-07-03T07:00:00Z</time>
+    <name>GCWYNW</name>
+    <desc>Behind The Battlefield by mrbyamile, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b082878d-0b3b-435c-ac72-4ff79c6c6bde</url>
+    <urlname>Behind The Battlefield</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="421784" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Behind The Battlefield</groundspeak:name>
+      <groundspeak:placed_by>mrbyamile</groundspeak:placed_by>
+      <groundspeak:owner id="702452">mrbyamile</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">This is a micro please bring a pen. The last bit of your walk is off the trail, but not what you'd call bushwhacking.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Maybe if "Mad" Anthony Wayne had hid his men back here instead of the open field, they would not have been "bushwhacked".
+
+
+For Upcoming Events
+http://www.ushistory.org/Paoli/info/events.htm</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="96028459">
+          <groundspeak:date>2010-01-23T21:35:08Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Never been to this park before - our daughters had the idea to check for a cache. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

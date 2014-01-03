@@ -1,0 +1,44 @@
+<wpt lat="47.489717" lon="11.096183" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-03-01T08:00:00Z</time>
+    <name>GC2PJ36</name>
+    <desc>Kufengaudi by gapkids2, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=36859a34-7a5d-4b82-9d81-c27fd3fc6419</url>
+    <urlname>Kufengaudi</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2108721" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Kufengaudi</groundspeak:name>
+      <groundspeak:placed_by>gapkids2</groundspeak:placed_by>
+      <groundspeak:owner id="3714924">gapkids2</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Bayern</groundspeak:state>
+      <groundspeak:short_description html="True">Dieser Cache ist ein schneller hin und mit.&lt;br /&gt;
+Er führt Euch zum Olympia-Eissportzentrum.&lt;br /&gt;
+Wer etwas mehr darüber erfahren möchte, kann sich auf der Tafel in der Nähe des Caches informieren.&lt;br /&gt;
+Parkmöglichkeiten gibt es vor Ort mehr als genug.&lt;br /&gt;
+Der Cache ist Rollstuhl geeignet.
+&lt;p&gt;Und nun viel Spaß beim Suchen.&lt;/p&gt;
+
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;&lt;img src="http://www.gemeindewerke-garmisch-partenkirchen.de/cms/images/stories/logooezneu2010.jpg" alt="Alternativtext zum Bild" border="0" height="200" width="270" /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;b&gt;Das Olympia-Eissport-Zentrum wurde für die Olympischen Winterspiele 1936 in Garmisch-Partenkirchen errichtet und gilt heute als eine der größten und modernsten Anlagen seiner Art in ganz Europa.&lt;br /&gt;
+Neben seiner Funktion als Bundesleitungszentrum für Curling und Eisstock trägt der SC Riessersee seine Heimspiele im Olympia-Eisstadion, das zum Gebäudekomplex des Olympia-Eissport-Zentrums gehört, aus.&lt;br /&gt;
+Das Eissport-Zentrum umfasst neben dem Olympia-Eisstadion eine zweite Halle mit Eisfläche und einer 670 Zuschauer fassenden Tribüne, zudem gibt es eine Curling-Halle mit drei Bahnen sowie eine Eisfläche im Freien mit einem Spielfeld für die Eisstockschützen.&lt;/b&gt;&lt;/p&gt;
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>der Cache soll bitte rohlstuhlgerecht bleiben, also bitte nicht besser verstecken</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="171302399">
+          <groundspeak:date>2011-07-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with LNRC while waiting for others who went up the mountain. They got it when they came back.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,33 @@
+<wpt lat="48.19785" lon="7.3209" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-09-14T07:00:00Z</time>
+    <name>GC1YN72</name>
+    <desc>point de vue de ribeauvillé by spinn18, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=29e8c51c-3898-45d1-b1bc-6de5d884dc53</url>
+    <urlname>point de vue de ribeauvillé</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1396740" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>point de vue de ribeauvillé</groundspeak:name>
+      <groundspeak:placed_by>spinn18</groundspeak:placed_by>
+      <groundspeak:owner id="765630">spinn&amp;krewette</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>France</groundspeak:country>
+      <groundspeak:state>Alsace</groundspeak:state>
+      <groundspeak:short_description html="True">cache à ne pas faire avant le 19/09/2009 merci</groundspeak:short_description>
+      <groundspeak:long_description html="True">point de vue de ribeauvillé point de vue souvent prisé par des
+jeunes qui ne sont pas toujours respectueux de l'environnement !</groundspeak:long_description>
+      <groundspeak:encoded_hints>mini grotte sous le cerisier</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="171136976">
+          <groundspeak:date>2011-07-07T04:42:54Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice walk in a beautiful vineyard. Here as part of a tour to take our daughters to Germany, France and England. Merci for bringing us up here! Found with dawnie22. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

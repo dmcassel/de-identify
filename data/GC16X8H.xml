@@ -1,0 +1,51 @@
+<wpt lat="39.984467" lon="-75.684167" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-10-23T07:00:00Z</time>
+    <name>GC16X8H</name>
+    <desc>Totally Tubular by bpp_picnic, Traditional Cache (1/3.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d4e20bd5-3928-4e2c-bfad-d99eb8c61549</url>
+    <urlname>Totally Tubular</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="718320" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Totally Tubular</groundspeak:name>
+      <groundspeak:placed_by>bpp_picnic</groundspeak:placed_by>
+      <groundspeak:owner id="864597">bpp_picnic</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>3.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">An easy hide in a new East Bradford Park</groundspeak:short_description>
+      <groundspeak:long_description html="False">[RED] NOTE*** New parking and access coordinates are listed [/RED]
+
+This is an easy cache located on a new East Bradford Park property. This park has lots of hills and trails but no organized sports fields. Here are a few things to remember:
+
+Hunting is permitted for members of the Brandywine Valley Archery Club only. They have tree stands that are marked with a white sign and they are throughout the property. Please try NOT to visit this park in the morning or evening from October to January as this is the best time for bow hunting. If there are pickup trucks parked at the parking area then there are probably hunters present.
+
+They are curently upgrading the trail system so some trails may be marked closed as they work on them. The cache is located just off one of the trails. No bushwacking is required. PLEASE stay on the trails. The trails are NOT paved and ARE steep in spots. This is a LONG walk and you will not always be going directly at the cache.
+
+There is a bike club that uses the trails also. They are die hard off-road cyclists so if you see them coming please get out of the way.
+
+I have had this container for some time and was just waiting to find a place to hide it. Please take your time when opening the container. Here is how it opens: You have to loosen the wing-nut and then pull the whole thing out like a stopper/plug/cork. Then to close you push it back in and then tighten the wing-nut to snug it up. I lost the original top and had to improvise. If it becomes a problem I will think of something else. There is a lot of swag in it but you will have to work on getting it out. Please let me know if there is any problem with the log and I will fix it. Please rehide better than you find it!
+
+There is only ONE place to park to enter the park trails. The roadway at the parking area is ONE WAY the wrong way from route 322, so you will have to find your way around to get to the parking.
+
+As with all township parks please follow the posted rules and the park is open dawn to dusk. Thanks for looking.
+
+Cograts to Whiteclaylover for the FTF !!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135205984">
+          <groundspeak:date>2010-11-09T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">It turns out you can get to this one from the Gibson's Bridge parking lot. Follow the white trail to the black-and-white trail. I'm not sure how the distance compares. 
+
+TFTC! </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

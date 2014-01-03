@@ -1,0 +1,92 @@
+<wpt lat="39.996267" lon="-75.748567" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-07-26T07:00:00Z</time>
+    <name>GC1EHC5</name>
+    <desc>Moms are the Best, TB Exchange by deb3day, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6fdcd8c1-1cac-4714-b929-ea75e3a5e6c9</url>
+    <urlname>Moms are the Best, TB Exchange</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="946189" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Moms are the Best, TB Exchange</groundspeak:name>
+      <groundspeak:placed_by>deb3day</groundspeak:placed_by>
+      <groundspeak:owner id="1606719">deb3day</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">4qt Lock N Lock hidden on the property of one of my favorite
+businesses in Thorndale.</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;font color="#FF0099"&gt;&lt;b&gt;IF YOU DO NOT INTEND ON LOGGING OR MOVING
+THE TRACKABLES, PLEASE DO NOT TAKE THEM!!!!! Please remember that
+trackables are other people's possessions. If you keep them, you
+are STEALING them!&lt;/b&gt;&lt;/font&gt; If you are new to caching, please
+read up on how to properly log trackables. Please visit
+http://www.geocaching.com/track/howto.aspx. As an owner of
+trackables, it is extremely frustrating to see them handled
+improperly. Proper logging is essential to know where your
+trackable is. If you have questions, I will gladly answer them.
+Email me!&lt;br /&gt;
+&lt;br /&gt;
+There are no TB Hotels close by, so I thought it was time to create
+one. I have been thinking about placing a cache outside of a
+business. Since this business is a personal favorite of mine and
+the owner knows me from visiting so often, I decided this was the
+place. I not only like what is sold here, but I love checking out
+the beautiful gardens both outside and inside. Please take some
+time to admire all of the beautiful plants. And check out
+what&amp;rsquo;s inside, because it is truly the best!&lt;br /&gt;
+&lt;br /&gt;
+This cache has been hidden with the permission of the business
+owner. Please respect his property and do NOT disturb any of the
+beautiful gardens. The cache is NOT hidden anywhere near his lovely
+plants.&lt;br /&gt;
+&lt;br /&gt;
+GPS units show the closest road as a small road off of Business Rte
+30. This is now a private road, so do not use it. Access should be
+from Business Rte 30. Because this is near a business, I would not
+recommend doing this after dark. Police may be suspicious of
+someone parking near a business at night poking around with a
+flashlight.&lt;br /&gt;
+&lt;br /&gt;
+The original contents of this are several TB&amp;rsquo;s and Geocoins
+that I collected specifically to get this cache started. Dropping
+off TB&amp;rsquo;s that need to move on is encouraged. I will try to
+keep this stocked with TB's and Geocoins so check back and use the
+cache to help some of your travelers along.&lt;br /&gt;
+&lt;br /&gt;
+I thank the business owner for allowing me to place my first cache
+and for letting all of the geocachers enjoy his gardens.&lt;br /&gt;
+&lt;br /&gt;
+Please, no swag. I prefer that the TB's be easy to see, and leave
+room for more.&lt;br /&gt;
+&lt;br /&gt;
+Please be careful with the camo and replace it as found.&lt;br /&gt;
+&lt;br /&gt;
+Congratulations to bpp_picnic for FTF!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136682503">
+          <groundspeak:date>2010-11-21T21:50:44Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137830706">
+          <groundspeak:date>2010-12-03T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Dropped off a geocoin</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="199967705">
+          <groundspeak:date>2011-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Dropping off a travel bug. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

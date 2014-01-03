@@ -1,0 +1,35 @@
+<wpt lat="39.69915" lon="-77.3186" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-04-10T07:00:00Z</time>
+    <name>GC26H7P</name>
+    <desc>The Mermaid's Creamery Home by BgBdWolf, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5d2538c8-bd4d-4df9-9bb2-c27d31db7c09</url>
+    <urlname>The Mermaid's Creamery Home</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1631244" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The Mermaid's Creamery Home</groundspeak:name>
+      <groundspeak:placed_by>BgBdWolf</groundspeak:placed_by>
+      <groundspeak:owner id="54078">BgBdWolf</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">Location is easy to get to. A good grab and go as you travel. Located along the Journey through Hallowed Ground.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The cache is a small lock top plastic container. The cache was placed to give the Little Mermaid a starting point for her journey. Initial contents were the Little Mermaid Travel Bug, 4 Twist-up crayons, 2 Spiderman balls and some Avon samples.
+
+First to Find Honors go to orangeblssm1976!!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138684288">
+          <groundspeak:date>2010-12-17T00:20:47Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">I think this is the first time I've ever gotten a cache while it was snowing. :) </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

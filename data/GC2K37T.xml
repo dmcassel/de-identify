@@ -1,0 +1,33 @@
+<wpt lat="39.993333" lon="-75.340883" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-12-05T08:00:00Z</time>
+    <name>GC2K37T</name>
+    <desc>Bichon Tube? by lcandela123, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=686001ee-843c-4b59-a0ce-612868957d6f</url>
+    <urlname>Bichon Tube?</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2005076" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bichon Tube?</groundspeak:name>
+      <groundspeak:placed_by>lcandela123</groundspeak:placed_by>
+      <groundspeak:owner id="1345118">lcandela123</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Micro near a nice dog park, but not inside it.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>If you had a bichon, he'd be sniffing around the cache.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="149808149">
+          <groundspeak:date>2011-03-19T22:38:29Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22, LNRC, and billcas. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

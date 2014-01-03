@@ -1,0 +1,50 @@
+<wpt lat="39.101967" lon="-76.840633" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-09-10T07:00:00Z</time>
+    <name>GC2EZ5N</name>
+    <desc>On Your MARC, Laurel by cycleangela, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a63f95ee-9204-44e4-a43d-c15d91a38db1</url>
+    <urlname>On Your MARC, Laurel</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1882002" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>On Your MARC, Laurel</groundspeak:name>
+      <groundspeak:placed_by>cycleangela</groundspeak:placed_by>
+      <groundspeak:owner id="2133383">cycleangela</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="True">Cache is hidden in the MARC commuter lot of Laurel, MD. The
+difficulty level could vary, depending on muggles. Parking is
+available, but will be very limited depending on the time you
+choose to do your search.</groundspeak:short_description>
+      <groundspeak:long_description html="True">You will be searching for a magnetic cache with room for a log
+only. Bring your own writing utensil. Please replace
+carefully!&lt;br /&gt;
+&lt;br /&gt;
+Logging Etiquette: Geocache hiders sometimes go through a great
+deal of planning to place their caches. As a result, they'd like to
+hear your feedback on whether you liked or disliked any aspect of
+the hide, or if you feel that some cache maintenance is required.
+Single word, acronym, or emoticon logs may be easier when you have
+a lot of caches to log, but it doesn't tell the hider or other
+finders anything about your adventure (or lack thereof) in finding
+the cache. Please keep this in mind when entering your log.
+&lt;strong&gt;Please also keep in mind that the owner needs to know if
+the cache is missing. Without DNF logs, the cache owner will not
+know they need to check on the cache.&lt;/strong&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="150649279">
+          <groundspeak:date>2011-03-24T01:10:19Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Not too many muggles around. Didn't see it on first approach but I played hunch and laid my hand on I quickly. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

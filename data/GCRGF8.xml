@@ -1,0 +1,45 @@
+<wpt lat="39.758433" lon="-75.560117" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2005-11-29T08:00:00Z</time>
+    <name>GCRGF8</name>
+    <desc>Gilpin Hidaway by Instant Coffee, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=bb679f9b-6199-4aa1-a655-72d735434f7b</url>
+    <urlname>Gilpin Hidaway</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="319713" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Gilpin Hidaway</groundspeak:name>
+      <groundspeak:placed_by>Instant Coffee</groundspeak:placed_by>
+      <groundspeak:owner id="416390">Instant Coffee</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Delaware</groundspeak:state>
+      <groundspeak:short_description html="True">This is a micro cache located near Gilpin Playground Park.
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">There is a small playground and basketball court. You can park
+behind Trolley Square shops. Stealth is required and park closes at
+dusk and not recommended to go at night. Please hide as found or
+better. This is my first cache so feedback is welcomed. Placed as a
+requirement for coin quest. Remember to bring a pen or pencil. &lt;br&gt;
+&lt;center&gt;&lt;a href="http://www.geocachingde.com" target=
+"_blank"&gt;&lt;img src=
+"http://www.geocachingde.com/Images/Layout/logoWhite.jpg"
+     border="0" height="195" width="224" alt=
+     "Delaware Geocachers logo"&gt;&lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;Caching in Delaware?&lt;br&gt;
+ Click the Logo to visit the Delaware Geocachers Web site&lt;/center&gt;
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Behind triangular rock in wall.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137956694">
+          <groundspeak:date>2010-12-05T21:41:11Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one after hitting Moore Brothers. Good wine an caching. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

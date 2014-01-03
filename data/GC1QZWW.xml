@@ -1,0 +1,44 @@
+<wpt lat="40.006853" lon="-75.302872" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-05-04T07:00:00Z</time>
+    <name>GC1QZWW</name>
+    <desc>Concept by buckyballer, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d49aa9e2-9a70-4d47-adab-cacfd31a41f6</url>
+    <urlname>Concept</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1227288" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Concept</groundspeak:name>
+      <groundspeak:placed_by>buckyballer</groundspeak:placed_by>
+      <groundspeak:owner id="2187987">buckyballer</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">The cache is located underneath the bridge over a small creek on the Haverford nature trail.</groundspeak:short_description>
+      <groundspeak:long_description html="False">It's a clear plastic container with a blue cap. Inside is a logbook, some string, and some word beads.
+
+Instructions:
+Take some string from the canister
+Put whatever word beads you like on the string
+Tie the string of beads around the yarn on the tree nearby
+
+About 20 feet to the right is a tree with some yarn around it; it should be fairly obvious.
+
+Enjoy the nature trail!
+
+UPDATE 5/28: I'm bringing up some more string and beads on Saturday, June 6. I'm pretty sure I have some more word beads at home, although they might be letter beads; I'll dig around some. If anyone would like to chip in and put some beads and/or string in the cache, by all means feel free to do so. The Ardmore art supply store has a kit with word beads, and regular old plastic beads work as well.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="149825232">
+          <groundspeak:date>2011-03-19T23:29:53Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22, LNRC, billcas. My daughter left a word. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

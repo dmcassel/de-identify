@@ -1,0 +1,42 @@
+<wpt lat="39.995083" lon="-75.6993" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-04-12T07:00:00Z</time>
+    <name>GCVCWH</name>
+    <desc>Singing Span by Angry-Beaver, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=70103d49-90f6-4df5-add1-01061afee5f2</url>
+    <urlname>Singing Span</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="375832" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Singing Span</groundspeak:name>
+      <groundspeak:placed_by>Angry-Beaver</groundspeak:placed_by>
+      <groundspeak:owner id="251039">Angry-Beaver</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">Located on the outskirts of beautiful downtown Downingtown PA this
+is one of those things you see but never stop to listen to....</groundspeak:short_description>
+      <groundspeak:long_description html="True">It is a micro and at the time of placement did have a stubby pencil
+with the log. You might want to bring your own writing implement
+just in case. IT IS NOT ON THE LANDMARK THAT TOWERS OVER THIS
+AREA!!! Located near the "singing" bridge along route 322 on the
+westbound side. Plenty of safe railing and no need to cross the
+road to access. 
+&lt;center&gt;
+&lt;a href="http://www.sepag.us"&gt;&lt;img src="http://home.comcast.net/~sepag/sepagbanner1.gif"
+     border="0" /&gt;&lt;br /&gt;
+ &lt;b&gt;Click to Visit the SEPAG Homepage and Forums&lt;/b&gt;&lt;/a&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>No hints until 2 Logged DNF's</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136501070">
+          <groundspeak:date>2010-11-20T23:36:36Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22. The log was wet, but signable. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

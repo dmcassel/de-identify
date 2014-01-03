@@ -1,0 +1,51 @@
+<wpt lat="39.683883" lon="-75.753" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-10-29T07:00:00Z</time>
+    <name>GC1725V</name>
+    <desc>Freegans' Treasure by thermopunk, Traditional Cache (2.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b562900b-00f7-4bab-a055-f3b5c521c873</url>
+    <urlname>Freegans' Treasure</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="723041" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Freegans' Treasure</groundspeak:name>
+      <groundspeak:placed_by>thermopunk</groundspeak:placed_by>
+      <groundspeak:owner id="2862915">CHFCacheAccount</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Delaware</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">This is on the original campus of "Delaware College", founded in 1743.  There is an art museum in Old College itself as well as in "Mechanical and Electrical Hall", the original building housing these engineering disciplines.  Take the time to read the historic plaques in the area.  This is one of the oldest places of erudition in the East.
+
+There are lots of muggles that trudge through this area so please be discrete.  There are benches nearby to the south that should allow you to  log the cache and return it to its place.  College students are pretty curious, so please take extra time to remain unremarking.
+
+Container is a typical nano cache.  Bring your own pen for signing the logbook.  It is available at night but be careful not to arouse suspicion; the campus police will stop if you bring attention to yourself.
+
+For those that want a bit of history, all of which began at this spot in 1743, here it is (taken from delaware.gov, see user's webpage link above)
+
+In 1862 the federal government, through the provisions of the Morrill Land Grant Act, offered a grant of public lands to the States in exchange for the establishment of a college for agricultural and mechanical arts within their borders. The first States, having no public lands that could be granted to them, were offered land warrants, or script, that could be used for funding such an institution. It was not until 1867 that Delaware decided to take advantage of the offer.12 At that time, the legislature adopted Delaware College as the official recipient of land grant funds; authorized the sale of scrip or land warrants, and proceeds of which were to be invested in interest bearing bonds; directed the Treasurer to pay the interest from such investments to the treasurer of the board of trustees; and directed the board of trustees to establish a course of study that would “carry out the intent of the act of Congress.”13
+
+In the early twentieth century, agitation by the Grangers and other disgruntled citizens caused much attention to be focused on the renewal of the college charter. In 1913 the General Assembly granted the Trustees of Delaware College perpetual existence in order to promote continual educational opportunities for the “youth of all classes in the several pursuits and professions of life.” This same session of the General Assembly, responding to the criticisms of the citizens of the State, also authorized and directed the board of trustees to secure a site and to establish and maintain a college for women, affiliated with Delaware College, with funds provided by the legislature.14 The members of the 1913 legislature were committed to improving the standards of education at Delaware College. They allotted monies for the erection, alteration, and repair of buildings on the State farm; committed funding to maintain an agricultural extension agency at Delaware College; established a pathological and bacteriological laboratory; and provided money for the establishment and maintenance of a summer school for the instruction of teachers.15
+
+In 1921 the name of Delaware College was changed to “University of Delaware,” and while the governing body of the school remained the same, its name was changed to the “Trustees of the University of Delaware” and its members could serve no longer than six year terms.16 By the summer of 1944, many of the departments and salary scales seemed inadequate to handle the increasing numbers of students. A proposed restructuring eliminated the separate male/female colleges structure; created the School of Arts and Sciences; appointed a dean to head the upgraded School of Education; and planned three new divisions, home economics, graduate study, and commerce and business.17
+
+The modernization of the University has continued through the 1980’s. In 1988 the University had ten distinct colleges offering both undergraduate and graduate degrees in a variety of major courses of study. These colleges are: Agriculture; Arts and Sciences; Business and Economics; Education; Engineering; Human Resources; Marine Studies; Nursing; Physical Education, Athletics, and Recreation; and Urban Affairs and Public Policy. Fall enrollment for the year 1987 on the Newark campus was 13,936 undergraduate students and 2,149 graduate students. Additionally, 2,982 people enrolled in the University’s Continuing Education and Parallel Programs, making for a grand total of 19,067 students.
+
+For a complete history of the University of Delaware, please see The University of Delaware: A History by John Munroe (Newark: University of Delaware Press, 1986).</groundspeak:long_description>
+      <groundspeak:encoded_hints>where freegans shop</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="127420693">
+          <groundspeak:date>2010-09-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Lots of muggles on a Saturday night. 
+
+This entry was edited by dmcassel on Saturday, September 18, 2010 at 6:42:14 PM.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

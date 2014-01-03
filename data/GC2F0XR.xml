@@ -1,0 +1,42 @@
+<wpt lat="39.996333" lon="-75.408033" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-09-12T07:00:00Z</time>
+    <name>GC2F0XR</name>
+    <desc>Bird bus by thombdig, Traditional Cache (1.5/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d67e6151-85d2-45a1-abe3-9d43f7d102bd</url>
+    <urlname>Bird bus</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1883679" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bird bus</groundspeak:name>
+      <groundspeak:placed_by>thombdig</groundspeak:placed_by>
+      <groundspeak:owner id="2597312">thombdig</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">There is is a nice little building located at the corner of Rt.252 and Goshen Road. I passed this place very often and never stopped. One day I stopped at the parking area nearby to see if I can place a cache here.
+
+As it doesn't make sense to repeat already existing information about this historic place, go to the following link for more information.
+http://www.historicnewtownsquare.org/historical_sites/squaretavern/
+
+You can start a short walk (about 1 mile) before or after visiting this place.
+
+The cache is perhaps not so easy to reach for everybody even if you can see the hide already. It's not in one of the bird boxes. 
+
+BYOP</groundspeak:long_description>
+      <groundspeak:encoded_hints>twenty feet</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="149797903">
+          <groundspeak:date>2011-03-19T22:05:22Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Got this one based on my 10-year-old daughter's fantastic climb! Found with dawnie22, LNRC and billcas. Needed a tool to get it open. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

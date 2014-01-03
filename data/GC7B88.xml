@@ -1,0 +1,42 @@
+<wpt lat="39.955833" lon="-75.164733" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2002-08-04T07:00:00Z</time>
+    <name>GC7B88</name>
+    <desc>Colonial Martyr by Strix (adopted by tiki-4), Virtual Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c2a64870-1349-422d-9c50-0a58b89d13b3</url>
+    <urlname>Colonial Martyr</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Virtual Cache</type>
+    <groundspeak:cache id="31624" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Colonial Martyr</groundspeak:name>
+      <groundspeak:placed_by>Strix (adopted by tiki-4)</groundspeak:placed_by>
+      <groundspeak:owner id="202075">tiki-4</groundspeak:owner>
+      <groundspeak:type>Virtual Cache</groundspeak:type>
+      <groundspeak:container>Virtual</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">In the City of Brotherly Love, you may meet some friends and receive a lesson in 17th-century religious tolerance...or intolerance.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Just a short walk from Phil and Mady's America's Favorite Cookie virtual cache (GC65B5) is this interesting site, which I found on the way from my hotel to the Cookie cache.
+
+To log this cache as a find, e-mail me the answers to these questions:
+
+1. Members of the group identified on the sign at the coordinates may be known to the public by what name?
+
+2. Find the statue nearby. Name the female martyr and tell me where, when, and how she died.
+
+Additional requirement as of 10 APR 2009, take a digital photo and either post it with your log or have it handy.  Do not allow the answer to appear in your photo.  If there is any doubt about your visit, you will need the photo to keep the smiley.  Armchair finds, especially from across the pond will be deleted.  
+
+To learn more about this woman, do an Internet search when you get the chance. I found it to be a fascinating story, and I was  amazed that this kind of intolerance once existed in Colonial America, a land mostly settled by people who fled religious persecution in the Old World! Check it out.  Note:  the internet search is to be done after finding the cache, not in lieu of finding it with your GPS.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Clue for question #1: Think cereal. Clue for #2: Oh, come on! It's less than 20 feet away, you lazy bum!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133263632">
+          <groundspeak:date>2010-10-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Got this one today after wrapping up a meeting in Philly. I was happy to have an excuse to go for a nice walk. :) </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

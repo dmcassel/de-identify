@@ -1,0 +1,47 @@
+<wpt lat="39.810817" lon="-75.60235" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-09-30T07:00:00Z</time>
+    <name>GC1YHT1</name>
+    <desc>DGT Winterthur Museum by Delaware GeoTrail, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=78e7d3b0-e06b-491f-81e4-d8c0ddcfef86</url>
+    <urlname>DGT Winterthur Museum</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1393453" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>DGT Winterthur Museum</groundspeak:name>
+      <groundspeak:placed_by>Delaware GeoTrail</groundspeak:placed_by>
+      <groundspeak:owner id="2660580">Delaware_GeoTrail</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Delaware</groundspeak:state>
+      <groundspeak:short_description html="True">Description: 
+&lt;p&gt;Winterthur is closed on Mondays. The grounds are open Tuesday
+through Sunday from dawn to dusk. Drive in and park in the visitor
+parking area. The museum tours (fee charged) are conducted 10 am to
+3:30 pm.&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">The &lt;a href="http://www.visitdelaware.com/geo"
+target="_blank"&gt;Delaware Geocaching Trail&lt;/a&gt; will take you on an
+adventurous journey throughout the great State of Delaware. Our
+trail will excite you with all of the historical and cultural
+treasures hidden in Delaware’s three counties. As you proceed on
+your venture, you will witness the beautiful estates, gardens and
+sanctuaries that envelope this great state. You will admire the
+early 1800s architecture of the churches and homes in New Castle
+County. You will learn about the early Indian tribes that settled
+along the rivers and bays in Sussex County. While exploring Kent
+County, you will also be in touch with the defenders of our State
+and country. Enjoy your quest!</groundspeak:long_description>
+      <groundspeak:encoded_hints>BIG cherry tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="147586257">
+          <groundspeak:date>2011-03-06T01:00:19Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22 after our visit</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

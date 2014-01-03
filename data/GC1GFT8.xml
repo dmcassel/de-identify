@@ -1,0 +1,33 @@
+<wpt lat="39.966367" lon="-75.724417" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-09-21T07:00:00Z</time>
+    <name>GC1GFT8</name>
+    <desc>NY Giants by NeedAlternatives, Traditional Cache (1/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1bbf2b7b-e207-42d2-b528-82fe7862d604</url>
+    <urlname>NY Giants</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1004255" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>NY Giants</groundspeak:name>
+      <groundspeak:placed_by>NeedAlternatives</groundspeak:placed_by>
+      <groundspeak:owner id="1769967">NeedAlternatives</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">This cache is located in Shadyside Park, in West Bradford. You can use the path, which is longer, or cut straight across. Thanks for finding my first cache!</groundspeak:short_description>
+      <groundspeak:long_description html="False">In 2008, the NY Giants pulled off an amazing Super Bowl victory.  Not only did they have a LONG UPHILL battle, but the UNDER dogs really STICKed it to the Pats in an unbelievable victory.  Just when the Pats thought they were out of the WOODS, the G-men’s quarterback finished an 83-yard drive with a 13-yard touchdown pass to seal the deal.  Sorry Eagles fans, but I am a Giants fan in Philly!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135817916">
+          <groundspeak:date>2010-11-14T21:42:02Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find while taking the kids to a favorite park. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

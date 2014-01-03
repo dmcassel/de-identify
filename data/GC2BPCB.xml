@@ -1,0 +1,38 @@
+<wpt lat="40.050867" lon="-75.636083" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-07-13T07:00:00Z</time>
+    <name>GC2BPCB</name>
+    <desc>Coraline's Lifesavers by hoagies and Mrs.Hoagie, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9e02ef41-8ccd-4b36-9104-85c9ff13a07a</url>
+    <urlname>Coraline's Lifesavers</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1785148" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Coraline's Lifesavers</groundspeak:name>
+      <groundspeak:placed_by>hoagies and Mrs.Hoagie</groundspeak:placed_by>
+      <groundspeak:owner id="1409871">hoagies</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Don't let the little dogs catch you! If you do, you might take a licking.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Coraline is a tiny kitten who had an unfortunate encounter with an automobile when she was too young to be away from mama.  After being rescued by a witness and taken to the SPCA, she ended up in the hands of an angel at this location.  With months of TLC from the whole staff, Coraline grew into a strong, soft, crazy, adorable cat who ended up becoming part of our family.  This, our first cache, is in honor of Dr. S. and her staff, our amazing friends who saved our Coraline.
+
+Note: please do NOT dig in the flowerpots!  The cache is not in the flowers or dirt!!
+
+Placed outside with permission of the establishment; I think we even convinced two of them to join us in geocaching!  But don't ask for hints; they can't help you.
+
+FTF is a unactivated Geocache FTF coin. Congrats to bpp_picnic for the FTF!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Just another MKH</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="166096586">
+          <groundspeak:date>2011-06-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">This one took a little time to find, mostly because we were trying to make sure some muggles didn't notice what we were up to. But we got it!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

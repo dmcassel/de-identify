@@ -1,0 +1,34 @@
+<wpt lat="40.06795" lon="-75.673583" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-07-10T07:00:00Z</time>
+    <name>GC2ZWTY</name>
+    <desc>Eagleview C&amp;D by Vindicated2287, Traditional Cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a4d5e589-4a2f-44b6-8cf8-4c17e1d95c62</url>
+    <urlname>Eagleview C&amp;D</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2356403" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Eagleview C&amp;D</groundspeak:name>
+      <groundspeak:placed_by>Vindicated2287</groundspeak:placed_by>
+      <groundspeak:owner id="4681313">Vindicated2287</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">This cache is slightly smaller than the micro size of a film canister.  The GZ is a small turnaround area located in Eagleview just before entering Eagle from 100.</groundspeak:short_description>
+      <groundspeak:long_description html="False">This cache is not turnpike accessible unless you use exit 312 and take 100 N.  Bring your own writing utensil as the cache is only large enough for a log.  
+
+Gave this one a difficulty of two only because you may often find that there can be many muggles around if you cache it at the wrong time.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Hint after 2 DNF's</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="179835695">
+          <groundspeak:date>2011-08-14T22:48:57Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find after dinner out. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

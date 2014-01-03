@@ -1,0 +1,83 @@
+<wpt lat="40.083" lon="-75.388467" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-07-24T07:00:00Z</time>
+    <name>GC1EGP9</name>
+    <desc>Park Un Ride - KOP by Un Valet, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f3f050d0-cf81-42b2-af49-1ad3f28cf0f7</url>
+    <urlname>Park Un Ride - KOP</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="945542" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Park Un Ride - KOP</groundspeak:name>
+      <groundspeak:placed_by>Un Valet</groundspeak:placed_by>
+      <groundspeak:owner id="958837">UnNamed</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;font face="Arial Narrow"&gt;&lt;u&gt;&lt;font size="7"
+color="&amp;lt;br"&gt;Park&lt;/font&gt; &lt;font size="7" color="#FF0000"&gt;Un&lt;/font&gt;
+&lt;font size="7" color="#000080"&gt;Ride -&lt;/font&gt; &lt;font size="7"
+color="#800080"&gt;KOP&lt;/font&gt;&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;font size="4" color="#00FF00"&gt;This cache is accessible from the
+near by park an ride. One of many in a serious of caches with the
+commuter in mind.&lt;/font&gt; 
+&lt;p&gt;&lt;font size="4" color="#0000FF"&gt;Container contains only the LOG,
+so bring ye writing thing so you can log ONLY THE DATE and YOUR
+NAME. Some stealth may be required depending on the time selected
+for the hunt. As always please return the hide as it was found so
+other may continue to enjoy the game. Happy Hunting and Keep on
+caching!&lt;/font&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;img src="http://www.9key.com/images/cache_icons/lunch.gif"
+alt="A good cache for your lunchtime" align="middle" border="1"
+width="29" height="29" /&gt; Lunchtime Cache
+&lt;img src="http://www.9key.com/images/cache_icons/thorn0.gif"
+alt=" No Thorns" align="middle" border="1" width="29"
+height="29" /&gt; No Thorns
+&lt;img src="http://www.9key.com/images/cache_icons/handicap0.gif"
+alt="No Wheelchair Access" align="middle" border="1" width="29"
+height="29" /&gt; No Wheelchair Access
+&lt;img src="http://www.9key.com/images/cache_icons/dog2.gif"
+alt="Dogs Allowed" align="middle" border="1" width="29"
+height="29" /&gt; Dogs Allowed
+&lt;img src="http://www.9key.com/images/cache_icons/bike2.gif"
+alt="Bikes permitted" align="middle" border="1" width="29"
+height="28" /&gt; Bicycles permitted on paths
+&lt;img src="http://www.9key.com/images/cache_icons/car.gif"
+alt="Car " align="middle" border="1" width="29" height="29" /&gt; Less
+than 500 ft. from car to cache
+&lt;img src="http://www.9key.com/images/cache_icons/grab.gif"
+alt="Park n Grab" align="middle" border="1" width="29"
+height="29" /&gt; Park and Grab
+&lt;img src="http://www.9key.com/images/cache_icons/cactus0.gif"
+alt="Cactus" align="middle" border="1" width="29" height="29" /&gt; No
+Cactus Nearby
+&lt;img src="http://www.9key.com/images/cache_icons/pw.gif"
+alt="Muggles" align="middle" border="1" width="29" height="29" /&gt;
+Beware of Muggles
+&lt;img src="http://www.9key.com/images/cache_icons/pencil.gif"
+alt="pencil" align="middle" border="1" width="29" height="28" /&gt;
+Bring a pen or pencil
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;a href="http://gcstat.selfip.org/?cid=9&amp;amp;gcid=772&amp;amp;ref=1"&gt;&lt;img src="http://gcstat.selfip.org/pic.php?style=3&amp;amp;gcid=772"
+     alt="GCS - extended statistics" border="0" /&gt;&lt;/a&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="161530928">
+          <groundspeak:date>2011-05-19T02:48:08Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">A pretty quick find after happy hour with some friends at the nearby brewery. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

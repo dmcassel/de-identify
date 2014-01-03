@@ -1,0 +1,35 @@
+<wpt lat="40.04465" lon="-75.616217" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-06-12T07:00:00Z</time>
+    <name>GC1D5RT</name>
+    <desc>Creep On In by Josephus, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3d4f5e37-b75d-44fc-a838-c8e2d4cf1e8a</url>
+    <urlname>Creep On In</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="905258" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Creep On In</groundspeak:name>
+      <groundspeak:placed_by>Josephus</groundspeak:placed_by>
+      <groundspeak:owner id="332919">Josephus</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">A Dirt Road Cache &amp; Dash</groundspeak:short_description>
+      <groundspeak:long_description html="False">This is a micro container located near the roadway of Old Valley Road, which is a lovely little gravel road not far off of Ship Road. Take your time driving in, there are some big puddles after a rainfall, and ruts - hence the name.
+Please place cache in precisely the same location you found it.
+Sorry no hints.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="168659350">
+          <groundspeak:date>2011-06-25T03:31:52Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Took a little time, but we got it. Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

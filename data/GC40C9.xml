@@ -1,0 +1,34 @@
+<wpt lat="39.449333" lon="-77.040133" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2002-03-09T08:00:00Z</time>
+    <name>GC40C9</name>
+    <desc>Mayeski Cache by Siegfried &amp; Francesca, Traditional Cache (2.5/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=57d4a6aa-eaf5-43e1-9e11-7dc8b9dec3b2</url>
+    <urlname>Mayeski Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="16585" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Mayeski Cache</groundspeak:name>
+      <groundspeak:placed_by>Siegfried &amp; Francesca</groundspeak:placed_by>
+      <groundspeak:owner id="10285">Siegfried</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="True">Easy path for most of the journey, about a 1/4 mile hike.</groundspeak:short_description>
+      <groundspeak:long_description html="True">Located in a sports park, it is hidden back into a wooded area.  Nice trails, but trailheads are not marked well.  Enjoy the journey!  GPS was a little erratic due to heavy fog/cloud cover ... but let it average for 15 minutes and it should be close.</groundspeak:long_description>
+      <groundspeak:encoded_hints>A fallen dead tree, is the hiding place for me.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="177581576">
+          <groundspeak:date>2011-08-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Bit of a hot day for this one, but I persisted past the bugs and spider webs big enough to endanger small children and came away with the smiley while passing through the area. I was glad I had some water with me. 
+
+This entry was edited by dmcassel on Saturday, 06 August 2011 at 03:05:27 UTC.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

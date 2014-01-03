@@ -1,0 +1,35 @@
+<wpt lat="39.114083" lon="-77.535983" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-08-02T07:00:00Z</time>
+    <name>GC1WPXB</name>
+    <desc>LPC or is it? by Shmidty, Traditional Cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8a5500f5-90c8-422a-99b5-daec6448629c</url>
+    <urlname>LPC or is it?</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1338779" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>LPC or is it?</groundspeak:name>
+      <groundspeak:placed_by>Shmidty</groundspeak:placed_by>
+      <groundspeak:owner id="707284">shmidty</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Virginia</groundspeak:state>
+      <groundspeak:short_description html="False">LPC (lamp post cache) or is it?</groundspeak:short_description>
+      <groundspeak:long_description html="False">Located in one of the many strip malls in Leesburg that is visited quite often by the family, maybe too much.
+
+Located in a fairly non-muggle spot, but still be on the look out.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138840480">
+          <groundspeak:date>2010-12-19T20:26:16Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

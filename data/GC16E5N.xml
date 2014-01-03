@@ -1,0 +1,39 @@
+<wpt lat="39.982867" lon="-75.73935" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-10-04T07:00:00Z</time>
+    <name>GC16E5N</name>
+    <desc>Fly Boys by bpp_picnic, Traditional Cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=af5d314c-1056-4047-88bb-2a37ff5da51b</url>
+    <urlname>Fly Boys</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="704777" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Fly Boys</groundspeak:name>
+      <groundspeak:placed_by>bpp_picnic</groundspeak:placed_by>
+      <groundspeak:owner id="864597">bpp_picnic</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">An easy cache by my standards!</groundspeak:short_description>
+      <groundspeak:long_description html="False">This cache was hidden with the permission of the owner of the facility. You do not need to climb anything at all! The cache is easily reachable from standing Right in front of the memorial. It is not in the bricks so please do not remove any!
+
+This is at a place that has some local history that not many people know about. Most of the people that come here every day, don't even notice this memorial. On weekends there will be many muggles, so please be careful. Please NO TRACKABLES! I don't want them going missing!
+
+This is a very sensitive cache so please make sure you take the few minutes to rehide properly or it will be muggled. Look at it as if you were hiding your own cache and didn't want anyone to find it.
+
+Happy Hunting!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="129240629">
+          <groundspeak:date>2010-10-02T03:17:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">My first premium cache, and very close to my house. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

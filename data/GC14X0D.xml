@@ -1,0 +1,36 @@
+<wpt lat="38.890883" lon="-77.21415" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-08-04T07:00:00Z</time>
+    <name>GC14X0D</name>
+    <desc>Penn's Idylwood Cache by phi_fibonacci, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=bd343419-35b4-494f-8d46-bec9111dd97b</url>
+    <urlname>Penn's Idylwood Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="658486" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Penn's Idylwood Cache</groundspeak:name>
+      <groundspeak:placed_by>phi_fibonacci</groundspeak:placed_by>
+      <groundspeak:owner id="219621">phi_fibonacci</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Virginia</groundspeak:state>
+      <groundspeak:short_description html="False">The cache is located in a local park complete with a playground, basketball and tennis courts. Should be an easy find for first-timers and those with small children.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The cache is a micro-cache (35mm film canister). Its location should be fairly obvious once in the general area though there are a bunch of nooks where it might be stashed.
+
+The cache is NOT big enough to hold any items other than its log scroll and small pencil.
+
+Congrats to Woofiegrrl on the FTF!</groundspeak:long_description>
+      <groundspeak:encoded_hints>baseball bleachers</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="129968536">
+          <groundspeak:date>2010-10-06T15:08:18Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick grab before getting to work. TFTC. Pencil is gone and I forgot to bring one, so I didn't get to sign. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

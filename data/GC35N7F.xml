@@ -1,0 +1,38 @@
+<wpt lat="40.038333" lon="-75.768233" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-10-09T07:00:00Z</time>
+    <name>GC35N7F</name>
+    <desc>The King is Back.....here by Rrrbt202, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=69a1cf56-cf48-43d0-b686-1b8b58902daf</url>
+    <urlname>The King is Back.....here</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2528811" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The King is Back.....here</groundspeak:name>
+      <groundspeak:placed_by>Rrrbt202</groundspeak:placed_by>
+      <groundspeak:owner id="4299326">Rrrbt202</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">Not your typical bison tube in a pine tree.</groundspeak:short_description>
+      <groundspeak:long_description html="True">The concept worked on paper. We'll see if it works for real. Look
+carefully and you should be able to figure it out. Stealth needed
+to get started. Pay attention to what you are doing so you can
+re-hide the container the same way. FTF gets a FTF pin and your own
+cache container to hide. Contains log, pencil and small swag.&lt;br /&gt;
+Congratulations to JeepFeet for FTF.&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="207025119">
+          <groundspeak:date>2012-01-07T21:08:24Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it pretty quickly, but picked up a few all-natural souvenirs getting it. Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

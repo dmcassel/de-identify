@@ -1,0 +1,36 @@
+<wpt lat="40.052667" lon="-75.365833" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-11-15T08:00:00Z</time>
+    <name>GC2JAJK</name>
+    <desc>I Love New York by iamhewhoisnot, adopted by OnHigherGround, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=643689cd-fdfb-4d16-ad03-c19e090bc3f0</url>
+    <urlname>I Love New York</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1982347" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>I Love New York</groundspeak:name>
+      <groundspeak:placed_by>iamhewhoisnot, adopted by OnHigherGround</groundspeak:placed_by>
+      <groundspeak:owner id="1500356">OnHigherGround</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">Contains a Travel bug from the Netherlands trying to make it's way to New York.
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">Easy Parking, Muggles only driving by may look at you, so perhaps semi-stealth. But I'm guessing most people won't pay much attention.&lt;br /&gt;
+Contains Log and Pencil, in Zip Lock back, Brown Rx Bottle.&lt;br /&gt;
+Photo © William Warby
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>The Travel bug is From The Netherlands, so don't get Stoned.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="150003286">
+          <groundspeak:date>2011-03-20T18:43:39Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22 and our girls</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,40 @@
+<wpt lat="39.992483" lon="-75.772517" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-06-14T07:00:00Z</time>
+    <name>GC2A85G</name>
+    <desc>Don't Take The Speaker! by "WILL" and Flying Pig Cache Team, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2afe21eb-4980-4bc8-9ddb-670a72fb004a</url>
+    <urlname>Don't Take The Speaker!</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1741691" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Don't Take The Speaker!</groundspeak:name>
+      <groundspeak:placed_by>"WILL" and Flying Pig Cache Team</groundspeak:placed_by>
+      <groundspeak:owner id="1006757">elversonhiker</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;br /&gt;
+&lt;img src=
+"http://img.geocaching.com/user/097b119a-4569-42b7-b1c7-8b3b25f9980a.jpg" /&gt;
+&lt;br /&gt;
+The cache is hidden approximatly on the spot where the boys are
+standing. Picture was taken in early 1970's.&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;img src=
+"http://img.geocaching.com/user/7ceb1331-c507-4568-bb52-504a405d7a5d.jpg" /&gt;&lt;img src="http://img.geocaching.com/user/c8858fb1-d00f-495f-84ab-ff737956b1da.jpg" /&gt;
+Bring Your Own!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136686482">
+          <groundspeak:date>2010-11-21T22:05:19Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22 and kids. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

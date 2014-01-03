@@ -1,0 +1,36 @@
+<wpt lat="40.021683" lon="-75.629867" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-07-06T07:00:00Z</time>
+    <name>GC2BBAA</name>
+    <desc>Blown Circuit by spoyd &amp; spoydette, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=08f1c367-15eb-4998-9034-2f428464e655</url>
+    <urlname>Blown Circuit</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1774514" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Blown Circuit</groundspeak:name>
+      <groundspeak:placed_by>spoyd &amp; spoydette</groundspeak:placed_by>
+      <groundspeak:owner id="1322170">spoyd</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">A micro hidden in a shopping area. I wonder where it could be? Don't lift the skirt - that is the domain of the little stingers.</groundspeak:short_description>
+      <groundspeak:long_description html="False">What can I say. I was here with spoydette replacing one cache and placing another. I had this micro container in the bag and all ready to go. Why not make it a hat trick and place a third. Don't let the fact that there are a number of typical locations for a hide like this stop you from looking.
+
+The name refers to the former tenants of the nearby retail location and their ultimate demise. (I sense a series coming on)
+
+You should be able to drive right up next to this hide. There shouldn't be any trouble with muggles - at least for now. Don't forget to re-hide as found - we don't want to make it too easy.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Don't bother searching the plant life - it ain't there.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138279545">
+          <groundspeak:date>2010-12-11T04:33:21Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a cold night with dawnie22 and our girls. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

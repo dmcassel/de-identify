@@ -1,0 +1,40 @@
+<wpt lat="39.123733" lon="-76.777733" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-10-29T07:00:00Z</time>
+    <name>GC2HEX2</name>
+    <desc>NBP- Concrete Jungle by Tracer73 and GizmoFreak, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a7246d6b-466c-40ff-8c6a-22f26b90c7a4</url>
+    <urlname>NBP- Concrete Jungle</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1956693" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>NBP- Concrete Jungle</groundspeak:name>
+      <groundspeak:placed_by>Tracer73 and GizmoFreak</groundspeak:placed_by>
+      <groundspeak:owner id="3013067">Tracer73</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">Medium sized Cache placed in a small patch of trees and shrubs in the NBP</groundspeak:short_description>
+      <groundspeak:long_description html="False">This cache cache was designed with the workers of the NBP in mind, to give those cacher's who stare out their windows at lunch a reason to get out of the office and get some fresh air! Though all cacher's are welcome....
+
+Watch out for the hotel staff as they bumble around the parking lot chasing squirrels and other related activities......
+
+Cache contains two new AA batteries to any forlorn cacher in trouble, and a pen for logging. 
+
+Please replace as found, room inside to leave items.
+
+CONGRATS to Cycleangela on the FTF!!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Down The Hill!!!!!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="150539514">
+          <groundspeak:date>2011-03-23T04:06:33Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Pretty quick find, even in the dark. A good flashlight helped. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

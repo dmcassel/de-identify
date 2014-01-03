@@ -1,0 +1,79 @@
+<wpt lat="40.023667" lon="-75.6265" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-07-08T07:00:00Z</time>
+    <name>GC1VKZY</name>
+    <desc>Stroll Along Main Street by deb3day, Unknown Cache (3/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fc867124-e2e0-42a6-b4a5-c4dcc699e30b</url>
+    <urlname>Stroll Along Main Street</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1306185" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Stroll Along Main Street</groundspeak:name>
+      <groundspeak:placed_by>deb3day</groundspeak:placed_by>
+      <groundspeak:owner id="1606719">deb3day</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p&gt;Congratulations to hoagies for the FTF!!!!! THANK YOU to hoagies for pointing out a small error I had made in the original description. Thank you for helping out. Good job on the FTF!&lt;/p&gt;
+&lt;p&gt;The clues have changed slightly due to the closing of one of the original restaurants that I used. Thank you to semaj001 for the heads up that it had closed.&lt;/p&gt;
+&lt;p&gt;Feel free to contact me with potential problems on the calculations.&lt;/p&gt;
+
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Take a nice stroll around Main Street at Exton to find some clues, then take another short hike to find the cache. I will try to keep the cache stocked with some cool swag. Feel free to add some other cool stuff.&lt;/p&gt;
+&lt;p&gt;Coords given will get you to the north end of Main Street at Exton. From here you will need to stroll the streets to find clues that will give you the coords for the cache.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Coords:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;N40° 01.(Answer #1)&lt;br /&gt;
+W075° (Answer #2).(Answer #3)&lt;/b&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;Answer #1&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Find the shop called Ten Thousand Villages.(Found on Main Street)&lt;br /&gt;
+&lt;br /&gt;
+Street number of this store&lt;br /&gt;
+plus&lt;br /&gt;
+Time the store opens on Monday&lt;br /&gt;
+plus&lt;br /&gt;
+Time the store closes on Sunday&lt;br /&gt;
+plus&lt;br /&gt;
+Speed limit on the street in front of the store&lt;br /&gt;
+equals&lt;br /&gt;
+Answer #1&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;Answer #2&lt;/b&gt;&lt;/p&gt;
+Go to the northeast corner of Bartlett and Main. (See the waypoints)&lt;br /&gt;
+Walk north on the sidewalk in front of Barnes and Noble.&lt;br /&gt;
+Count the large cement squares until you get to "2001" on the wall.&lt;br /&gt;
+Now add this number of squares to the individual digits in the street number of Barnes and Noble. (Example: If street number is 214 you would add a total of 7)&lt;br /&gt;
+This is Answer #2.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;Answer #3&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Now you must go off of Main Street. There is a street with food of different nationalities. (See the waypoints)&lt;/p&gt;
+Street address of the Thai restaurant&lt;br /&gt;
+plus&lt;br /&gt;
+Street Address of the Chinese restaurant&lt;br /&gt;
+plus&lt;br /&gt;
+Earliest time listed on the Loading Zone sign in front of the Chinese restaurant&lt;br /&gt;
+plus 1&lt;br /&gt;
+equals&lt;br /&gt;
+Answer #3&lt;br /&gt;
+Please note that the restaurants are in the same block of the same street.&lt;br /&gt;
+&lt;p&gt;Your final destination will be a walk along a paved trail but a short final distance will be bushwacking. Beware of plants with nasty thorns and of course, ticks.&lt;/p&gt;
+&lt;p&gt;If you haven't cached here before, there are other caches that you can visit from this parking lot. Right across the street from Answer #2 you can find &lt;b&gt;GCWQPF&lt;/b&gt; - &lt;u&gt;Main Street Cache&lt;/u&gt;. If you would prefer a hike in the woods, then try &lt;b&gt;GC1HAC7&lt;/b&gt; - &lt;u&gt;WO-1 - Forest Island&lt;/u&gt;. You can take a pleasant walk down a trail and find &lt;b&gt;GC1VJH7&lt;/b&gt; - &lt;u&gt;Commerce Trail Rocks&lt;/u&gt;.&lt;/p&gt;
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>[Street numbers are on the glass above the doors of the businesses.]
+Adding the digits of the first answer will equal five.  Adding the digits of the third answer will equal fifteen.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="167198334">
+          <groundspeak:date>2011-06-17T03:18:15Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">It took us a couple visits, but we got it. Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

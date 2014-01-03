@@ -1,0 +1,33 @@
+<wpt lat="32.8763" lon="-80.0102" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-04-01T08:00:00Z</time>
+    <name>GCV6Q1</name>
+    <desc>The I can't think of a good name Cache by elliejane adopted by Edisto Patto, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8bbb2dbc-75c6-4b57-9df9-7c6d62cac0ff</url>
+    <urlname>The I can't think of a good name Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="369926" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The I can't think of a good name Cache</groundspeak:name>
+      <groundspeak:placed_by>elliejane adopted by Edisto Patto</groundspeak:placed_by>
+      <groundspeak:owner id="744358">Edisto Patto</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Other</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>South Carolina</groundspeak:state>
+      <groundspeak:short_description html="False">This should be a fairly easy park and grab located in Charles Town Square. If your looking for a long hike or some bushwacking you should pass on this cache :)</groundspeak:short_description>
+      <groundspeak:long_description html="False">I'm going to say that this is a micro. There is no room to trade any items at all and you Must bring your own Pen, a pencil will not do! PLEASE REMEMBER THE EXACT SPOT YOU FOUND THIS CACHE AND RETURN IT TO THAT SPOT PLEASE. I've stopped by to check a few times and always seem to find it in the wrong spot. Thanks!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136035859">
+          <groundspeak:date>2010-11-16T01:47:41Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find while on a trip. Even after sunset, there was enough light to find it without a flashlight. TFTC! </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

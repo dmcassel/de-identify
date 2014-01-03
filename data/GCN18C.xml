@@ -1,0 +1,32 @@
+<wpt lat="39.608033" lon="-76.0744" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2005-03-07T08:00:00Z</time>
+    <name>GCN18C</name>
+    <desc>As Easy As  A-B-C/1-2-3 by The Treasure Hunters, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b07e4935-c25c-4f62-b1dd-30502ba26377</url>
+    <urlname>As Easy As  A-B-C/1-2-3</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="215712" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>As Easy As  A-B-C/1-2-3</groundspeak:name>
+      <groundspeak:placed_by>The Treasure Hunters</groundspeak:placed_by>
+      <groundspeak:owner id="224860">The Treasure Hunters</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">35mm Film Container</groundspeak:short_description>
+      <groundspeak:long_description html="False">Placed not too far from one of our daily outings, this is a quick grab and go.  Parking is almost on top of it.  Contains paper and small pencil (the two necessary things you would need if going to school).</groundspeak:long_description>
+      <groundspeak:encoded_hints>It's being guarded.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="122784261">
+          <groundspeak:date>2010-08-20T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">2nd try for a cache today... found this one</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

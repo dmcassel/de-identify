@@ -1,0 +1,32 @@
+<wpt lat="40.073933" lon="-75.628" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-06-05T07:00:00Z</time>
+    <name>GC2XKM7</name>
+    <desc>The Roof Was On Fire by reggaepanda, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2eb69d47-84e1-4438-92ff-a49f0c985558</url>
+    <urlname>The Roof Was On Fire</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2288956" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The Roof Was On Fire</groundspeak:name>
+      <groundspeak:placed_by>reggaepanda</groundspeak:placed_by>
+      <groundspeak:owner id="4551438">reggaepanda</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">A pretty cool spot. BYOP</groundspeak:short_description>
+      <groundspeak:long_description html="False">Be careful crossing the street, cars go way too fast on Conestoga Road.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Not on the ground. About eye level if you're seven feet tall.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="166097278">
+          <groundspeak:date>2011-06-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">I was a little nervous how many rocks might come down if I moved the wrong rock, but we got it. You don't have to move anything that isn't already loose. TFTC, this was a neat building!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

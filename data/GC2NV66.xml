@@ -1,0 +1,45 @@
+<wpt lat="38.9165" lon="-77.242767" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-02-14T08:00:00Z</time>
+    <name>GC2NV66</name>
+    <desc>GrandJ's SSP-2  Sami by GrandJ, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ea3f49c9-c5c8-4e87-aad2-35bd6b972c93</url>
+    <urlname>GrandJ's SSP-2  Sami</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2086711" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>GrandJ's SSP-2  Sami</groundspeak:name>
+      <groundspeak:placed_by>GrandJ</groundspeak:placed_by>
+      <groundspeak:owner id="2145451">GrandJ</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Virginia</groundspeak:state>
+      <groundspeak:short_description html="False">In the animal world, where one of us works, "SSP" stands for Species Survival Plan, a series of specific plans formulated and administered by zoologists, vets, and other scientists to help make sure our most endangered species won't die out.
+
+SSP coincidentally are the intitials of our first three grandkids:  Spenzi, Sami, and Patrick, which inspired this series.</groundspeak:short_description>
+      <groundspeak:long_description html="False">This is no longer a puzzle series----Spenzi, Sami, and Patrick each stand alone.  Ignore the codes on the logsheet.
+
+The series is meant to be fun, easy, quick, so have fun.
+
+
+
+It is meant to be a fun, easy, quick series, so have fun.
+
+Sami is petite and intelligent (and maybe a little devious)    A plan for her must consider cleverness and thinking outside the box.  Like Sami, this cache is small.  Remember to bring a pencil and something to note the clue. You will also probably need an extraction tool.
+
+Do not park on the side of the road.  It is very busy.  There is parking in the park a little further along.  And remember parks are closed at dark, so no hunting then.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="174079464">
+          <groundspeak:date>2011-07-20T18:37:58Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Took me a few minutes, but I came away with the smiley. I'm in town on a business trip and was still dressed for work, so I was glad there were no muggles to watch me traipsing around in the woods. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

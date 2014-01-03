@@ -1,0 +1,37 @@
+<wpt lat="40.024317" lon="-75.682617" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-03-19T07:00:00Z</time>
+    <name>GC1NX9X</name>
+    <desc>I see..... Exton by Libr@ryL@dy, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=67ea900c-e8dc-4013-8c71-bb4ccad26dc6</url>
+    <urlname>I see..... Exton</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1165227" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>I see..... Exton</groundspeak:name>
+      <groundspeak:placed_by>Libr@ryL@dy</groundspeak:placed_by>
+      <groundspeak:owner id="1847117">Libr@ryL@dy</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Have a seat and enjoy the view.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The first time we drove through here, my DD said, "Wow, I bet you can see all the way to Philly....... No, but, 
+I see....... Exton!"
+Park at the top and walk down. Or park at the bottom and walk up.  When you get to the middle, sit a while and enjoy.
+Considering where you have found yourself, you are looking for the usual, so you know to BYOP.  It's not hard to find; you're really just here to enjoy the view.
+
+Congratulations to  Riggtown53 for FTF.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Tiny. Round. Black. Enough said.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="125401394">
+          <groundspeak:date>2010-09-05T21:55:06Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice view, hadn't been up here before. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

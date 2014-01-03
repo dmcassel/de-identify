@@ -1,0 +1,32 @@
+<wpt lat="32.776017" lon="-79.9282" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-05-30T07:00:00Z</time>
+    <name>GC29EPG</name>
+    <desc>All that Remains by lakesten, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a23ca02e-9f87-4cf3-93e9-817eb7ca55e1</url>
+    <urlname>All that Remains</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1718193" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>All that Remains</groundspeak:name>
+      <groundspeak:placed_by>lakesten</groundspeak:placed_by>
+      <groundspeak:owner id="3268745">lakesten</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>South Carolina</groundspeak:state>
+      <groundspeak:short_description html="False">What was this place?</groundspeak:short_description>
+      <groundspeak:long_description html="False">A spot not many visitors to the city will see, it’s surely not what it used to be.  Imagine the past while standing near an entrance to something once surely much grander.  Take a tiny treasure from the sea, tossed and tumbled smooth, also no longer what it used to be.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Beep beep, watch your step.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136131643">
+          <groundspeak:date>2010-11-17T02:28:58Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Thought I might not get this one in the dark, but I found it. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

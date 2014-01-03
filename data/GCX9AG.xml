@@ -1,0 +1,35 @@
+<wpt lat="40.154867" lon="-76.294617" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-07-22T07:00:00Z</time>
+    <name>GCX9AG</name>
+    <desc>Chippie's Choice by ratjam, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4ea1f6e5-6b9e-485a-83cc-5ac2a6e79828</url>
+    <urlname>Chippie's Choice</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="432003" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Chippie's Choice</groundspeak:name>
+      <groundspeak:placed_by>ratjam</groundspeak:placed_by>
+      <groundspeak:owner id="152582">ratjam</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">This cache was hidden on Chippie's 7th birthday, so he got to pick the name. It is our first hide. After we get a few out there, we will try to get more creative.</groundspeak:short_description>
+      <groundspeak:long_description html="False">This small park is the site of the REVOLUTIONARY WAR MEMORIAL 1930 and VETERANS MEMORIAL 1999.
+
+On this site were interred the remains of 110 soldiers from General Washingon's Continental Army. Wounded at the battles of Brandywine and Germantown, these soldiers were transported to Lititz between December 1777 and August 1778. Hospitalized in the Moravian Brethren's house, they succumbed to their wounds or illnesses and were burried in unmarked graves, due to the religious beliefs of the community. To honor their ultimate sacrafices this memorial was dedicated in 1930. Their remains were discovered in 1932, and re-interred here. They were burried without written record of their identities, making them some of America;s first unknown soldiers.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="125205285">
+          <groundspeak:date>2010-09-05T01:49:04Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">#2 today, with the family</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

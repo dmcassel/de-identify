@@ -1,0 +1,37 @@
+<wpt lat="40.002217" lon="-75.6898" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-01-03T08:00:00Z</time>
+    <name>GC18ATV</name>
+    <desc>Thick as a ... by spoyd, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6ad5f13f-8df7-4b83-8088-124b8cc57b9a</url>
+    <urlname>Thick as a ...</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="761140" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Thick as a ...</groundspeak:name>
+      <groundspeak:placed_by>spoyd</groundspeak:placed_by>
+      <groundspeak:owner id="1322170">spoyd</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">The terrain is actually a 1 if you don't take the most direct route from the parking area to the cache. If you ignore this note then there are some short steep inclines and a very soggy bottom.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Nothing special about the location except that I drive past it everyday on my way to work.
+
+CAUTION: Boot Road is very busy with lots of car and truck traffic so please don't try to park on the road or cross the road on foot. Use the parking lot for the office building on the South side of the road at the waypoint provided.
+
+Congratulations to bpp_picnic for the FTF and thanks to Kin9sPanK for the micro seed cache (which, going full circle, was retrieved from bpp_picnic's great and challenging nearby cache "Totally Tubular").</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="140233796">
+          <groundspeak:date>2011-01-03T22:19:53Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

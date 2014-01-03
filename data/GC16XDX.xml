@@ -1,0 +1,47 @@
+<wpt lat="39.98645" lon="-75.68645" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-10-23T07:00:00Z</time>
+    <name>GC16XDX</name>
+    <desc>Classic Ruins by bpp_picnic, Traditional Cache (1.5/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f9f48e9b-57b3-481c-9a43-b2c506a981c0</url>
+    <urlname>Classic Ruins</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="718486" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Classic Ruins</groundspeak:name>
+      <groundspeak:placed_by>bpp_picnic</groundspeak:placed_by>
+      <groundspeak:owner id="864597">bpp_picnic</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">[RED]NOTE*** New coordinates are posted for parking and trail access! [/RED]</groundspeak:short_description>
+      <groundspeak:long_description html="False">This is an easy cache located on a new East Bradford Park property. This park has lots of hills and trails but no organized sports fields. Here are a few things to remember:
+
+Hunting is permitted for members of the Brandywine Valley Archery Club only. They have tree stands that are marked with a white sign and they are throughout the property. Please try NOT to visit this park in the morning or evening from October to January as this is the best time for bow hunting.
+
+They are curently upgrading the trail system so some trails may be marked closed as they work on them. The cache is located just off one of the trails. No bushwacking is required. PLEASE stay on the trails. The trails are NOT paved and ARE steep in spots. This is a LONG walk and you will not always be going directly at the cache.
+
+There is a bike club that uses the trails also. They are die hard off-road cyclists so if you see them coming please get out of the way.
+
+This IS just you standard ammo can hidden in the woods. I finally found a place to hide something bigger than a micro. This is just off one of the trails near an old building. It is not embedded in any of the walls. The GPS readings were a bit jumpy but it should be an easy find. Please rehide as well or better than you found it!
+
+There is only ONE place to park to enter the park trails. The roadway at the parking area is ONE WAY the wrong way from route 322, so you will have to find your way around to get to the parking.
+
+As with all township parks please follow the posted rules and the park is open dawn to dusk. Thanks for looking.
+
+Congrats to SquirtGunn for the FTF !!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133305779">
+          <groundspeak:date>2010-10-27T17:19:51Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Walked right by it thinking it was somewhere else. Darn, could have avoided those prickers if I'd noticed the first time. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

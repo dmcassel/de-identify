@@ -1,0 +1,34 @@
+<wpt lat="39.972614" lon="-75.363597" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-12-11T08:00:00Z</time>
+    <name>GC2K8E4</name>
+    <desc>minty box by amandaprocaccio, Traditional Cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1614b9d7-6e14-4a60-9520-0bb014c071cb</url>
+    <urlname>minty box</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2010077" available="False" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>minty box</groundspeak:name>
+      <groundspeak:placed_by>amandaprocaccio</groundspeak:placed_by>
+      <groundspeak:owner id="4020240">amandaprocaccio</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">It is a small tupperware container with a green lid.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="149803389">
+          <groundspeak:date>2011-03-19T22:22:26Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22, LNRC, and billcas. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

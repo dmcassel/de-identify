@@ -1,0 +1,35 @@
+<wpt lat="40.118433" lon="-75.55575" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2003-12-20T08:00:00Z</time>
+    <name>GCHC2K</name>
+    <desc>Dave'sDoin's by OTTERMEN EMPIRE, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=372f817e-cd28-450b-884c-7035d039797c</url>
+    <urlname>Dave'sDoin's</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="106940" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Dave'sDoin's</groundspeak:name>
+      <groundspeak:placed_by>OTTERMEN EMPIRE</groundspeak:placed_by>
+      <groundspeak:owner id="147916">OTTERMEN EMPIRE</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">A guick and easy micro in a small park in Charlestown Township.</groundspeak:short_description>
+      <groundspeak:long_description html="False">This cache was placed in honor of the completion of Dave's Boy Scout "Eagle Project".  Congrats!  It's a short walk along a paved trail to the cache site.  Parking is available at N 40d 07.274 S 075d 33.209.  Remember, it's a micro with no writing implement so BYOP, and as always...."Be Prepared".
+
+02/21/11:  I have just been informed that there is a lock and lock box very near to our micro cache.  After a bit of research, I have discovered that the box is, in fact, a letterbox not a geocache.  If you find that, don't log it as a find for Dave'sDoin's.  The cache is close by, but it is a micro with it's own log.  A bit trickier to find.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="166077429">
+          <groundspeak:date>2011-06-12T02:27:45Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">We needed some looking to find this one, and some care to avoid poison ivy, but we got it. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,33 @@
+<wpt lat="38.852369" lon="-77.347853" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-09-13T07:00:00Z</time>
+    <name>GC1YJEF</name>
+    <desc>"The Mr. Douglas" by pingelphoto, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=591f3f2a-2871-4a3e-b09d-ebcfa4b10f52</url>
+    <urlname>"The Mr. Douglas"</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1394087" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>"The Mr. Douglas"</groundspeak:name>
+      <groundspeak:placed_by>pingelphoto</groundspeak:placed_by>
+      <groundspeak:owner id="2583416">pingelphoto</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Virginia</groundspeak:state>
+      <groundspeak:short_description html="False">Muggles all around, rolling, rolling, on the ground.  Watch your waistline at this cache location.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Located in a busy urban parking lot, this cache takes some "outside the box" thinking to discover.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138646816">
+          <groundspeak:date>2010-12-15T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Had to wait for a few muggles to leave, but the cold kept most at bay. Neat hide.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

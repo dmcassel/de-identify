@@ -1,0 +1,49 @@
+<wpt lat="40.016483" lon="-75.6822" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-10-10T07:00:00Z</time>
+    <name>GC16JYK</name>
+    <desc>A Parking Lot Micro? by bpp_picnic, Traditional Cache (3/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5eb62816-315c-45f7-8bab-66d3f08e7ba4</url>
+    <urlname>A Parking Lot Micro?</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="709363" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>A Parking Lot Micro?</groundspeak:name>
+      <groundspeak:placed_by>bpp_picnic</groundspeak:placed_by>
+      <groundspeak:owner id="864597">bpp_picnic</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">A Parking Lot Micro with a little extra.</groundspeak:short_description>
+      <groundspeak:long_description html="False">This is a micro located at a parking lot in Downingtown. This is not a Cache and Dash. You will need to park and look for this one. Not many people notice this nice little spot in such a busy area. It is actually somewhat peacful here.
+
+Here are few things to keep in mind.
+
+This is a very busy parking lot, so watch out for cars. Everyone drives around on their cell phone not looking where they are going, so you have to watch out for them!
+
+The cache is not in the Rose Garden.
+
+You do not need to jump off or climb down anything. There is always an easier way! Hence the terrain rating of 1.5
+
+As with all my caches please make sure that you replace the cache EXACTLY where and how you found it. Also you must bring your own writing utensil. Thank You.
+
+I have listed the best parking spot for the cache, so please use it. Do not try to park on Route 30 or the entrance to the parking lot as it is not safe to do so.
+
+Thats it! No more hints!
+
+Please be safe, have fun and thanks for looking.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="194011408">
+          <groundspeak:date>2011-10-22T18:20:24Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Took a couple visits, but the smiley is outs! Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

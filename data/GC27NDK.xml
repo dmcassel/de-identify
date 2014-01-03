@@ -1,0 +1,41 @@
+<wpt lat="40.021311" lon="-75.625378" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-04-27T07:00:00Z</time>
+    <name>GC27NDK</name>
+    <desc>Babies' Bright Lights by RhombusRovers, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1f27689a-4c79-4518-95a0-68ffb785213a</url>
+    <urlname>Babies' Bright Lights</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1665062" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Babies' Bright Lights</groundspeak:name>
+      <groundspeak:placed_by>RhombusRovers</groundspeak:placed_by>
+      <groundspeak:owner id="2897350">RhombusRovers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">This is a micro cache as it only contains a log, so please be sure to bring your own pen.  
+
+Cache is readily accessible, but the area might be subject to muggles, especially on the weekends, so be sure to be stealth!
+
+The cache is specifically placed and positioned -- please return it as found.</groundspeak:short_description>
+      <groundspeak:long_description html="False">This is the first cache hidden by the RhombusRovers, and we are excited to venture into this aspect of Geocaching - the cache is homemade, but designed with this particular spot and scenario in mind.
+
+Update 5/2/10 -- based on initial feedback via log postings, we have placed the log in a tiny zip-lock bag, and placed that within the cache.  It is a snug fit, but with care should be easily removed and replaced.  Hopefully this will keep the log dry.
+
+Congratulations to donbaker13 for being FTF -- within hours of the cache being published!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132689007">
+          <groundspeak:date>2010-10-23T21:31:25Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Good job on making and hiding this one! </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

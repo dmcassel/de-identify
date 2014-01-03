@@ -1,0 +1,34 @@
+<wpt lat="40.037967" lon="-75.355667" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-07-17T07:00:00Z</time>
+    <name>GC1E988</name>
+    <desc>Shrek by MF trackers, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ac8975b6-fded-4ced-9757-76ff76fd82fd</url>
+    <urlname>Shrek</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="938380" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Shrek</groundspeak:name>
+      <groundspeak:placed_by>MF trackers</groundspeak:placed_by>
+      <groundspeak:owner id="1468830">mf trackers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Skrek and Fiona's favorite hideout. Bring a quill and ink. Will be muddy after a rain. Not on 476 no matter what your GPS says</groundspeak:short_description>
+      <groundspeak:long_description html="False">You are looking for a plastic cammo jar. 1.5 inch high and 1 inch wide. It has a log scroll and room for very, very small objects. It is not hidden on private property.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Hint 1: Where do Ogre's hide
+
+Hint 2: Up against the wall and spread em</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="149990916">
+          <groundspeak:date>2011-03-20T17:58:23Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22 and our girls. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,33 @@
+<wpt lat="39.992083" lon="-83.026167" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-10-16T07:00:00Z</time>
+    <name>GC2GVCR</name>
+    <desc>The Lennox Cache by RoundTownCachers and Team Crowbar, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7e0758ed-a945-425e-af4f-b8d9a8c3919c</url>
+    <urlname>The Lennox Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1937960" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The Lennox Cache</groundspeak:name>
+      <groundspeak:placed_by>RoundTownCachers and Team Crowbar</groundspeak:placed_by>
+      <groundspeak:owner id="3111119">RoundTownCachers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Ohio</groundspeak:state>
+      <groundspeak:short_description html="False">Nice cache to find while doing some shopping or watching a movie. Nothing to hard. Classic cammo container. Bring your own pen.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>bush</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="165622947">
+          <groundspeak:date>2011-06-09T01:22:14Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find. Picked up a travel bug that I'll take back to PA. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

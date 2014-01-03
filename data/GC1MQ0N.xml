@@ -1,0 +1,44 @@
+<wpt lat="38.843417" lon="-77.331667" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-02-15T08:00:00Z</time>
+    <name>GC1MQ0N</name>
+    <desc>Memorization Technique by reedkickball, Unknown Cache (3/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2c2326c4-96d5-41b9-9fb7-06751c989f3f</url>
+    <urlname>Memorization Technique</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1130345" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Memorization Technique</groundspeak:name>
+      <groundspeak:placed_by>reedkickball</groundspeak:placed_by>
+      <groundspeak:owner id="764956">reedkickball</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Virginia</groundspeak:state>
+      <groundspeak:short_description html="True">
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="http://img.geocaching.com/cache/cc1eba9a-fbb1-4944-955f-f84b969d6901.jpg" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src="http://img.geocaching.com/cache/2cf51b22-712d-441c-9e2a-e5c27fcf92bf.jpg" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src="http://img.geocaching.com/cache/1a949f87-35aa-437e-b265-522e825a93d6.jpg" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src="http://img.geocaching.com/cache/624f19cf-b66c-4df9-83f8-ea311cb06226.jpg" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href="http://www.geochecker.com/index.php?code=7b7718d7aac62400c44c06d5991c44c0&amp;amp;action=check&amp;amp;wp=4743314d51304e&amp;amp;name=4d656d6f72697a6174696f6e20546563686e69717565"&gt;Geochecker.com.&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+Thanks to the Fairfax County Park Authority for allowing me to place this cache. Please follow all park rules. No caching at night.
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Puzzle: Swype</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138663364">
+          <groundspeak:date>2010-12-16T15:33:12Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Neat puzzle, and this morning I found the cache. It was frozen shut, but still there. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

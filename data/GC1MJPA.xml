@@ -1,0 +1,40 @@
+<wpt lat="39.99145" lon="-75.761967" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-02-10T08:00:00Z</time>
+    <name>GC1MJPA</name>
+    <desc>Trackside near Thorndale by UnNamed , Traditional Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=be7ab817-c143-481c-8d81-734a499853b9</url>
+    <urlname>Trackside near Thorndale</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1126211" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Trackside near Thorndale</groundspeak:name>
+      <groundspeak:placed_by>UnNamed </groundspeak:placed_by>
+      <groundspeak:owner id="958837">UnNamed</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">TRACKSIDE AT THORNDALE</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133261843">
+          <groundspeak:date>2010-10-27T01:39:44Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">I went looking after dark and a flashlight wasn't enough. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="169558532">
+          <groundspeak:date>2011-06-28T22:30:14Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Second try for this one. Either I've gotten better at looking, or it's easier to find before dark. :) Found with dawnie22, 19acassel and our younger daughter. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

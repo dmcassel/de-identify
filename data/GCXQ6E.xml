@@ -1,0 +1,33 @@
+<wpt lat="39.683233" lon="-75.749267" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-08-14T07:00:00Z</time>
+    <name>GCXQ6E</name>
+    <desc>Main Street Monopoly by mattandzach, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8b6dc5d0-62e6-4f3d-b099-116128199a2d</url>
+    <urlname>Main Street Monopoly</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="445331" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Main Street Monopoly</groundspeak:name>
+      <groundspeak:placed_by>mattandzach</groundspeak:placed_by>
+      <groundspeak:owner id="774392">mattandzach</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Delaware</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Easy urban cache.  Look out for muggles!  Contains monopoly playing peices and log book.  Bring your own pen! Looking to trade game pieces to your favorite games.  Mint tin.  Just put your gps on the open book your reading and sit on the wall and you'll blend right into college town. You can park on the street for a quarter or can park in one of the municipal lots located downtown. Sorry.  We thought there was free parking in the Newark Shopping Center, but we were informed that they may tow! This is our first cache hide.  Let us know how we did.  Hope you have fun!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Lot #4</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="127418204">
+          <groundspeak:date>2010-09-19T03:05:52Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Tough to be subtle on a Saturday night in a college town, but we managed. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

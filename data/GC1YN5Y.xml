@@ -1,0 +1,47 @@
+<wpt lat="48.192967" lon="7.321417" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-09-14T07:00:00Z</time>
+    <name>GC1YN5Y</name>
+    <desc>petit pont de bois by spinn18, Traditional Cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f8625210-6ae5-42ce-96f7-25178b54fde6</url>
+    <urlname>petit pont de bois</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1396705" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>petit pont de bois</groundspeak:name>
+      <groundspeak:placed_by>spinn18</groundspeak:placed_by>
+      <groundspeak:owner id="765630">spinn&amp;krewette</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>France</groundspeak:country>
+      <groundspeak:state>Alsace</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;div style="text-align: center;"&gt;&lt;big style=
+"color: rgb(255, 0, 0);"&gt;&lt;big style=
+"font-weight: bold;"&gt;&lt;span style=
+"font-family: Comic Sans MS;"&gt;cache à ne pas faire avant le
+19/09/2009 merci&lt;/span&gt;&lt;/big&gt;&lt;/big&gt;&lt;/div&gt;
+c'est une nano cache</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;div style="text-align: center;"&gt;&lt;big&gt;&lt;big&gt;&lt;span style=
+"text-decoration: underline;"&gt;&lt;span style=
+"font-weight: bold;"&gt;&lt;span style="font-family: Comic Sans MS;"&gt;Le
+petit pont de bois&lt;br /&gt;
+&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/big&gt;&lt;/big&gt;&lt;img style=
+"width: 472px; height: 354px;" id="lightboxImage" src=
+"http://img.geocaching.com/cache/3243fe53-8c87-4635-986e-89a8b3e96330.jpg" /&gt;&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;big&gt;&lt;span style="font-family: Comic Sans MS;"&gt;attention de ne pas
+faire tomber le logbook en attrapant la cache !&lt;/span&gt;&lt;/big&gt;&lt;/div&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>nanocache en hauteur</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="171295719">
+          <groundspeak:date>2011-07-08T03:19:29Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">My second in France. Found with dawnie22, 19acassel, LNRC and our younger daughter. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

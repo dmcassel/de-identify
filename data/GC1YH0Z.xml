@@ -1,0 +1,48 @@
+<wpt lat="39.774683" lon="-75.578417" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-09-30T07:00:00Z</time>
+    <name>GC1YH0Z</name>
+    <desc>DGT Hagley Museum by Delaware GeoTrail, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=16760985-9ca2-4f93-8f3d-efbbcde60486</url>
+    <urlname>DGT Hagley Museum</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1392707" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>DGT Hagley Museum</groundspeak:name>
+      <groundspeak:placed_by>Delaware GeoTrail</groundspeak:placed_by>
+      <groundspeak:owner id="2660580">Delaware_GeoTrail</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Delaware</groundspeak:state>
+      <groundspeak:short_description html="True">Location description.&lt;br /&gt;
+&lt;p&gt;Access from Old Barley Mill Road which is off of Rt 141.&lt;br /&gt;
+&lt;b&gt;This cache is only acessible 9:30 to 4:30 daily since it is
+inside the locked gates of the Hagley Grounds.&lt;/b&gt; Go through the
+gate to the visitor parking area.&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">The &lt;a href="http://www.visitdelaware.com/geo"
+target="_blank"&gt;Delaware Geocaching Trail&lt;/a&gt; will take you on an
+adventurous journey throughout the great State of Delaware. Our
+trail will excite you with all of the historical and cultural
+treasures hidden in Delaware’s three counties. As you proceed on
+your venture, you will witness the beautiful estates, gardens and
+sanctuaries that envelope this great state. You will admire the
+early 1800s architecture of the churches and homes in New Castle
+County. You will learn about the early Indian tribes that settled
+along the rivers and bays in Sussex County. While exploring Kent
+County, you will also be in touch with the defenders of our State
+and country. 
+&lt;p&gt;Enjoy your quest!&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Near big metal bolts</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="140538366">
+          <groundspeak:date>2010-12-30T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22 and our girls, who had found it before.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,36 @@
+<wpt lat="40.060217" lon="-75.771367" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-11-27T08:00:00Z</time>
+    <name>GC21FFP</name>
+    <desc>Hideaway Farms Micro by Gcap, Traditional Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7cbf4ac5-de19-4615-a31b-fc54fd04620c</url>
+    <urlname>Hideaway Farms Micro</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1480615" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Hideaway Farms Micro</groundspeak:name>
+      <groundspeak:placed_by>Gcap</groundspeak:placed_by>
+      <groundspeak:owner id="2048865">Gcap</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Definately NOT "one of those"!</groundspeak:short_description>
+      <groundspeak:long_description html="False">"Hideaway" is not a good clue, because if a cache was never hidden away, this is it! I've provided a small "tool" to help retrieve the log. Please replace the cache as found, and make sure it's secure. BYOP, there's room for the log only, and a small FTF prize.
+Log a DNF and I'll email a clue.
+
+Congrats to bearette &amp; Bear3 for the FTF! [:D]</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="148931424">
+          <groundspeak:date>2011-03-13T22:51:58Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22 and our daughter. We were just about to give up and then... There it was. :)</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

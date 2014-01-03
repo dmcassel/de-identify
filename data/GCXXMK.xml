@@ -1,0 +1,39 @@
+<wpt lat="39.284733" lon="-76.60385" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-08-23T07:00:00Z</time>
+    <name>GCXXMK</name>
+    <desc>A Surprisingly Interesting Museum! by baltimore bill &amp; knitting ellen, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7bb88622-9a1d-4cfd-8368-f51ddb6a2a20</url>
+    <urlname>A Surprisingly Interesting Museum!</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="450575" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>A Surprisingly Interesting Museum!</groundspeak:name>
+      <groundspeak:placed_by>baltimore bill &amp; knitting ellen</groundspeak:placed_by>
+      <groundspeak:owner id="33964">baltimore bill &amp; knitting ellen</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">This is part of our downtown Baltimore series of caches.  There are many interesting things withing walking distance of the fabled Inner Harbor.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The Baltimore Department of Public Works (DPW) is a very interesting museum both inside and outside for adults and kids with their outdoor attractions.  (The building still pumps 30 million gallons of sewage pumped daily!!).  Web site: http://www.ci.baltimore.md.us/government/dpw/museum/index.html
+
+There are many interesting things to see and do nearby including the streetscape of the museum.
+
+This cache is in the middle of our series of caches and is well hidden.  The goal is to take visitors on an interesting tour of the downtown area.  Muggle awareness is important but not critical.  Bring a writing instrument.  
+
+There seems to be a lot of GPS bounce due to the tall buildings nearby so we're including a few hints.  This cache was recently resurrencted after some nearby construction blocked access for several months however, we forgot to update the hint!   Once you're in the vicinity, the hints will get you to the cache.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Magnetic key container, inches from building, chest high, inside steel U-channel above a grate near machinery.
+If you're really stuck, view the 'Pipes' from the Gallery!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="150743761">
+          <groundspeak:date>2011-03-24T22:19:25Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">3pm seems a good time for avoiding muggles. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

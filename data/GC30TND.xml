@@ -1,0 +1,47 @@
+<wpt lat="40.092" lon="-75.389367" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-07-26T07:00:00Z</time>
+    <name>GC30TND</name>
+    <desc>Babies' Behind by SAJski1, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=81bbd845-c8a9-4984-b30f-627f737a72bd</url>
+    <urlname>Babies' Behind</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2384132" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Babies' Behind</groundspeak:name>
+      <groundspeak:placed_by>SAJski1</groundspeak:placed_by>
+      <groundspeak:owner id="3658727">SAJski1</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;CnD for the savvy shopper needing a break and a quick caching
+"fix".&lt;/p&gt;
+&lt;p&gt;Potential muggle traffic here, in fact while we were scoping it
+out, one vehicle passed by half-a-dozen times...Waiting to pick up
+the family I guess!&lt;/p&gt;
+&lt;p&gt;Caches is log only, so BYOP.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Don't get confused by aerial maps as Google Earth, Maps
+and Bing are all outdated pics! The building the cache appears to
+be in the middle of no longer exists! In fact, if you look at the
+satellite view in the dynamic map below, yollu see it being torn
+down!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=
+"http://www.lehighvalleygeocachers.org/LVGC.JPG" /&gt;&lt;br /&gt;
+(Southern chapter!)&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Cache on!&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>LPC</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="189495320">
+          <groundspeak:date>2011-09-29T23:26:44Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick &amp; easy find, TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

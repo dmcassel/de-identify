@@ -1,0 +1,43 @@
+<wpt lat="49.99675" lon="8.276583" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2004-09-11T07:00:00Z</time>
+    <name>GCKH5K</name>
+    <desc>Mainz Altstadt by gruenschuh, adopted by exhexemer., Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b9e640f0-85d6-40fb-a7a9-6930bcb99517</url>
+    <urlname>Mainz Altstadt</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="171420" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Mainz Altstadt</groundspeak:name>
+      <groundspeak:placed_by>gruenschuh, adopted by exhexemer.</groundspeak:placed_by>
+      <groundspeak:owner id="2558239">exhexemer</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Rheinland-Pfalz</groundspeak:state>
+      <groundspeak:short_description html="True">Wolfsgasse&lt;br /&gt;
+Wolf's Lane
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">Setze Dich auf die Treppe, greife unter dich ... und logge!&lt;br /&gt;
+Sit on the stairs, seize under you and ... log!&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Auf dem Weg zum Cache könnt Ihr die schöne Mainzer Altstadt erkunden, auch die Gässchen hinter der Augustinerstrasse. Man sieht doch manchmal noch erstaunliche Ecken.&lt;br /&gt;
+&lt;br /&gt;
+Nachtrag 21.01.13.&lt;br /&gt;
+Inhalt des Caches aufgeräumt, Logbuch erneuert.
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="171308296">
+          <groundspeak:date>2011-06-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22, 19acassel, LNRC, GrandmaMoses, and our younger daughter. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

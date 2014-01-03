@@ -1,0 +1,35 @@
+<wpt lat="40.012683" lon="-75.705717" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-09-05T07:00:00Z</time>
+    <name>GC33KYX</name>
+    <desc>PR#1 - Kerr Park by Picnic Commitee, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=84e11e9c-75f0-433b-9c91-99389f577dca</url>
+    <urlname>PR#1 - Kerr Park</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2468002" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>PR#1 - Kerr Park</groundspeak:name>
+      <groundspeak:placed_by>Picnic Commitee</groundspeak:placed_by>
+      <groundspeak:owner id="864597">bpp_picnic</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">This was hidden for my 2011 Fall Picnic. It was part of a Geo Game but remains as a cache.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Kerr Park is a 45-acre municipal park adjacent to the Brandywine Creek. Centrally located in the Borough of Downingtown, it offers facilities for sports and community events. The park includes picnic pavilions, public restrooms, a trout hatchery and the “Sky’s the Limit Playground”. The cache is located just off the white blazed Brandywine Trail which runs along the Brandywine Creek. 
+
+Be careful and have fun!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="194030445">
+          <groundspeak:date>2011-10-22T19:15:54Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Signs of extensive flooding, but the cache is still here. Took us a while to find it with GPS bouncing around, but dawnie22 made the find. 19acassel searched with us too.  </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

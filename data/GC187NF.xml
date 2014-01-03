@@ -1,0 +1,32 @@
+<wpt lat="41.239067" lon="-74.3306" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-12-30T08:00:00Z</time>
+    <name>GC187NF</name>
+    <desc>Hickory Hill 490ft Homerun by bizmogirl, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b6ed951f-b8e4-4771-aaa6-79d398dab563</url>
+    <urlname>Hickory Hill 490ft Homerun</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="758122" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Hickory Hill 490ft Homerun</groundspeak:name>
+      <groundspeak:placed_by>bizmogirl</groundspeak:placed_by>
+      <groundspeak:owner id="1390653">Jujabee</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>New York</groundspeak:state>
+      <groundspeak:short_description html="False">This cache is in Hickory Hill Park in Warwick New York. It is near a baseball field. Depending on the season you may have to cross over a small stream.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The cache contains a divervan coin, mini stuffed animals, a mexican coin, a key, a bell, magnets, a pin, a can opener, and a bunch of othere little things. The area is a great place for a picnic.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Two big rocks in front of the cache. The title is a hint.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="185659734">
+          <groundspeak:date>2011-09-10T19:08:34Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Ugh, mosquitoes. But we persevered and found the cache. Found with 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

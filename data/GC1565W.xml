@@ -1,0 +1,60 @@
+<wpt lat="39.71605" lon="-75.7714" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-08-15T07:00:00Z</time>
+    <name>GC1565W</name>
+    <desc>Between Millstone Mountain and  Pond by MikeOtt, Traditional Cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5bcf5f42-9780-46da-ac60-9014f02b60e0</url>
+    <urlname>Between Millstone Mountain and  Pond</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="667304" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Between Millstone Mountain and  Pond</groundspeak:name>
+      <groundspeak:placed_by>MikeOtt</groundspeak:placed_by>
+      <groundspeak:owner id="92122">MikeOtt</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Delaware</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.groundspeak.com/cache/1f956cb1-73da-43ec-82fb-c825cb552c2f.jpg" /&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">This cache is located in the Carpenter Area of White Clay Creek
+State Park, that is reached from Rt 896. From March to November
+this is a fee area-$3 for instate cars, $6 for out of state cars.
+(Better yet get an annual pass to all the Delaware State parks for
+$27)&lt;br /&gt;
+&lt;br /&gt;
+ It is being released at the same time as a geocaching event in the
+park hosted by &lt;b&gt;WhiteClayLover&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;p&gt;The initial cache was located in a high muggle area that is a
+fun place to go to. The rock outcropping was used to quarry
+millstones. You can see a partly made milstone that was abandoned
+at the cache site. There are some large steep rock so caution is
+required.&lt;/p&gt;
+&lt;p&gt;The GPS was jumping lots, but the name should clue you in on
+where to look. It is a large size plastic coffee container that has
+camo paint. Please keep it well hidden since this area gets a lot
+of activity&lt;br /&gt;
+&lt;br /&gt;
+ The is replacement cache that perviously was named "HIGH ATOP
+MILLSTONE MOUNTAIN", but muggles were too much of a problem at that
+location&lt;/p&gt;
+&lt;p&gt;There is a letterbox about 20 paces back from the summit of
+Millstone Mt. if you want another challange&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Under boardwalk next to large tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="127367666">
+          <groundspeak:date>2010-09-18T22:21:28Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">I used to come to this park all the time as a kid, but I hadn't realized how much there was to this place. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

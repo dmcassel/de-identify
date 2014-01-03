@@ -1,0 +1,34 @@
+<wpt lat="40.047283" lon="-75.522183" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2012-07-02T07:00:00Z</time>
+    <name>GC3PQE6</name>
+    <desc>Let's Go Shopping by jackcapaldi, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b1e8328d-65b9-4d19-a504-8245fd35d42c</url>
+    <urlname>Let's Go Shopping</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="3037388" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Let's Go Shopping</groundspeak:name>
+      <groundspeak:placed_by>jackcapaldi</groundspeak:placed_by>
+      <groundspeak:owner id="3987523">jackcapaldi</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">This geocache is located in a shopping area and is placed for quick stop and grab. It is very close to the Chester Valley Trail, a seven mile paved biking and hiking trail. You can park near the cache and use the trail and return for a meal or a snack.
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">The cache container is a small box with paper for you to log your find.  Please bring your own pencil.
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>This little light of mine, I'm going to let it shine, let it shine, let it shine.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="280275466">
+          <groundspeak:date>2012-11-18T19:09:43Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22 and 19acassel. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

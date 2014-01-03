@@ -1,0 +1,36 @@
+<wpt lat="38.901483" lon="-77.261417" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-08-28T07:00:00Z</time>
+    <name>GC1XWHQ</name>
+    <desc>Cedrus by mopermule, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=84db2d91-9b8e-460b-87b9-304c98ba41c8</url>
+    <urlname>Cedrus</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1373046" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Cedrus</groundspeak:name>
+      <groundspeak:placed_by>mopermule</groundspeak:placed_by>
+      <groundspeak:owner id="563507">mopermule</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Virginia</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">A plastic camo container swinging in the breeze. Please replace as
+found. Enjoy a stop near the W&amp;amp;OD trail.</groundspeak:long_description>
+      <groundspeak:encoded_hints>eltiteht</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138664842">
+          <groundspeak:date>2010-12-16T16:33:57Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">A few minutes waiting for a dog-walking muggle, a few minutes of searching and I got the smiley. 
+
+There are other bags tucked away in here, too. I didn't investigate what was in them. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

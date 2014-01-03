@@ -1,0 +1,36 @@
+<wpt lat="40.006933" lon="-75.66475" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-09-25T07:00:00Z</time>
+    <name>GC1Z3TG</name>
+    <desc>Not That Hard to Find by deb3day, Traditional Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e5aeabad-be94-4958-a4f2-b7878f852e70</url>
+    <urlname>Not That Hard to Find</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1409805" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Not That Hard to Find</groundspeak:name>
+      <groundspeak:placed_by>deb3day</groundspeak:placed_by>
+      <groundspeak:owner id="1606719">deb3day</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">You can park not far from this hide. Parking for not too many cars, closeby.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Perhaps the name should be changed to Not that Easy to find.  The hiding spot was not hiding the cache very well anymore.  I was not happy with it.  It did not take me long to find a better way to hide it.  Please do not fail to return it as you found it.  Otherwise the next cacher will not have the same experiences that you did.
+
+Hopefully you will not have a hard time finding this one. If you can not find it right away you should not give up. I did not place it in a difficult spot but it might not be easy to see. I ask that you do not pull apart anything while looking for it. That is not necessary. I do not like to find caches where folks have destroyed the landscape while looking. Good cachers do not do that. So please be careful not to damage the hiding spot. Hopefully you will not DNF this one.
+
+BTW, there is a small pencil hidden with the cache, but it would not be a bad idea to bring your own in case it does not have a good point. If it needs to be sharpened, do not hesitate to contact me.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Oh...can you spell "not" another way?</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="125415731">
+          <groundspeak:date>2010-09-05T22:32:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Clever camo!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

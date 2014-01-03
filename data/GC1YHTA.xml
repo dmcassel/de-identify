@@ -1,0 +1,47 @@
+<wpt lat="39.797883" lon="-75.60895" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-09-30T07:00:00Z</time>
+    <name>GC1YHTA</name>
+    <desc>DGT Delaware Museum of Natural History by Delaware GeoTrail, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1f9fe641-1778-42ca-b990-35c29907f4d6</url>
+    <urlname>DGT Delaware Museum of Natural History</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1393462" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>DGT Delaware Museum of Natural History</groundspeak:name>
+      <groundspeak:placed_by>Delaware GeoTrail</groundspeak:placed_by>
+      <groundspeak:owner id="2660580">Delaware_GeoTrail</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Delaware</groundspeak:state>
+      <groundspeak:short_description html="True">Description: 
+&lt;p&gt;The cache is avaiable dawn to dusk. Use the Museum visitor
+parking area. The Museum is open Mon-Sat 9:30 to 4:30 and Sunday
+Noon to 4:30pm&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">The &lt;a href="http://www.visitdelaware.com/geo"
+target="_blank"&gt;Delaware Geocaching Trail&lt;/a&gt; will take you on an
+adventurous journey throughout the great State of Delaware. Our
+trail will excite you with all of the historical and cultural
+treasures hidden in Delaware’s three counties. As you proceed on
+your venture, you will witness the beautiful estates, gardens and
+sanctuaries that envelope this great state. You will admire the
+early 1800s architecture of the churches and homes in New Castle
+County. You will learn about the early Indian tribes that settled
+along the rivers and bays in Sussex County. While exploring Kent
+County, you will also be in touch with the defenders of our State
+and country. 
+&lt;p&gt;Enjoy your quest!&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Base evergreen tree.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="163185634">
+          <groundspeak:date>2011-05-28T22:10:39Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find after visiting the museum. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

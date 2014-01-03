@@ -1,0 +1,32 @@
+<wpt lat="39.97435" lon="-75.741333" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2012-03-25T07:00:00Z</time>
+    <name>GC3FD46</name>
+    <desc>Broadrun Treasure by ifen27, Traditional Cache (1.5/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4b0a9712-3e5a-41bf-b0b1-da0165a030eb</url>
+    <urlname>Broadrun Treasure</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2818931" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Broadrun Treasure</groundspeak:name>
+      <groundspeak:placed_by>ifen27</groundspeak:placed_by>
+      <groundspeak:owner id="5599359">ifen27</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">this is the first cache I've ever hidden. It has been placed here with the permission of West Bradford township. Easy to get within 100 ft. and then it gets difficult. A not so crisp Washington for FTF.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Cache is a Glad screw top Tupperware container. Black duct tape around it for camouflage. Contains small kid friendly trinkets, a 1$ bill for FTF, and a Log with pencil.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Through the tall grass.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="283836009">
+          <groundspeak:date>2012-12-13T00:41:06Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Took some looking in the dark, but we git it! Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,54 @@
+<wpt lat="38.9922" lon="-76.3216" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-09-09T07:00:00Z</time>
+    <name>GC2EXCV</name>
+    <desc>Spirit Quest: Spirits of The Past by Mother Wolf, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a5947084-d07f-480e-84b6-2d8e78c0df2d</url>
+    <urlname>Spirit Quest: Spirits of The Past</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1880302" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Spirit Quest: Spirits of The Past</groundspeak:name>
+      <groundspeak:placed_by>Mother Wolf</groundspeak:placed_by>
+      <groundspeak:owner id="713059">Mother Wolf</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="True">A quiet placed tucked away but very close to the path way. It is
+actually on the Cross Island Trail.
+&lt;p&gt;The park is open from sunup to sundown. Pets are allowed but
+must be leashed.&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;During the summer months this little place is somewhat more
+concealed but if you follow the trail when you get close you should
+be able to find your way in with little to no problems.
+&lt;p&gt;&lt;br /&gt;
+The WP's will be more for reference than anything else.&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;b&gt;&lt;font size="+1" color="olive"&gt;Proud member of the &lt;a rel=
+"nofollow" href="http://militarycache.org/"&gt;Military Association of
+GeoCachers&lt;/a&gt;&lt;br /&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a rel="nofollow" href="http://militarycache.org/"&gt;&lt;font color=
+"olive"&gt;&lt;img src=
+"http://militarycache.org/magclist/templates/subSilver/images/logo_phpBB.gif"
+border="0" alt="MAGC Logo" /&gt;&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;*****Good Job on FTF Corfmania*****&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Only remove the container &amp; not the holder.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="255668173">
+          <groundspeak:date>2012-08-07T20:40:48Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one after walking around the cross island trail. Lots of bugs, a few deer and a fox, along with a number of cool birds. Found with dawnie22. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

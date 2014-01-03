@@ -1,0 +1,32 @@
+<wpt lat="39.302817" lon="-75.783583" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-08-10T07:00:00Z</time>
+    <name>GC31ZJC</name>
+    <desc>WMA2 by Joe Wessels, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6e061191-4ae0-41ee-8bf0-3f1a07041dbe</url>
+    <urlname>WMA2</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2418634" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>WMA2</groundspeak:name>
+      <groundspeak:placed_by>Joe Wessels</groundspeak:placed_by>
+      <groundspeak:owner id="359217">Joe Wessels</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">The 3rd of 3 MD WMA caches along the way to Massey Airfield.</groundspeak:short_description>
+      <groundspeak:long_description html="False">A small cache with log only.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Beats me.  I'm stumped.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="255573451">
+          <groundspeak:date>2012-08-07T15:47:26Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found pretty quickly with dawnie22. Managed not to get carried off by the largest fly I've ever seen. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

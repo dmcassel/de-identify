@@ -1,0 +1,35 @@
+<wpt lat="39.979833" lon="-75.732317" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2012-07-28T07:00:00Z</time>
+    <name>GC3RD71</name>
+    <desc>Down the Leftfield Line by Easy Ed, Traditional Cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=87871e19-b53e-4b74-9044-3e1177787add</url>
+    <urlname>Down the Leftfield Line</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="3087138" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Down the Leftfield Line</groundspeak:name>
+      <groundspeak:placed_by>Easy Ed</groundspeak:placed_by>
+      <groundspeak:owner id="17444">Easy Ed</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">This is my first cache placement and a micro cache located at the baseball field on the West Bradford Municipal Campus. Muggle factor could be high during certain times of year when local sports are being played or practiced.  Bring pencil or pen to sign log sheet. Congratulations to Rrrbt202 for FTF.
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="303207651">
+          <groundspeak:date>2013-04-04T13:14:42Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Took me a minute, but I found it during my regular walk. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,35 @@
+<wpt lat="39.9972" lon="-75.7404" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-09-22T07:00:00Z</time>
+    <name>GC1GHEC</name>
+    <desc>Wile E. Coyote Can Do It in Less Than 30 Minutes by deb3day, Traditional Cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=feb40c97-ef5d-48fd-bc42-ff8a2dca6979</url>
+    <urlname>Wile E. Coyote Can Do It in Less Than 30 Minutes</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1005840" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wile E. Coyote Can Do It in Less Than 30 Minutes</groundspeak:name>
+      <groundspeak:placed_by>deb3day</groundspeak:placed_by>
+      <groundspeak:owner id="1606719">deb3day</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Yes, Wile E. Coyote does all of his shopping here.  He should be able to find this in less than 30 minutes.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Parking close by, if you are quick about it.  Parking almost as close if you need to stay longer.  
+
+Bison tube type container.  Bring your own writing utensil. Please be sure to screw the lid on tightly.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136682023">
+          <groundspeak:date>2010-11-21T21:48:50Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22 and a quick tip from the guy in the shop. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,36 @@
+<wpt lat="39.28375" lon="-76.605267" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-08-23T07:00:00Z</time>
+    <name>GCXXMG</name>
+    <desc>7 Ft Knoll by baltimore bill &amp; knitting ellen, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c39017de-ea23-4c4a-a493-47c55d145878</url>
+    <urlname>7 Ft Knoll</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="450572" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>7 Ft Knoll</groundspeak:name>
+      <groundspeak:placed_by>baltimore bill &amp; knitting ellen</groundspeak:placed_by>
+      <groundspeak:owner id="33964">baltimore bill &amp; knitting ellen</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">This cache location is a maritime classic from the Chesapeake Bay that used to light the entrance to the Baltimore Harbor.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The lighthouse was saved from demolition in 1988 and instead moved to the Inner Harbor as a tourist attraction of Baltimore maritime history.  The area around it has recently been developed as an upscale retail area and promenade. It is helping to push out the edge of the Inner Harbor redevelopment.  For more info: http://www.baltomaritimemuseum.org/lh/sevenfootknoll.html
+
+In all cases, watch out for Muggles. There is no admission to do this cache!!  Replace as found please. Small items might fit.  A fingernail is required to access cache contents.
+
+This is part of our Downtown Baltimore series of caches.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Not what you think.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="150745936">
+          <groundspeak:date>2011-03-24T22:31:34Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache definitely needs some maintenance. Found and replaced as best I could. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

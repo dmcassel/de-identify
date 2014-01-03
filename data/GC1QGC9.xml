@@ -1,0 +1,41 @@
+<wpt lat="39.497933" lon="-76.23315" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-04-24T07:00:00Z</time>
+    <name>GC1QGC9</name>
+    <desc>Maryland House V--A Micro No More (Ver. 3.0) by Son_of_Mt_Soma, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=506c0717-2108-47a1-91f0-9807b0b2c139</url>
+    <urlname>Maryland House V--A Micro No More (Ver. 3.0)</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1213351" available="False" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Maryland House V--A Micro No More (Ver. 3.0)</groundspeak:name>
+      <groundspeak:placed_by>Son_of_Mt_Soma</groundspeak:placed_by>
+      <groundspeak:owner id="658550">Son_of_Mt_Soma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">A small cache at the Maryland House Rest Stop in Harford County, MD.</groundspeak:short_description>
+      <groundspeak:long_description html="False">This is version 3 of the fifth in a series of caches at the Maryland House Rest Stop, and it was the first micro of the five.  Version 1 got muggled in Sep 2009.  Version 2 disappeared in May 2010.  So, Version 3 is now out, and I have upgraded its size to a small cache.  The previous four caches are in the woods in this paradise between the lanes of I-95.  It is located a little further away from muggle infested areas--hopefully it will last longer as a result.  If you have previously found Versions 1 and 2, your are welcomed to register a find with Version 3.
+
+UPDATE (14 Sep 2009):  You do not have to take anything apart to find the cache.
+
+UPDATE (26 Sep 2009):  Version 1 of this cache disappeared, so now Version 2 is up and running.  Version 2 is located a short distant from the location of Version 1.  Since this is a new container and location, anyone who found Version 1 is welcomed to come look for Version 2 and log in a new find.
+
+UPDATE (5 Jul 2010):  Version 3 is up and running.</groundspeak:long_description>
+      <groundspeak:encoded_hints>(1) There is a fairly easy way past the holly leaves to get at the cache.
+
+
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138966211">
+          <groundspeak:date>2010-12-21T19:12:01Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find on a business trip. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

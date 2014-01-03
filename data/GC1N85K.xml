@@ -1,0 +1,33 @@
+<wpt lat="41.249817" lon="-74.33455" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-03-01T08:00:00Z</time>
+    <name>GC1N85K</name>
+    <desc>Can't Ketchum! by MaRchforTh, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=534515d8-b498-40a2-a999-7a549def92d4</url>
+    <urlname>Can't Ketchum!</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1145874" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Can't Ketchum!</groundspeak:name>
+      <groundspeak:placed_by>MaRchforTh</groundspeak:placed_by>
+      <groundspeak:owner id="1396566">MaRchforTh</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>New York</groundspeak:state>
+      <groundspeak:short_description html="False">This little micro is so fast you'll hardly have time to get out of your car and grab it!</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>I'll sneak right past your "guards"</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="185643697">
+          <groundspeak:date>2011-09-10T18:18:26Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with my daughter, 19acassel. Our first NY state cache!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

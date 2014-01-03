@@ -1,0 +1,34 @@
+<wpt lat="40.49515" lon="-75.766267" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2005-06-25T07:00:00Z</time>
+    <name>GCPEKK</name>
+    <desc>NEFFS SCHOOL HOUSE by Johnny $ Cache, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b7bc21b3-0cc5-45a1-a9d4-e7b9c033398a</url>
+    <urlname>NEFFS SCHOOL HOUSE</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="258344" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>NEFFS SCHOOL HOUSE</groundspeak:name>
+      <groundspeak:placed_by>Johnny $ Cache</groundspeak:placed_by>
+      <groundspeak:owner id="301013">Johnny $ Cache</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Neffs School House was closed in 1955. It was going to be bulldozed to the ground but luckly William Fox purchased the school.  It is his past time to trim and prune the trees and bushes into unusual shapes. Check out the walking sticks he is growing by the school house door, pretty clever!  If your are lucky enough you might just catch Mr. Fox on the grounds and get a tour of the school house!  Parking is by the telephone pole in the grass. Please respect his property.  If you move a stone or stick be considerate and place it back where it was.  Cache is a bank bag so make your trades on the small side. </groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="116545412">
+          <groundspeak:date>2010-07-11T20:45:40Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one after going to the Kutztown Festival</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

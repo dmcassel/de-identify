@@ -1,0 +1,42 @@
+<wpt lat="39.499333" lon="-76.22995" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-06-21T07:00:00Z</time>
+    <name>GC1DE8W</name>
+    <desc>Maryland House II by Son_of_Mt_Soma, Traditional Cache (2.5/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9e76e6c9-c8e7-4523-96f2-4bc0c02b9f02</url>
+    <urlname>Maryland House II</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="913413" available="False" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Maryland House II</groundspeak:name>
+      <groundspeak:placed_by>Son_of_Mt_Soma</groundspeak:placed_by>
+      <groundspeak:owner id="658550">Son_of_Mt_Soma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">A small size cache located at the Maryland House Rest Stop on I-95, just north of Exit 80 (Belcamp, MD)</groundspeak:short_description>
+      <groundspeak:long_description html="False">The other Maryland House cache (GC19M0Z) has been doing alot of business since it was placed in February 2008--112 logged finds in 4 months time.  So, of course to help handle the extra business, a second cache is needed.
+
+The second cache is located at the north end of the rest area.  The woods here are a little thicker than what is found around Maryland House I.  The parking area near the cache is accessible to both north and south bound traffic.
+
+Please do not park on I-95 to get to this cache. There is plenty of parking at the rest area, and it is only a short walk. There is a path that gets you some of the way to the cache.  Bushwhacking will be required for the rest of the journey.  
+
+During the summer months, briers and ticks will be a problem.
+
+The cache is smaller than Maryland House I.  It can handle small TBs and geocoins.  This cache should be a little more of a challenge than Maryland House I.
+
+MN Chillin' TB27MKK is in the cache for the FTF.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Chapter 33, Verse 22 of the Book of Exodus</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="129927841">
+          <groundspeak:date>2010-10-06T02:05:15Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Got here after dark a few days after heavy rains (mushy!) but I got it. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

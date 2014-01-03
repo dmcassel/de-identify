@@ -1,0 +1,32 @@
+<wpt lat="40.087033" lon="-75.774683" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-01-01T08:00:00Z</time>
+    <name>GC1KB8X</name>
+    <desc>Tennis Anyone? by GeoDuoDudes, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=bfdcc13f-7dc4-42db-bc53-89cce9cc2f7b</url>
+    <urlname>Tennis Anyone?</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1089277" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Tennis Anyone?</groundspeak:name>
+      <groundspeak:placed_by>GeoDuoDudes</groundspeak:placed_by>
+      <groundspeak:owner id="1365422">Geo4Dudes</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Park is open from dawn to dusk.</groundspeak:short_description>
+      <groundspeak:long_description html="False">A great park near where my wife grew up.  Could be difficult to retrieve based on how nice the day is. Plenty of muggles during spring and summer ball seasons.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Green bison tube; watch for pine sap.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="168819107">
+          <groundspeak:date>2011-06-25T22:44:44Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">It's a nice day, but still few muggles. 19acassel made the find; also found with dawnie22. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

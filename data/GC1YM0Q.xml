@@ -1,0 +1,37 @@
+<wpt lat="39.98105" lon="-75.899467" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-09-06T07:00:00Z</time>
+    <name>GC1YM0Q</name>
+    <desc>Locusts, Walnuts and Wine-Winery Cache #9 by WNELVRS, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d12b4e94-9d20-42d3-b2c6-51ea48feeec3</url>
+    <urlname>Locusts, Walnuts and Wine-Winery Cache #9</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1395583" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Locusts, Walnuts and Wine-Winery Cache #9</groundspeak:name>
+      <groundspeak:placed_by>WNELVRS</groundspeak:placed_by>
+      <groundspeak:owner id="1260373">wnelvrs</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">At last, for those who have been waiting, another winery cache.  Ammo box hidden on winery grounds.  Placed with permission of the owners.  Please hide as you found it.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Please park at listed parking coordinates.  Seek only during business hours, TH and Fri 12-6 PM, Sat and Sun 10 AM - 6 PM.  Enjoy the short walk to the cache.  
+
+There are over 100 wineries in Pennsylvania with new ones opening often.  This is one of the newest PA wineries and is located in a beautiful spot in Southwestern Chester County.  
+
+Being WNELVRS, we’ve merged our two favorite hobbies, geocaching and visiting wineries (and tasting), into a delightful experience. By placing caches at wineries, we hope others will discover the beauty of the wineries and surrounding countryside, and if so inclined, experience the wonderful variety of wines grown and made in Pennsylvania.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="167479483">
+          <groundspeak:date>2011-06-18T22:35:38Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick fins with dawnie22, 19acassel and our younger daughter. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

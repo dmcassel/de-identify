@@ -1,0 +1,39 @@
+<wpt lat="39.999633" lon="-83.029867" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-04-27T07:00:00Z</time>
+    <name>GC1QN6G</name>
+    <desc>Memorial to Life by Team JNLE4, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0a734f23-fecc-4831-9f2d-ff7d6bc7d02e</url>
+    <urlname>Memorial to Life</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1217977" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Memorial to Life</groundspeak:name>
+      <groundspeak:placed_by>Team JNLE4</groundspeak:placed_by>
+      <groundspeak:owner id="157613">Team JNLE4</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Ohio</groundspeak:state>
+      <groundspeak:short_description html="False">The cache is log only cache, so bring a pen.  It should be an easy find, this cache is about location and not about difficulty. Have fun!</groundspeak:short_description>
+      <groundspeak:long_description html="False">You have probably noticed this location as you have driven past on Ohio SR315.  I knew I needed to place a cache here and it took a bit.  The cache has been placed with permission from the owners of the memorial.  As always be respectful of the location and take some time and look around.
+
+
+
+*** Congratulations to JCPJcrew on the FTF! ***</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="165620707">
+          <groundspeak:date>2011-06-09T00:59:49Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Took me a few minutes to find it, but I got my first OH cache while on a business trip from PA. Thanks for bringing me to the spot. 
+
+Log is very wet. I laid it out for a few minutes but it needs more. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

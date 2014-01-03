@@ -1,0 +1,35 @@
+<wpt lat="40.02725" lon="-75.634917" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-08-10T07:00:00Z</time>
+    <name>GC2D6XE</name>
+    <desc>Whitford Lodge/Hall - Colonial Cache #4 by deangeloa, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f2e363ae-08c7-4bdf-9985-f9f063497888</url>
+    <urlname>Whitford Lodge/Hall - Colonial Cache #4</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1829853" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Whitford Lodge/Hall - Colonial Cache #4</groundspeak:name>
+      <groundspeak:placed_by>deangeloa</groundspeak:placed_by>
+      <groundspeak:owner id="3468426">Bestfriendz</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">The 4th in a series of Chester County Colonial Caches.You seek a camo'd lock in lock with Colonial era items. PLEASE trade similiar items to maintain the integrity of the cache.
+
+The Whitford Lodge was built c. 1782 by one of the first descendents of West Whiteland Township. Richard Thomas was nicknamed the "fighting Quaker" for his role as Colonel of the 1st regiment of Chester County Volunteers during the War for Independence. The brick Georgian style mansion is one of a few still standing in this area. The Whitford Hall and the Whitford Hall Tenant House are attached and built c.1796. Great buildings.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Tree line SW/W of the Whitford Lodge about 100 yds. ahead.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133689183">
+          <groundspeak:date>2010-10-30T21:03:09Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find, TFTC. Saw a big grasshopper that my daughter liked. Found with dawnie22. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

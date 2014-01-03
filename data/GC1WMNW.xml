@@ -1,0 +1,36 @@
+<wpt lat="40.0375" lon="-75.3414" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-07-31T07:00:00Z</time>
+    <name>GC1WMNW</name>
+    <desc>Genetic Link by LNRC and GrandmaMoses, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b6424ce1-909e-47ff-a0ec-fd4578e0ef0f</url>
+    <urlname>Genetic Link</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1336656" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Genetic Link</groundspeak:name>
+      <groundspeak:placed_by>LNRC and GrandmaMoses</groundspeak:placed_by>
+      <groundspeak:owner id="2372962">LNRC</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">It's back  I finally got another holder.  It is not the same type, but also used to hold a computer disk.  
+
+On the campus of Villanova University, with permission.  It is toward the Septa Regional Rail line, but not close to the tracks.  Park across from the church and walk toward the train tracks to find GZ.
+
+Finally checked after log indicated problem.  The cache is in place and not damaged.  The log is in place, all is dry and secure.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Take your ease, and think of peas.  The site is outside the Science Center on a pleasant patio.  The area is wheel chair accessible once you get onto the campus.  The container used to hold computer disks.  It has a Villanova basketball souvenir for the first finder and a few small pins.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Velcro fastened to a stone surface.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="149784460">
+          <groundspeak:date>2011-03-19T21:20:14Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Finally got around to this one, been meaning to for a while. Found with dawnie22. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

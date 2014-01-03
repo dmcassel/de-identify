@@ -1,0 +1,32 @@
+<wpt lat="39.97665" lon="-75.738233" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-06-15T07:00:00Z</time>
+    <name>GC1TRGF</name>
+    <desc>Stumped On The Run by DCPABLO, Cache_Find, Traditional Cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=be6cd20c-a4b4-4124-94e6-903015bdbad4</url>
+    <urlname>Stumped On The Run</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1280751" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Stumped On The Run</groundspeak:name>
+      <groundspeak:placed_by>DCPABLO, Cache_Find</groundspeak:placed_by>
+      <groundspeak:owner id="2088689">DCPABLO</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">terrian can be difficult during spring and summer when things become overgrown. park trails are usually active on weekends and during the summer on days with perfect weather. but can vary.</groundspeak:short_description>
+      <groundspeak:long_description html="False">CONGRATULATIONS to spoyd for FTF!!!!!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>under the BARK</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="125458072">
+          <groundspeak:date>2010-09-06T00:39:37Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Took second try (and my wife looking) to find it, but now I can check off the off closest to my house. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

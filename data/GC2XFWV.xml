@@ -1,0 +1,33 @@
+<wpt lat="41.711967" lon="-73.924883" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-06-03T07:00:00Z</time>
+    <name>GC2XFWV</name>
+    <desc>Parker DRT Parking by austin316num1wwe, Traditional Cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=bf354af2-4efc-4e33-9dda-dcd5b711ba9f</url>
+    <urlname>Parker DRT Parking</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2285348" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Parker DRT Parking</groundspeak:name>
+      <groundspeak:placed_by>austin316num1wwe</groundspeak:placed_by>
+      <groundspeak:owner id="3940287">austin316num1wwe</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>New York</groundspeak:state>
+      <groundspeak:short_description html="False">Decided to hide one on the Poughkeepsie side of the Walkway Bridge near the parking.  You should enjoy a walk on Bridge after finding this one. Small bison tube.  BYOP! Park in either parking area but one charges $5 to park. Weekdays are better and in the morning time.  Cloudy days are even better. Beware of muggles!</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>About 5 feet off ground.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="248248146">
+          <groundspeak:date>2012-07-11T15:13:40Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found after a couple minutes of looking with dawnie22, 19acassel, and younger daughter. Great walk on the bridge! </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,32 @@
+<wpt lat="40.4922" lon="-75.744967" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-10-28T07:00:00Z</time>
+    <name>GC20D4D</name>
+    <desc>Llama My Momma! by BeFoxE, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=faf61eaf-967f-4335-8e50-09191ed19e50</url>
+    <urlname>Llama My Momma!</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1448552" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Llama My Momma!</groundspeak:name>
+      <groundspeak:placed_by>BeFoxE</groundspeak:placed_by>
+      <groundspeak:owner id="2665184">BeFoxE</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">This cache honors the folks who make a living farming the land.  Their efforts keep some of Berks County's land open and free of development.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The cache is small and originally contained a Groundspeak Geocoin- Cache In, Trash Out.  It also had a Harness Ornament TB, so it could travel to other places where people love horses. Find this cache between two working farms.  You'll enjoy watching the miniature horses on one side and llamas, sheep and horses on the other side. Parking is easy alongside the road.  Please don't block the gate.  Cache in, trash out.</groundspeak:long_description>
+      <groundspeak:encoded_hints>No need to climb the gate or walk up the lane.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="116553112">
+          <groundspeak:date>2010-07-11T21:25:27Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Took us a little walking back and forth but we got it. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

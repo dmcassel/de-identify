@@ -1,0 +1,33 @@
+<wpt lat="40.022133" lon="-75.627533" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2006-06-22T07:00:00Z</time>
+    <name>GCWQPF</name>
+    <desc>Main Street Cache by The Traveling Gnome, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1edf75fb-0cb2-4f25-9e32-5f3fbcffa5c4</url>
+    <urlname>Main Street Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="416037" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Main Street Cache</groundspeak:name>
+      <groundspeak:placed_by>The Traveling Gnome</groundspeak:placed_by>
+      <groundspeak:owner id="564940">The Traveling Gnome</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Located in an outside shopping rest area near a mini mall.</groundspeak:short_description>
+      <groundspeak:long_description html="False">My first hide here in PA. Moved down in Feb from NY.
+This is a magnetic key holder with logbook. You will need to bring your own writing utencil. Use stealth as there are muggles passing due to the shopping area!! Have fun sitting or do a little shopping. It is a great mall.</groundspeak:long_description>
+      <groundspeak:encoded_hints>May need to sit down and tie your shoe before the bus comes.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132687565">
+          <groundspeak:date>2010-10-23T21:24:49Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find, TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

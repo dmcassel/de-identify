@@ -1,0 +1,46 @@
+<wpt lat="40.040512" lon="-75.699738" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-03-09T08:00:00Z</time>
+    <name>GC19ZCR</name>
+    <desc>Keeping Up With the Joneses by elora_c, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=46cc0897-8e09-42db-9b43-2c829b45d009</url>
+    <urlname>Keeping Up With the Joneses</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="809746" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Keeping Up With the Joneses</groundspeak:name>
+      <groundspeak:placed_by>elora_c</groundspeak:placed_by>
+      <groundspeak:owner id="222603">elora_c</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">A regular cache located off the Uwchlan Trail near the Jones Pond
+Pavilion.</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;The first caches we found were along the Struble and Uwchlan
+Trails, and these remain our favorite types. So when it came time
+to hide our first cache, we had to try to keep up with the hides
+around the area.&lt;/p&gt;
+&lt;p&gt;The Uwchlan Trail originates at the Struble Trail and wanders
+along Shamona Creek adjacent to Dowlin Forge Road. There are
+several parking areas along the two trails.&lt;/p&gt;
+&lt;p&gt;Jones Pond is a small park located on Dowlin Forge Road. It has
+a pavilion and a gazebo, both of which have benches overlooking
+Jones Pond. The park is open dawn to dusk.&lt;/p&gt;
+&lt;p&gt;The cache is a lock-and-lock type box located within 100 feet of
+the trail. The cache is placed with permission by &lt;a href=
+"http://www.uwchlan.com"&gt;Uwchlan Township&lt;/a&gt;.&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="134090585">
+          <groundspeak:date>2010-11-01T17:02:28Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

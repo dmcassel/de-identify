@@ -1,0 +1,34 @@
+<wpt lat="40.629483" lon="-74.919867" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2005-02-20T08:00:00Z</time>
+    <name>GCMW32</name>
+    <desc>Wally's So Easy #6 by Shuecrew, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8ba8dcd3-7589-47c1-b205-4c20827b04f4</url>
+    <urlname>Wally's So Easy #6</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="210742" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wally's So Easy #6</groundspeak:name>
+      <groundspeak:placed_by>Shuecrew</groundspeak:placed_by>
+      <groundspeak:owner id="286400">Shuecrew</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>New Jersey</groundspeak:state>
+      <groundspeak:short_description html="False">** Please note - small change has been made in the co-ordinates **
+Easily accessible. Just off of Rte 78 in Clinton. The 1.5 terrain rating is because this is not wheelchair accessible.</groundspeak:short_description>
+      <groundspeak:long_description html="False">WALLY IS BACK IN BUSINESS. Possibly the victim of landscaping maintenance -Wally has been replaced in a manner that will prevent this type of horrible accident in the future.
+This is the 6th in a Series of easy micro hides that are designed to provide a quick geocache fix. These micros can be found at lunchtime, a quick stop on the way home from work, running out on a weekend errand - just about any reason to get out of the house. This is a quick, easy way to squeeze in a find. The cache contains a log and a pencil, but you may want to bring your own writing instrument just in case.  ENJOY!</groundspeak:long_description>
+      <groundspeak:encoded_hints>magnetic</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="185606505">
+          <groundspeak:date>2011-09-10T16:02:06Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find while passing through the area. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

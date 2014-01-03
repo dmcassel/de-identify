@@ -1,0 +1,42 @@
+<wpt lat="40.0218" lon="-75.759983" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-08-16T07:00:00Z</time>
+    <name>GC1XBG1</name>
+    <desc>Bonds' Factory by lindwood, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d227b4d0-ffd4-40af-b899-ca4dd99fa6dc</url>
+    <urlname>Bonds' Factory</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1357617" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bonds' Factory</groundspeak:name>
+      <groundspeak:placed_by>lindwood</groundspeak:placed_by>
+      <groundspeak:owner id="380918">lindwood</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">This was known as Bonds' factory as early as 1847. The mill
+operated for 110 years, along Beaver Creek, making everything from
+woolens in 1841 to linings for U.S. Air Force jackets during WW11.
+At some point clusters of houses were built and named
+Bondsville,after the mill owner. It closed permanently in 1954.
+Since then the buildings have fallen victim to the weather. A
+memorial was erected to commemerate the factory workers who served
+in WW11. Be sure to look through the gate to see the mill. Film
+cannister with log,pencil and a few tree+-deer confetti.
+Congratulations to bpp_picnic for FTF !!</groundspeak:long_description>
+      <groundspeak:encoded_hints>10 ft to the right of corporation then 2ft to the back  of corporation and up</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="207029373">
+          <groundspeak:date>2012-01-07T21:23:33Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Took a few minutes to make the find, then my daughter read the memorial and we talked about it for a minute. TFTC! Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

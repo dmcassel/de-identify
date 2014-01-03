@@ -1,0 +1,40 @@
+<wpt lat="38.928183" lon="-77.2396" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2004-03-17T08:00:00Z</time>
+    <name>GCHYDJ</name>
+    <desc>C8 H10 N4 O2 Dreams or Paper Work Nightmares ? by RobAGD, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7d9bffaa-2830-42b5-8384-c011a3b40822</url>
+    <urlname>C8 H10 N4 O2 Dreams or Paper Work Nightmares ?</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="123617" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>C8 H10 N4 O2 Dreams or Paper Work Nightmares ?</groundspeak:name>
+      <groundspeak:placed_by>RobAGD</groundspeak:placed_by>
+      <groundspeak:owner id="60885">RobAGD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Virginia</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">This is an easy one thats night accessable for people that are traveling in the area away from home and need something to do while in town that is night friendly.
+&lt;p&gt;
+Simple hide, lots of eyes watching depending on the time you hunt this one. So chose wisely :D
+&lt;p&gt;
+This is a Film Can sized cache, So Bring a pen to log your visit. Just a note I was getting 9ft accuracy on my GPS V.
+&lt;p&gt;
+Happy Hunting</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139010554">
+          <groundspeak:date>2010-12-22T16:18:18Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">An SUV provided shelter for my search. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

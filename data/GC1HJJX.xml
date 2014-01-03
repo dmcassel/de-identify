@@ -1,0 +1,34 @@
+<wpt lat="39.9985" lon="-75.66435" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-10-26T07:00:00Z</time>
+    <name>GC1HJJX</name>
+    <desc>Rambo's Cache by Candystick, Traditional Cache (2.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9249808c-3a33-4f86-bcd6-5fb93883372c</url>
+    <urlname>Rambo's Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1036732" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rambo's Cache</groundspeak:name>
+      <groundspeak:placed_by>Candystick</groundspeak:placed_by>
+      <groundspeak:owner id="1010374">Candystick</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">This is a micro cache. Cache is only big enough for a log so bring your own pen.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Micro cache hidden on a small bridge that we spotted while on a visit to the US. The bridges' Engineer was N.R.Rambo, hence the name. Take your time looking around for the cache and watch for muggles. Parking available right near the bridge.
+
+As we are not natives to this continent, the "Pirates of Penn" will be maintaining the cache for us. Please contact them if there are any issues.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Magneficent</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="125425279">
+          <groundspeak:date>2010-09-05T22:44:32Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">This is what I like about caching -- I've lived within a few miles of this stream for years but never noticed it before. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

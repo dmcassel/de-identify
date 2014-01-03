@@ -1,0 +1,40 @@
+<wpt lat="39.140733" lon="-76.830733" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-08-25T07:00:00Z</time>
+    <name>GC2E2B3</name>
+    <desc>Off to Work (#7): Trail Watcher #1 by MaBurner, Traditional Cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0c848fcb-1789-47e9-aba1-1284767313fa</url>
+    <urlname>Off to Work (#7): Trail Watcher #1</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1855262" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Off to Work (#7): Trail Watcher #1</groundspeak:name>
+      <groundspeak:placed_by>MaBurner</groundspeak:placed_by>
+      <groundspeak:owner id="3417779">MaBurner</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">This cache is exactly where it was before so a free find for some. enjoy!! 
+
+ Located along the Patuxent Branch Trail.
+
+Part of a series of caches that are along a bike path from Savage Park to Lake Elkhorn in Columbia.
+
+From Traillink.com</groundspeak:short_description>
+      <groundspeak:long_description html="False">The Patuxent Branch Trail is part of a 20-mile trail system over and around the rolling hills of Howard County that follows a former Baltimore and Ohio Railroad line along the Patuxent River. The trail begins in Savage Park. Follow signs along the trail indicating the direction to Lake Elkhorn. When you reach Vollmer Hausen Road, turn left and stay on the sidewalk to find the trail where it picks up on the other side of the road at the bottom of this short hill. A crosswalk eases you across this busy road. A little more than half of the trail is paved, and the other half has a gravel surface. A small portion of the trail includes a bridle path. Ten bridges help keep you dry as you travel through this flood plain. The most impressive, the 1902 Guilford Pratt Truss Bridge, is a symbol of Howard County's two most important industries-the railroad and the granite quarry. Signs along the trail explain the historical significance of both industries, and the trail will take you straight through the grounds of a quarry that operated until 1928. The rail-trail ends at Lake Elkhorn, but picnic facilities, a playground, parking, a boat slip, and a walking and biking path around the lake may keep you going. Or you can head back to the Savage Park entrance of the Patuxent Branch Trail and pick up the flatter and shorter Savage Mill Trail that begins just a few blocks away.
+
+To access the Savage Park entrance from Interstate 95, take MD Route 32 (Patuxent Parkway) east, and then turn right on US Route 1 (Baltimore Washington Blvd.), heading south toward Laurel. Turn right on Gorman Road, and then turn right on Foundry Street. Turn left onto Washington Street and follow it to the end, where you take a right onto Fair Street, which ends at the park. Take the road in the parking lot to the right until it ends at a smaller parking lot at the trailhead. To access the Lake Elkhorn entrance from Interstate 95, take MD Route 32 (Patuxent Parkway) west and then take the Broken Land Parkway north toward Owen Brown. The lake (and a parking lot next to the playground and boat slip) will be on your right.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Don't forget to duck</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="150394571">
+          <groundspeak:date>2011-03-22T02:24:48Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it, but took me a minute to notice that I had. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

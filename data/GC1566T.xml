@@ -1,0 +1,48 @@
+<wpt lat="39.7151" lon="-75.774533" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-08-15T07:00:00Z</time>
+    <name>GC1566T</name>
+    <desc>A Cache for Wendy's Picnic by MikeOtt, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e29ff9bf-26e2-4a36-ab0f-fcaa3aca35db</url>
+    <urlname>A Cache for Wendy's Picnic</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="667333" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>A Cache for Wendy's Picnic</groundspeak:name>
+      <groundspeak:placed_by>MikeOtt</groundspeak:placed_by>
+      <groundspeak:owner id="92122">MikeOtt</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Delaware</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;img src=
+     "http://img.groundspeak.com/cache/1f956cb1-73da-43ec-82fb-c825cb552c2f.jpg"&gt;
+&lt;/center&gt;
+&lt;br&gt;
+&lt;br&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">This cache is located in the Carpenter Area of White Clay Creek
+State Park, that is reached from Rt 896. From May to October this
+is a fee area. (Better yet get an annual pass to Delaware State
+parks)
+&lt;p&gt;It was released at the same time as the Dog Days of Summer
+Picnic geocaching event in the park hosted by WhiteClayLover that I
+have called "Wendy's Picnic".&lt;/p&gt;
+&lt;p&gt;The cache is a camo medium tupperware cantainer located in the
+Fitness trail section of the park that is generally sticker free.
+Ther are many trails to the cache (none direct) so look at the park
+map. At one time there was a cache in this general area.&lt;/p&gt;
+&lt;p&gt; The cache contains an unactivated travel bug tag provided by
+WhiteClayLover as a FTF&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Base of big beech tree near oak and double beech  tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="127376925">
+          <groundspeak:date>2010-09-18T23:02:18Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Didn't get good GPS readings, so we used the hint. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

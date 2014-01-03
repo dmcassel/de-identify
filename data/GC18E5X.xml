@@ -1,0 +1,33 @@
+<wpt lat="39.68365" lon="-75.744417" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-01-06T08:00:00Z</time>
+    <name>GC18E5X</name>
+    <desc>Purr... Purr... by Harthausen, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=92796de5-e5e3-49eb-bee3-d7c2eb62eaa7</url>
+    <urlname>Purr... Purr...</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="764366" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Purr... Purr...</groundspeak:name>
+      <groundspeak:placed_by>Harthausen</groundspeak:placed_by>
+      <groundspeak:owner id="315367">Harthausen</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Other</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Delaware</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">This nano on Main Street is at a spot that makes me smile whenever I drive by.  This cache could easily be muggled, so please be extra stealthy.  I couldn't get a real accurate reading here, but it doesn't matter because you'll know right away where to look.  Enjoy!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Meow.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="127416125">
+          <groundspeak:date>2010-09-19T02:48:56Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">My first cache in my home town. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

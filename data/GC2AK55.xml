@@ -1,0 +1,40 @@
+<wpt lat="40.00455" lon="-75.721" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-06-21T07:00:00Z</time>
+    <name>GC2AK55</name>
+    <desc>Zoe's Cache by Pirates of Penn, Traditional Cache (3/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=183f0dea-4aea-4e77-8f50-71a0ba2320f8</url>
+    <urlname>Zoe's Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1752251" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Zoe's Cache</groundspeak:name>
+      <groundspeak:placed_by>Pirates of Penn</groundspeak:placed_by>
+      <groundspeak:owner id="1394463">Pirates of Penn</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Small Micro Container hidden in our favorite Dog park. "HINT IS A SPOILER"</groundspeak:short_description>
+      <groundspeak:long_description html="False">Lloyd park on Lloyd Avenue is the best off-leash public dog park we have ever found. Beautiful area with lots of grass to run and a river to play in with other dogs. Plenty of parking on Lloyd Avenue.
+
+Zoe our pup loves coming to this park to play with all her friends, so we thought we would place a cache here so others can come and enjoy this great little area. Stealth is a must as there is usually lots of muggles and their dogs.
+
+This cache is a micro so please replace exactly as found.
+
+Also if you bring your dog please follow all off-leash park rules.
+
+Enjoy!!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Wood Pecker</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="167201265">
+          <groundspeak:date>2011-06-17T03:54:17Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Took us quite a while before we could get here without suspicion -- no dog, you see. We finally got here around dusk and had the park to ourselves. A couple flashlights, a little determination, and we earned the smiley. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

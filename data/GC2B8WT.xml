@@ -1,0 +1,39 @@
+<wpt lat="40.020083" lon="-75.630667" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-07-04T07:00:00Z</time>
+    <name>GC2B8WT</name>
+    <desc>WO-1 MkII - Ten Years of Geogittin' by spoyd &amp; spoydette, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7a553395-5553-4da0-900b-e3e7d438dbc8</url>
+    <urlname>WO-1 MkII - Ten Years of Geogittin'</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1772173" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>WO-1 MkII - Ten Years of Geogittin'</groundspeak:name>
+      <groundspeak:placed_by>spoyd &amp; spoydette</groundspeak:placed_by>
+      <groundspeak:owner id="1322170">spoyd</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">A two quart Lock-and-lock hidden in a typical manner in an interesting location.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The cache is the replacement for the first in a series where I want to show that you can hide something larger than a micro in a suburban environment.
+
+I renamed it to celebrate the fact that this fun pastime has been around for 10 years now.
+
+Hidden in a wild oasis - surrounded by the Route 30 Bypass and the Exton Main Street retail development. This one has trees, rocks, thorns and even a stream crossing. This is not a difficult hide. The fun is in getting there. I have provided suggested parking coordinates - you can enter the woods near them for a longer, but not as difficult hike. You can try the much shorter but more direct approach if you park near the Sam's club and you're not shy about plowing through thorns while on surveillance video.
+
+PLEASE DO NOT ATTEMPT THIS CACHE FROM THE HIGHWAY. IT IS DANGEROUS AND PROBABLY ILLEGAL.
+There may be bow hunters back here during deer season - use your good judgement.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Look Deeply</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="193991996">
+          <groundspeak:date>2011-10-22T17:23:14Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">We saw lots of signs of recent flooding, but the cache was safe and sound. Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

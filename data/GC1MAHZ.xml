@@ -1,0 +1,45 @@
+<wpt lat="39.9967" lon="-75.716383" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-02-01T08:00:00Z</time>
+    <name>GC1MAHZ</name>
+    <desc>LGL#7 -  Woodsy Owl by Josephus (adopted by spoyd), Traditional Cache (1.5/4)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cec3fdd4-42b9-49a4-a15b-c9e64f3d9eb0</url>
+    <urlname>LGL#7 -  Woodsy Owl</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1118388" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>LGL#7 -  Woodsy Owl</groundspeak:name>
+      <groundspeak:placed_by>Josephus (adopted by spoyd)</groundspeak:placed_by>
+      <groundspeak:owner id="1322170">spoyd</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>4</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">A full size cache near an abandoned railbed.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Another in the series started by spoyd along the old Low Grade Line. 
+Please park at these coordinates on Glenside:
+N39 59.814 W075 42.654
+
+From the parking coordinates follow the white blazes up a fairly steep hill to the railbed. Please be mindful that you will be walking very close to private townhomes for about 50 feet, follow the blazes closely. Please do not come in from Prospect, Jacquilyn or Talucci as you would need to cross private property and will likely draw unwanted attention to our favorite past-time.
+
+Once your on the railbed you'll have smooth sailing to within 75 feet of the GZ. To reach the GZ you will need good boots to ascend the 60+ degree incline. You will likely be hanging on to make the final reach.
+
+It was a beautiful winter afternoon hiking down the LGL when out of nowhere came old Woodsy the Owl. He buzzed my goofy fur cap and spooked me but good, then headed up to his perch. Which happened to be a perfect spot for a cache. I tried to pull out my camera, but he was off again.
+
+Steep inclines, loose footing and precarious perches should be expected. Give yourself 45 minutes to an hour at a modest pace.
+Started Cache with a Hershey TB.
+
+Congratulations to Luke1231 on the FTF!</groundspeak:long_description>
+      <groundspeak:encoded_hints>50-60 feet south of trail. 25-30 feet up embankment. Under hollowed-out live tree in root-base.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133406409">
+          <groundspeak:date>2010-10-28T17:49:40Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Wow, that was a challenge. I recommend not trying this one if it's been wet lately -- slipperly leaves make this one really tough. But I got my first terrain 4!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

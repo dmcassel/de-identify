@@ -1,0 +1,37 @@
+<wpt lat="40.029433" lon="-75.624817" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-08-26T07:00:00Z</time>
+    <name>GC2CH1F</name>
+    <desc>1750 Zook House-Colonial Cache #2 by deangeloa, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2f2a4c52-6e9e-4d16-b068-dab04c80f13c</url>
+    <urlname>1750 Zook House-Colonial Cache #2</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1809797" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>1750 Zook House-Colonial Cache #2</groundspeak:name>
+      <groundspeak:placed_by>deangeloa</groundspeak:placed_by>
+      <groundspeak:owner id="3468426">Bestfriendz</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">
+Same location - New Coordinates. Thanks to everyone for the heads-up on the old one.
+
+The second in a series of 18th century caches in Chester County. You seek a camo'd lock-in-lock box with colonial/18th century items located about 15 yards from the famous Zook house built c.1750. The house is located on the Exton Mall property. Amazing piece of history that you've probably passed 100 times without noticing. There is a parking lot close to the cache/next to the house. If trading please try to keep with the theme of colonial/18th century items.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132683928">
+          <groundspeak:date>2010-10-23T21:08:58Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">We almost gave up, but then we got it. Found it with dawnie22. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

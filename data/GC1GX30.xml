@@ -1,0 +1,46 @@
+<wpt lat="40.014467" lon="-75.672933" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-10-04T07:00:00Z</time>
+    <name>GC1GX30</name>
+    <desc>Ready 4 My Closeup by 1FOG, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=de039a87-491d-4103-939f-1afa50fcf5d7</url>
+    <urlname>Ready 4 My Closeup</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1016058" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ready 4 My Closeup</groundspeak:name>
+      <groundspeak:placed_by>1FOG</groundspeak:placed_by>
+      <groundspeak:owner id="1767440">1fog</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Cache and Grab, parking close by.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Small container hidden in plain sight. 
+Stealth may be required. 
+Container can be removed to take inside your car for opening, logging and sealing if additional stealth is needed. 
+Please return  to exact spot.
+No pen or pencil provided. 
+Use common sense when crossing the lot...it is sometimes very busy with cars and people coming and going; then 10 minutes later it'll be deserted.
+
+FTF gets a Geo Coin : Frowny Face
+
+Hints will be posted when needed. I think novice and seasoned players should have no difficulty to find it.
+
+Enjoy!
+
+10/11/08 : Extra Credit for Gosffo...see images (Suitable for framing!)</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="125389015">
+          <groundspeak:date>2010-09-05T21:22:36Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

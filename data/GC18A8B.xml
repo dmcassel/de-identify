@@ -1,0 +1,39 @@
+<wpt lat="41.152583" lon="-74.192017" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-01-01T08:00:00Z</time>
+    <name>GC18A8B</name>
+    <desc>First Republic Bank of Sloatsburg by POCrow222, Traditional Cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c73fc3ab-9d15-44f1-86fc-c92658971169</url>
+    <urlname>First Republic Bank of Sloatsburg</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="760598" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>First Republic Bank of Sloatsburg</groundspeak:name>
+      <groundspeak:placed_by>POCrow222</groundspeak:placed_by>
+      <groundspeak:owner id="173726">POCrow222</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>New York</groundspeak:state>
+      <groundspeak:short_description html="False">First Republic Bank of Sloatsburg is now open for all your geobanking needs!</groundspeak:short_description>
+      <groundspeak:long_description html="False">The First Republic Bank of Sloatsburg is a place for GEOCOINS to be deposited and also withdrawn. The FRBS also is a friendly place for Travel Bugs to open an account and stay for a while. The Bank Manager would like to state that there always must be some GEOCOINS in the Bank at all times and that if you plan on a big withdrawl that you deposit some coins or TB's. Cachers are more than welcome to stop by the FRBS anytime to discover these coins but ask that if you are taking a coin that you please help it along it's way. The Bank also offers something for the kids. There is a small stash of kids toys in the FRBS. Feel free to trade only small items please. 
+
+The Bank Manager would like to notify cachers that do buisness at the FRBS that the bank is located in a wooded area of a small park in Sloatsburg, NY. We ask you please DO NOT park in the parking lot of Rhodes Tavern on Rt. 17.
+
+Feel free to sign the register and photos are also encouraged. Please rehide the FRBS EXACTLY as you found it. Thanks and enjoy!
+
+CONGRATS TO STAYFLOOPY FOR THE FTF!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="198675907">
+          <groundspeak:date>2011-11-13T18:54:08Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22 while in the area for a wedding. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,40 @@
+<wpt lat="40.005533" lon="-75.695217" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2005-09-24T07:00:00Z</time>
+    <name>GCQP24</name>
+    <desc>Just Hangin' by StarQ, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8aabbdb4-e789-48c3-b6ec-60c07f1c2535</url>
+    <urlname>Just Hangin'</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="295281" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Just Hangin'</groundspeak:name>
+      <groundspeak:placed_by>StarQ</groundspeak:placed_by>
+      <groundspeak:owner id="122044">StarQ</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;font size="+2" color="#660033"&gt;Cache smaller than a breadbox and just smaller than a 33mm canister.&lt;/font&gt;
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;hr /&gt;
+&lt;font size="+1" color="#CC0000"&gt;&lt;b&gt;Just Hangin'&lt;/b&gt;&lt;/font&gt; &lt;font size="+1" color="#3300FF"&gt;is a micro cache located in Marinelli Park. Please be sure to visit the memorial.&lt;br /&gt;
+&lt;br /&gt;
+Parking located at N40°00.321, W075°41.759.&lt;br /&gt;
+&lt;br /&gt;
+Bring a pen or pencil to make your log entry with.&lt;/font&gt;
+&lt;hr /&gt;
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>If you can't find me, check to see if I'm still Just Hangin' on the east side.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="125437106">
+          <groundspeak:date>2010-09-05T23:28:57Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Had a little finding this one, but we got it. We were looking in the wrong place. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

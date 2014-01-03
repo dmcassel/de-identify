@@ -1,0 +1,49 @@
+<wpt lat="47.2589" lon="11.4114" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-03-10T08:00:00Z</time>
+    <name>GC24W61</name>
+    <desc>Drunter &amp; Drüber by fränzeb, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2b0ea1ec-dd98-4a3a-abe5-f42b269cdb5d</url>
+    <urlname>Drunter &amp; Drüber</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1581220" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Drunter &amp; Drüber</groundspeak:name>
+      <groundspeak:placed_by>fränzeb</groundspeak:placed_by>
+      <groundspeak:owner id="2842697">fränzeb</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Austria</groundspeak:country>
+      <groundspeak:state>Tirol</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Selbst für den Benutzer und selbst mitten drin ist dieses Bauwerk
+nicht auf Anhieb als dreistöckig erkennbar .. In den Jahren 2004 -
+2007 errichtet, ermöglicht es täglich über 75.000 Fahrzeugen und
+einer unbestimmten Zahl von nichtmotorisierten Reisenden, kreuz
+&amp;amp; quer und drunter &amp;amp; drüber aneinander vorbei- und
+weiterzukommen. ENGLISH beneath &amp;amp; across (in german it also
+means higgledy-piggledy). from no place this juction is easily to
+recognize as a three-storey building. built from 2004 to 2007, it
+is daily passed by 75.000 vehicles and innumerably passengers
+without motor ... criss-cross, subterraneously and on it's
+roundabout on the surface. Weitere Infos, interessante Grafiken und
+Fotos unter
+http://www.tirol.gv.at/themen/verkehr/bauvorhaben/bauvorhaben/b174-l9
+und
+http://www.ibpa.info/Deutsch/NEWS_B174_Unterfuehrungsbauwerk_Eisstadion.htm
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="171303034">
+          <groundspeak:date>2011-07-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Our visit to Innsbruck gave us time for little more than a geocache find, but I get a smiley for Austria. Found with dawnie22, 19acassel, LNRC and our younger daughter.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

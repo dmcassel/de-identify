@@ -1,0 +1,38 @@
+<wpt lat="43.425183" lon="-73.744367" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-08-01T07:00:00Z</time>
+    <name>GC14VFP</name>
+    <desc>Prospect Mountain Summit by OKTerrific, Hungary Hungry Hippos, &amp; Vtmtnman, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0cc7bc2d-317b-4222-a1e7-8d877805d680</url>
+    <urlname>Prospect Mountain Summit</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="657038" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Prospect Mountain Summit</groundspeak:name>
+      <groundspeak:placed_by>OKTerrific, Hungary Hungry Hippos, &amp; Vtmtnman</groundspeak:placed_by>
+      <groundspeak:owner id="368859">OKTerrific</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>New York</groundspeak:state>
+      <groundspeak:short_description html="False">***READ THIS IMPORTANT*** Gates are open from 10:00am - 6:00pm. There is a $6.00 charge per carload to enter the park. Bring one car if you are caching as a group. The park is closed for the season from October 14th - Memorial Day.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The cache is a waterproof match container located at the top of the summit. This is a very high muggle area, enjoy the view, and relax.... wait, look around, and make the grab quickly and as stealthily as possible. Please replace exactly as found so it does not go missing. Bring a your own pen and a camera.
+
+View the Adirondacks from the summit of Prospect Mountain (and score a cache while up there). Does life get any better than this? Enjoy a 5.5 Mile drive to the 2,030 foot summit. You can stop at 3 overlooks for spectacular views of the lake and village below. Once you make it to the parking area , you can either take the shuttle ride to the top (includes a video about the history of the summit) or you can hike it. Once you're at the top, you can see the remains of the worlds largest cable railroad. Click here for more information: http://www.catskillarchive.com/rrextra/lginclin.Html
+http://www.adk.org/trails/Lage_George_Trails.aspx
+************************************************************
+Important Note: Searchers should note that the area with the uncemented stones is NOT where the cache is. Do not excavate any further. This is a century old wall and part of the original foundation. You should not have to move a stone any larger than a tablespoon to locate container.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="248691606">
+          <groundspeak:date>2012-07-13T18:17:10Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22, 19acassel and younger daughter. Fantastic view. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

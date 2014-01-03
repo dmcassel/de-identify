@@ -1,0 +1,41 @@
+<wpt lat="41.786283" lon="-73.9467" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-06-09T07:00:00Z</time>
+    <name>GC1P75E</name>
+    <desc>Hudson's 400th by GrayK &amp; Patty4282, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=06575755-0641-4461-95a0-b128a30d7217</url>
+    <urlname>Hudson's 400th</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1174699" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Hudson's 400th</groundspeak:name>
+      <groundspeak:placed_by>GrayK &amp; Patty4282</groundspeak:placed_by>
+      <groundspeak:owner id="1022930">GrayK</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>New York</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">This cache was placed in honor of the quadricentennial anniversary of Henry Hudson discovering New York.
+
+On March 25, 1609, the Dutch East India Company commissioned Henry Hudson to sail the Half Moon and find a northeast passage to Asia. Hudson instead, broke the terms of his commission and sailed across the Atlantic to find a northwest route to China. In September 1609, Hudson entered the harbor of what is now New York City. He explored the Hudson River and sailed as far north as modern day Albany.
+
+This cache is a camouflaged lock and lock container located in the Hyde Park Riverfront Park, which is open daily from 6:00 AM to 9:30 PM. On the south end of the park you can take in a nice view of the Hudson from the Adrienne Wiese Overlook.The Hyde Park Trail can take you to the FDR or Vanderbilt National Historic Sites.
+
+On the north side of the park is the Hyde Park Railroad Station which now serves as a museum and is open weekends and holidays from Noon to 5:00 PM.
+
+A replica of Henry Hudson's ship, the Half Moon, and flotilla will be sailing from NYC to Albany from June 5-13th, 2009. On JUNE 10 (Wednesday) the flagships dock at Rogers Point during the day for educational activities and and will depart at 4-5pm. There will be an arrival and cannon welcome at 6:30pm when the flotilla makes its next stop at the Kingston Maritime Museum. YOU CAN TAKE A SHUTTLE FROM THE HYDE PARK RIVERFRONT PARK (NEAR THE CACHE) TO THE FLOTILLA AT ROGERS POINT.</groundspeak:long_description>
+      <groundspeak:encoded_hints>I wasn't "inclined" to give any hints, but Patty said I should.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="248117614">
+          <groundspeak:date>2012-07-10T20:33:54Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">First time caching in a while. Glad we made the find! Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

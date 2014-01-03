@@ -1,0 +1,42 @@
+<wpt lat="38.244583" lon="-122.2712" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-06-24T07:00:00Z</time>
+    <name>GC1DHMQ</name>
+    <desc>Tie a Yellow Ribbon 'Round......... by Monitored by Binky Del Mar,placed by Jr High Scifi, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=262e4cb6-2d31-4305-b6de-1e2a17301ac1</url>
+    <urlname>Tie a Yellow Ribbon 'Round.........</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="916664" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Tie a Yellow Ribbon 'Round.........</groundspeak:name>
+      <groundspeak:placed_by>Monitored by Binky Del Mar,placed by Jr High Scifi</groundspeak:placed_by>
+      <groundspeak:owner id="364163">jr high scifi</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>California</groundspeak:state>
+      <groundspeak:short_description html="False">A few steps at the trail head, hard packed gravel path from there.  A few small ups and downs nothing bad.  About 5-10 feet of off trail, grass could hide a snake or ticks, just a warning.</groundspeak:short_description>
+      <groundspeak:long_description html="False">A beautiful walk around a vineyard.  Along the way there is a gazebo, picnic tables and several places to take great pictures.  ENJOY!
+
+BYOP, Room for small TBs and geocoins as well as other small trading items.
+
+**Big Thanks to Binky Del Mar, she is monitoring/sponsoring this cache.**</groundspeak:long_description>
+      <groundspeak:encoded_hints>Old Oaky doensn't like you looking at his old war wound, cache is on the otherside</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="140990203">
+          <groundspeak:date>2011-01-10T16:36:32Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Came here for company meetings, had to get a cache while I was here. My first in CA. TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="141010932">
+          <groundspeak:date>2011-01-10T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">I dropped off Coast Guard. He barely fit, so hopefully someone will give him some breathing room soon.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

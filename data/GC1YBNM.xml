@@ -1,0 +1,33 @@
+<wpt lat="40.08095" lon="-75.633733" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-09-07T07:00:00Z</time>
+    <name>GC1YBNM</name>
+    <desc>JJ ELEPHANT by JJELEPHANT, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c32b74cd-2b53-478d-9e84-6ab0488c0781</url>
+    <urlname>JJ ELEPHANT</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1387582" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>JJ ELEPHANT</groundspeak:name>
+      <groundspeak:placed_by>JJELEPHANT</groundspeak:placed_by>
+      <groundspeak:owner id="2655969">JJELEPHANTSPORTS</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">CACHE Is loaded with trinkets and a log book we are a freindly GEO-CACHE operation.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>The pine trees make the GPS go wild</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="184121788">
+          <groundspeak:date>2011-09-03T18:34:40Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found after a few minutes of looking. Pretty area! Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

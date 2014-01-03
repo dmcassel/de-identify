@@ -1,0 +1,39 @@
+<wpt lat="40.057567" lon="-75.66475" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-08-01T07:00:00Z</time>
+    <name>GC2CPGQ</name>
+    <desc>WO-9.1 - Eagleview Oasis - Multi by bushwhackin' spoyd, Multi-cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=70571cd8-9c22-417f-a0e6-49acfed984cb</url>
+    <urlname>WO-9.1 - Eagleview Oasis - Multi</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1815075" available="False" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>WO-9.1 - Eagleview Oasis - Multi</groundspeak:name>
+      <groundspeak:placed_by>bushwhackin' spoyd</groundspeak:placed_by>
+      <groundspeak:owner id="1322170">spoyd</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">A short, simple two stage multi-cache to bring you to the oasis.</groundspeak:short_description>
+      <groundspeak:long_description html="False">This area was just begging to have a cache (or caches) placed here. A  prototypical wild oasis. A forest, meadows and ponds wedged between highways, roads, and commercial and retail buildings.
+
+Stage 1 is a micro containing just the coordinates for stage 2. Stage 2 is a large small or a small regular depending on how you look at it.
+
+I hope you enjoy your time here.</groundspeak:long_description>
+      <groundspeak:encoded_hints>[Stage 1:] Film canister in rocks
+[Stage 2: Should be obvious, I'll add a hint if people can't find it.]
+
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="164779369">
+          <groundspeak:date>2011-06-05T01:14:27Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">A walk in the woods after dinner at Ron's. Found with dawnie22 and 19acassel. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

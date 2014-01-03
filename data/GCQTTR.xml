@@ -1,0 +1,52 @@
+<wpt lat="40.047083" lon="-75.713367" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2005-10-03T07:00:00Z</time>
+    <name>GCQTTR</name>
+    <desc>Mickey's Perilous Perch by Angry-Beaver + Miss Meggos, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2fb4a223-91a6-4c44-bd6f-c0880d964cf8</url>
+    <urlname>Mickey's Perilous Perch</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="298897" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Mickey's Perilous Perch</groundspeak:name>
+      <groundspeak:placed_by>Angry-Beaver + Miss Meggos</groundspeak:placed_by>
+      <groundspeak:owner id="251039">Angry-Beaver</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">Access to this cache area is easy to find. It is along the Struble
+Trail but is NOT on county property. NOTE: There is a Letterbox
+nearby. Make sure you have found the cache not the box for credit.
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">Be assured that the property from the middle of the trail and up
+the hillside belongs to my family. Starting at the big jutting rock
+and past the chain link fence heading towards Downingtown. Enjoy
+this cache along the quietest part of the Struble Trail. Plenty of
+places to fish and skp rocks. The cache area is great for people
+watching. Placed on private property along the Struble Trail this
+is Tupperware box with a log, pencil and some things of our
+favorite character and normal cache stuff. It was given a 2 for
+thick foliage cover and plenty of places to hide and a little
+climb. The cache is less than 50' from the Struble trail so you do
+not need to climb to the top searching. Please respect the private
+property and don't try to climb to the top.
+&lt;center&gt;&lt;a href="http://www.sepag.us"&gt;&lt;img src=
+"http://home.comcast.net/~sepag/sepagbanner1.gif" border=
+"0" /&gt;&lt;br /&gt;
+&lt;b&gt;Click to Visit the SEPAG Homepage and Forums&lt;/b&gt;&lt;/a&gt;&lt;/center&gt;
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>None until 3 DNF's</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="148857367">
+          <groundspeak:date>2011-03-13T19:28:41Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22 and our girls. Couldn't get a good signal so we took a roundabout route, but we got there. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

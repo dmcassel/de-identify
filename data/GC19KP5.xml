@@ -1,0 +1,37 @@
+<wpt lat="39.907517" lon="-75.8334" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-02-23T08:00:00Z</time>
+    <name>GC19KP5</name>
+    <desc>Whip it - Whip it Good!!! by snafflebit, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6ec7031a-db94-49e5-b081-fc5c22c66e46</url>
+    <urlname>Whip it - Whip it Good!!!</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="799466" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Whip it - Whip it Good!!!</groundspeak:name>
+      <groundspeak:placed_by>snafflebit</groundspeak:placed_by>
+      <groundspeak:owner id="1409715">snafflebit</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Picturesque if somewhat off the beatern track in horse country, there is a bridge between old country and new.</groundspeak:short_description>
+      <groundspeak:long_description html="False">You might want to take the time for a pint or two before you leave, but don't forget to look at the rushing river.  
+Can be a very busy area especially on weekends, parking is catch as catch can at those times.  BYOP and watch muggles.
+***There is a letterbox also hidden there so please do not mistake the letterbox for the cache. The stamp is an important part of the letterbox and should not be removed.  Maybe now is the time to learn more about letterboxing!!!***
+
+Congratulations to $Hunter who was the first to find this great cache!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="167518347">
+          <groundspeak:date>2011-06-19T01:20:18Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find after a good meal. Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,32 @@
+<wpt lat="39.551583" lon="-76.09" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2005-07-26T07:00:00Z</time>
+    <name>GCPWZ0</name>
+    <desc>Tidewater "Point" Cache by S A M, Traditional Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=00058268-a60e-4b38-83de-67e48c8761aa</url>
+    <urlname>Tidewater "Point" Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="271159" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Tidewater "Point" Cache</groundspeak:name>
+      <groundspeak:placed_by>S A M</groundspeak:placed_by>
+      <groundspeak:owner id="2876">THE DAM TROLLS</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Maryland</groundspeak:state>
+      <groundspeak:short_description html="False">This is one of my "Point" series of Caches</groundspeak:short_description>
+      <groundspeak:long_description html="False">A nice little area along the water to get a great view of the swing bridge. Please replace it the same way you found it so the next person can enjoy this cache. I know what your thinking ? So whats the point ? Exactly.... oh and you will need a pen.</groundspeak:long_description>
+      <groundspeak:encoded_hints>don't</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="128656043">
+          <groundspeak:date>2010-09-27T01:24:25Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">One of the pictures helped us find this one. Found it on our way back from VA. Needs new log. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

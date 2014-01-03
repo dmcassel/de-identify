@@ -1,0 +1,60 @@
+<wpt lat="32.252933" lon="-64.83465" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2003-10-20T07:00:00Z</time>
+    <name>GCH3FK</name>
+    <desc>Gibbs Hill Lighthouse Cache by sniper1, Virtual Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6291b051-1be8-40cc-9c70-08ee8a1794e1</url>
+    <urlname>Gibbs Hill Lighthouse Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Virtual Cache</type>
+    <groundspeak:cache id="98694" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Gibbs Hill Lighthouse Cache</groundspeak:name>
+      <groundspeak:placed_by>sniper1</groundspeak:placed_by>
+      <groundspeak:owner id="16995">Sniper1</groundspeak:owner>
+      <groundspeak:type>Virtual Cache</groundspeak:type>
+      <groundspeak:container>Virtual</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Bermuda</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">This virtual cache is located on the grounds of the Gibbs Hill Lighthouse in Bermuda. </groundspeak:short_description>
+      <groundspeak:long_description html="False">FIRST – A HISTORY LESSON
+
+In 1844, when construction of this historic lighthouse began, steel was not yet being used for this type of construction.  This lighthouse was made of cast iron, and was only the second lighthouse in the world ever constructed of that material.  It is currently the oldest cast iron lighthouse in the world, and it is still in operation.
+
+	It was originally build and assembled in England.  After completion, it was dismantled and shipped to Bermuda where it was re-assembled on its present site.  The cost of the lighthouse was L8000 pounds sterling.  The cost was so low because convict labor was used to re-assemble it on site.
+
+The need for this lighthouse was great.  Bermuda is surrounded by a dangerous maze of reefs, and just in the last decade before the installation of this lighthouse, 39 ships were wrecked on those reefs with much loss of life and property.
+
+	The lighthouse is 117 feet tall and sits on a hilltop which is 245 feet above sea level.  From this elevation, the beacon can be seen by ships 25 miles out at sea.
+
+	When this lighthouse was placed in service on May 1, 1846, the beacon was lit by kerosene.  It was not converted to electricity until 1952.  The beacon light was turned by mechanics similar to a grandfather clock.  This mechanism had to be wound by hand every half hour all night long to keep the beacon in motion.  This system was finally mechanized in 1964.
+
+	Hurricane Fabian damaged the lighthouse in the summer of 2003 and there are plans to upgrade the system at the same time the repairs are done.  I am not aware of the timetable for these repairs.  A secondary battery of lights has been put into place temporarily, so the lighthouse is still functional at this time.
+
+
+
+NOW – ON TO LOG THE CACHE
+
+This historic lighthouse is located on one of the highest points of land on the island and offers panoramic views.  More information on the lighthouse can be found at http://bermudalighthouse.com.  This website also offers a 360* view of the island as seen from the top of the lighthouse.  
+
+At the time of this writing, the grounds are open daily from 9:00am to 5:00pm, but that could change with the upcoming construction.  There is a small fee to climb to the top of the lighthouse (185 steps), and if you’re up to the climb I recommend it.  I didn’t want the fee or the climb to keep anyone from logging this find, so I chose an item for verification that is located on the grounds near the lighthouse, but does not require a trip to the top.
+
+The above coordinates will take you to a structure in the lighthouse complex that is taller than you, but not as tall as the lighthouse.  On this structure you will find a plaque with two years listed on it.  To verify your find, e-mail me the two years, and their significance.  Please do not post your answer on this site even if encrypted.
+
+The terrain rating for this cache is based on the assumption that you have driven to the prking lot at the top of Gibbs Hill.  If, for example, you use the public transportation system, and have to walk to the top of the hill from the nearest bus stop, the rating will go up one or two stars.
+
+When you visit, allow enough time to read the displays covering the history of this site.  Don’t forget to bring your camera.  The views are the best I found on the island.
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>You're so vane.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="325657778">
+          <groundspeak:date>2013-06-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found the cache info while visiting the lighthouse on a cruise. I surprised myself by managing to get up the lighthouse and walk around -- I'm not big on heights! Found with dawnie22 and 19acassel.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

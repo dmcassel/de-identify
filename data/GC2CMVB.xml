@@ -1,0 +1,41 @@
+<wpt lat="40.047167" lon="-75.676467" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-08-01T07:00:00Z</time>
+    <name>GC2CMVB</name>
+    <desc>Surroundin9 the Castle - Desecrating the Throne by The Fair Maidens of Chesco, Traditional Cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e72620f7-acf9-43b3-a021-a2cc96acdcc2</url>
+    <urlname>Surroundin9 the Castle - Desecrating the Throne</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1813451" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Surroundin9 the Castle - Desecrating the Throne</groundspeak:name>
+      <groundspeak:placed_by>The Fair Maidens of Chesco</groundspeak:placed_by>
+      <groundspeak:owner id="3602545">GeoGirls of Chesco</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Our friend, Kin9sPank, the self proclaimed “Kin9 of Geocaching and Member of the Chester County Caching Royalty” has been claiming authority over these lands since 11/2002. After a recent VICTORY event, he posted the following log:</groundspeak:short_description>
+      <groundspeak:long_description html="False">“I am declaring a moratorium on all caches less than two miles from the home coordinates. I just want to take the rest of the summer off of doing nearby caches.”
+
+This did not sit well with the local nobility. Therefore, we are staging a COUP D’ETAT! And if you don’t think this can be done …… READ THE CROWN!
+
+Lucky us!!! We found the THRONE!
+
+Please obey all rules for this park.
+
+BYOP</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="176835690">
+          <groundspeak:date>2011-08-01T20:10:13Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Spotted it almost immediately. Found with dawnie22, 19acassel and our younger daughter. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

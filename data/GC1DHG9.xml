@@ -1,0 +1,33 @@
+<wpt lat="39.8711" lon="-77.0297" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-06-24T07:00:00Z</time>
+    <name>GC1DHG9</name>
+    <desc>MMMMMM C&amp;D by BeagleBaby67, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=43884e60-19f8-4ee2-bf43-6013c90fd3f0</url>
+    <urlname>MMMMMM C&amp;D</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="916526" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>MMMMMM C&amp;D</groundspeak:name>
+      <groundspeak:placed_by>BeagleBaby67</groundspeak:placed_by>
+      <groundspeak:owner id="1123148">BeagleBaby67</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Just a quick C&amp;D</groundspeak:short_description>
+      <groundspeak:long_description html="False">There is not much to be said about this quick C&amp;D. Please bring your own pen and use stealth. :)</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138686209">
+          <groundspeak:date>2010-12-17T00:59:04Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick C&amp;D, as promised. Log was wet. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

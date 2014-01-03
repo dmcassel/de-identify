@@ -1,0 +1,59 @@
+<wpt lat="40.066717" lon="-75.776083" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-04-28T07:00:00Z</time>
+    <name>GC1BPMB</name>
+    <desc>Springton Rocks by Members of the Flying Pig Cache Team        , Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=374da16e-ed28-4806-8798-9f71cfe7bd72</url>
+    <urlname>Springton Rocks</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="861875" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Springton Rocks</groundspeak:name>
+      <groundspeak:placed_by>Members of the Flying Pig Cache Team        </groundspeak:placed_by>
+      <groundspeak:owner id="1143735">Hunch Lover</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="True">Another “Family Friendly” cache placed by members of the Flying Pig
+Cache Team. A 30 caliber ammo box just off one of the many popular
+trails found at Chester County’s Springton Manor Farm. Be sure to
+visit the butterfly exhibit and the barn while in the
+park.</groundspeak:short_description>
+      <groundspeak:long_description html="True">The cache is a 30 cal. Ammo Box with a log book, FTF pin and
+standard swag inside. GOOD HUNTING!&lt;br /&gt;
+ &lt;br /&gt;
+ 
+&lt;table cellspacing="1" cellpadding="4" width="100%"
+bgcolor="#4169E1" border="0" align="center"&gt;
+&lt;tr bgcolor="#87CEEB"&gt;
+&lt;td width="30"&gt;&lt;a rel="nofollow"
+href="http://img.geocaching.com/cache/a3eb0a1b-f3ed-440b-900a-1cf78581ff31.jpg"&gt;
+&lt;img src="http://img.geocaching.com/cache/5b652e25-1d52-4b3d-a936-65a70c2a884b.jpg"
+     align="absmiddle" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td bgcolor="#ffffff"&gt;This cache was placed with the permission of
+&lt;a rel="nofollow" href="http://www.chesco.org/ccparks"&gt;Chester
+County Parks &amp;amp; Recreation Department&lt;/a&gt;. All caches must have
+the permission of Chester County Parks and Recreation Department.
+Please follow all Chester County Parks and Recreation
+&lt;a rel="nofollow"
+href="http://www.chesco.org/ccparks/pdf/rulesregs.pdf"&gt;Rule and
+Regulations&lt;/a&gt;. Parks are open year-round, 8 am to sunset. Dogs
+are permitted on a 6' leash. Hunting may take place within the
+parks during applicable hunting seasons. For more information on
+Chester County Parks and contact information, please visit
+&lt;a rel="nofollow"
+href="http://www.chesco.org/ccparks"&gt;http://www.chesco.org/ccparks&lt;/a&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Your cords will take you to the highest spot in the park.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="301017706">
+          <groundspeak:date>2013-03-27T22:58:56Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with 19acassel</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

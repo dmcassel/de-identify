@@ -1,0 +1,33 @@
+<wpt lat="40.153167" lon="-76.304517" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2007-07-18T07:00:00Z</time>
+    <name>GC14EW4</name>
+    <desc>Graydon's Cache by Warwick_Warriors, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4434dc30-a672-4720-96ca-ab0aa6321680</url>
+    <urlname>Graydon's Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="645860" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Graydon's Cache</groundspeak:name>
+      <groundspeak:placed_by>Warwick_Warriors</groundspeak:placed_by>
+      <groundspeak:owner id="1185348">Warwick_Warriors</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">If you're in the Lititz area, this is especially busy on Memorial Day.</groundspeak:short_description>
+      <groundspeak:long_description html="False">This is named after a student in my class that hid this cache.  It is his first hidden cache.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="125203281">
+          <groundspeak:date>2010-09-05T01:35:54Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it with the family</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

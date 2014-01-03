@@ -1,0 +1,34 @@
+<wpt lat="40.028067" lon="-75.640383" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-09-26T07:00:00Z</time>
+    <name>GC1Z54D</name>
+    <desc>Rockpile by LNUGE, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d41a5009-1563-439e-bf56-a1da5f977cbe</url>
+    <urlname>Rockpile</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1411073" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rockpile</groundspeak:name>
+      <groundspeak:placed_by>LNUGE</groundspeak:placed_by>
+      <groundspeak:owner id="1409892">LNUGE</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Yep! - It's a cache in a a pile of rocks!</groundspeak:short_description>
+      <groundspeak:long_description html="False">It is not my intent to frustrate you ..... in fact, I am hoping to bring a smile to your face!
+Have a Good Day!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133692553">
+          <groundspeak:date>2010-10-30T21:17:29Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Love the container! </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

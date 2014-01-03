@@ -1,0 +1,37 @@
+<wpt lat="40.042133" lon="-75.354183" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-05-11T07:00:00Z</time>
+    <name>GC1R83C</name>
+    <desc>All Aboard by MF Trackers, Traditional Cache (3/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=81ed21d4-ff85-4f87-bddb-1b8a6040e278</url>
+    <urlname>All Aboard</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1235178" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>All Aboard</groundspeak:name>
+      <groundspeak:placed_by>MF Trackers</groundspeak:placed_by>
+      <groundspeak:owner id="1468830">mf trackers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Quick and Easy (maybe). Do I do it before work or after work? . Bring your own pen and replace as found. Just unscrew it not untie it.
+
+The basketball hoop is on private property so you may want to think twice about shooting hoops
+
+All personal cards / advertisements placed in the cache will be removed and the log deleted.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>8 ft up 3 inch cammo bison tube. Stand in the middle of the  first parking spot on left and face the white pine. Walk into the tree and look up and right</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="149998684">
+          <groundspeak:date>2011-03-20T18:29:27Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with dawnie22. Just about to give up when our older daughter found it. Log is wet. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

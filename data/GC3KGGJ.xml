@@ -1,0 +1,32 @@
+<wpt lat="40.04595" lon="-75.444767" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2012-05-16T07:00:00Z</time>
+    <name>GC3KGGJ</name>
+    <desc>TIRED of waiting!  by C.A.P., Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f0e27d76-acd7-4586-8545-f62be2831633</url>
+    <urlname>TIRED of waiting! </urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2941362" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>TIRED of waiting! </groundspeak:name>
+      <groundspeak:placed_by>C.A.P.</groundspeak:placed_by>
+      <groundspeak:owner id="5083337">C.A.P.</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Easy find, plenty of parking across the street. Great area! Almost a drive up and cache.</groundspeak:short_description>
+      <groundspeak:long_description html="False">This is my second cache. It's a quick one, use caution for muggles, and when you are done stop by the bakery and grab a cupcake. They are amazing! It's is just feet off a paved sidewalk and could be seen from the sidewalk! Have fun searching and after this one and the cupcake, take a nice walk to Berwyn Memorial to get another cache! BYOP. Can hold small items. </groundspeak:long_description>
+      <groundspeak:encoded_hints>Watch out for emergency vehicles and mechanics.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="280287877">
+          <groundspeak:date>2012-11-18T19:38:42Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">This one took some looking. I was ready to DNF it, but my daughters persisted and made the find. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

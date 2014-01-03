@@ -1,0 +1,33 @@
+<wpt lat="40.019483" lon="-75.623183" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2003-11-01T08:00:00Z</time>
+    <name>GCH5FF</name>
+    <desc>MOON by CONRAD33, Letterbox Hybrid (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=26195d68-7805-49a1-b638-44dfc1183e8e</url>
+    <urlname>MOON</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Letterbox Hybrid</type>
+    <groundspeak:cache id="100612" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>MOON</groundspeak:name>
+      <groundspeak:placed_by>CONRAD33</groundspeak:placed_by>
+      <groundspeak:owner id="146543">CONRAD33</groundspeak:owner>
+      <groundspeak:type>Letterbox Hybrid</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Letterbox Hybrid... Rubbermaid box with stamp, pad, and stamp book. There are a couple of glow in the dark trinkets...please put in small things (Please do not take stamp and pad, thanks) At the GPS coordinates at the end of the wall.  As always leave as well or better than you found it, and always be carefull!! ENJOY!!!!</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>For the start of the trail go to Exton Station and look for parking space 21, don't worry there is no crossing of railroad tracks</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="155188369">
+          <groundspeak:date>2011-04-17T23:46:40Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Not sure how that's a 1/1, buy we found it. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

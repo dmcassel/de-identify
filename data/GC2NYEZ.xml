@@ -1,0 +1,36 @@
+<wpt lat="38.8528" lon="-77.189583" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-01-01T08:00:00Z</time>
+    <name>GC2NYEZ</name>
+    <desc>Goosehead by WhitefeatherCC &amp; SaDa_Co, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=90eacdd6-b6fc-41d3-a79e-fd6aa9a5716d</url>
+    <urlname>Goosehead</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2089866" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Goosehead</groundspeak:name>
+      <groundspeak:placed_by>WhitefeatherCC &amp; SaDa_Co</groundspeak:placed_by>
+      <groundspeak:owner id="3893739">WhitefeatherCC</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Virginia</groundspeak:state>
+      <groundspeak:short_description html="False">This is a location that we frequent while walking our dogs... The trail systems in and around Round Tree Park.  This Cache is in accordance with the rules and regulations of the Fairfax County Park Authority, and we've placed this cache with their authority. This cache is OFF limits from dusk until dawn. DO NOT CACHE AT NIGHT!</groundspeak:short_description>
+      <groundspeak:long_description html="False">The cache is a well camouflaged container. Please replace the cache exactly as you found it. Gift card for the FTF. 
+
+It should be a relatively quick find if you approach from the correct entrance to the park.  If you continue on these trails you could possibly make the find on our Knobbytree's Cache.
+
+Happy Caching!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Inside the "Goosehead"</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="305561456">
+          <groundspeak:date>2013-04-13T19:25:56Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Went in the wrong way, so a longer walk than necessary, but made the find quickly. Found with 19acassel and lnrc</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,41 @@
+<wpt lat="39.9978" lon="-75.742683" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2009-08-28T07:00:00Z</time>
+    <name>GC1XWHF</name>
+    <desc>Retainer by Team Gasfly, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3f745ea9-cabb-486c-8148-f68e4809f95e</url>
+    <urlname>Retainer</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1373038" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Retainer</groundspeak:name>
+      <groundspeak:placed_by>Team Gasfly</groundspeak:placed_by>
+      <groundspeak:owner id="2096866">Gasfly</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Small 35mm container with green lid.</groundspeak:short_description>
+      <groundspeak:long_description html="False">We found this container while out looking for another cache.  It was floating down the river, we retrieved it and found that it was left over from the days of "Battle ship" caching.
+
+Please take care in retrieving this cache and please replace as it was found or better.
+
+Cache contains log only, BYOP
+
+Thanks for your visit to our first cache.
+
+Congratulations to BPP_PICNIC for the FTF!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136677922">
+          <groundspeak:date>2010-11-21T21:34:04Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with dawnie22 and kids. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

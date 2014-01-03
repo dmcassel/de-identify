@@ -1,0 +1,37 @@
+<wpt lat="40.025683" lon="-75.69995" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2010-04-18T07:00:00Z</time>
+    <name>GC2714B</name>
+    <desc>Sky Hook by Gcap, Traditional Cache (2.5/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=319f7ff2-4985-4b22-aad3-e438912a4711</url>
+    <urlname>Sky Hook</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1645555" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sky Hook</groundspeak:name>
+      <groundspeak:placed_by>Gcap</groundspeak:placed_by>
+      <groundspeak:owner id="2048865">Gcap</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">Another cammo'd micro in the woods.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The Sikorsky Sky Hook is a large, cargo carrying helicopter that's known for getting  into places that are very difficult. They're mostly used in logging and construction operations.
+Please unscrew the cache container from the cache holder.
+There's a small prize for FTF.
+Parking is nearby off Norwood Rd. I recommend you park in the pull-off area facing south on Norwood. If you're coming north on Norwood, you can turn around just past the GZ at Sterling Lane and come back. It's much easier to pull back into traffic from the southbound side of Norwood than from the northbound side.
+
+Congrats to gohangasalami for the FTF! [:D]</groundspeak:long_description>
+      <groundspeak:encoded_hints>This little guy's flying low, only a couple feet off the ground!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="194022001">
+          <groundspeak:date>2011-10-22T18:51:04Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Walked right past it, but my daughter has sharper eyes. Found with dawnie22 and 19acassel. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

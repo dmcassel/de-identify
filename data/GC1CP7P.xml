@@ -1,0 +1,35 @@
+<wpt lat="40.5734" lon="-75.556983" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-05-27T07:00:00Z</time>
+    <name>GC1CP7P</name>
+    <desc>Cache to Cash series #1 "Road Trip to AC" by Team Geopuff, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e411aa47-7a67-4507-9a21-c0d5e9aef3ba</url>
+    <urlname>Cache to Cash series #1 "Road Trip to AC"</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="891274" available="False" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Cache to Cash series #1 "Road Trip to AC"</groundspeak:name>
+      <groundspeak:placed_by>Team Geopuff</groundspeak:placed_by>
+      <groundspeak:owner id="1201830">tecnogod</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Pennsylvania</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Ever take a Road trip and thought that this is really boring or the kids get restless? Team Geopuff is here to help save the trip. Since we love road trips we thought this would be a good one to start. We created this series along a particular route we enjoy traveling so keep the name in mind and start your journey on the road to riches!  Good Luck
+
+Thanks for doing another Team Geopuff Cache</groundspeak:long_description>
+      <groundspeak:encoded_hints>Couldn't find any better place then the typical.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="146849498">
+          <groundspeak:date>2011-02-28T03:09:30Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find on our way home. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

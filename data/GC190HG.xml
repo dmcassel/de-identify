@@ -1,0 +1,50 @@
+<wpt lat="38.892867" lon="-77.26735" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2008-01-29T08:00:00Z</time>
+    <name>GC190HG</name>
+    <desc>Geologicache by Serrabou, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=05dfbeb3-a0f7-4d0d-8338-4d70a336bd30</url>
+    <urlname>Geologicache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="781063" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Geologicache</groundspeak:name>
+      <groundspeak:placed_by>Serrabou</groundspeak:placed_by>
+      <groundspeak:owner id="1156909">Serrabou</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Virginia</groundspeak:state>
+      <groundspeak:short_description html="True">Traditional cache within the confines of Meadow Lane Park, Vienna,
+VA&lt;br /&gt;
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">Small container with log book and some rocks, of course (it's not
+called Geologicache for nothing!) When the weather is nice there
+will probably be plenty of Muggles. A few thorns and poison ivy to
+watch out for too.
+&lt;p&gt;NOTICE: Please be respectful of the park hours. FCPA Parks are
+open dawn to dusk unless otherwise posted. If you enter the park
+after hours you are trespassing. If you are stopped you can be
+ticketed, or arrested and you will jeopardize the future of
+geocaching in the parks. Do NOT hunt this cache at night!&lt;/p&gt;
+&lt;p&gt;***Congrats to pattilax on FTF***&lt;/p&gt;
+&lt;p&gt;After 1 year, 74 finds, 2 DNFs.&lt;/p&gt;
+&lt;p&gt;After 2 years, 108 finds, 5 DNFs.&lt;/p&gt;
+&lt;p&gt;After 3 years, 160 finds, 5 DNFs.&lt;/p&gt;
+&lt;p&gt;After 4 years, 192 finds, 7 DNFs.&lt;/p&gt;
+&lt;p&gt;&lt;a rel="nofollow" href="http://www.novago.org" target="_blank"&gt;&lt;img src="http://www.novago.org/NoVAGO_Proud_Member_logo.jpg" border="0" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Not the big tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138663990">
+          <groundspeak:date>2010-12-16T16:01:06Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find on a chilly morning. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

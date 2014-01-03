@@ -1,0 +1,38 @@
+<wpt lat="36.1057" lon="-115.1751" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2011-03-16T07:00:00Z</time>
+    <name>GC2QC2N</name>
+    <desc>Local Reality 3: Ups&amp;Downs by MsHendrix, Traditional Cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=357a98cb-3107-4ea1-87ca-14dee1516bfa</url>
+    <urlname>Local Reality 3: Ups&amp;Downs</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2132730" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Local Reality 3: Ups&amp;Downs</groundspeak:name>
+      <groundspeak:placed_by>MsHendrix</groundspeak:placed_by>
+      <groundspeak:owner id="885129">MsHendrix</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>United States</groundspeak:country>
+      <groundspeak:state>Nevada</groundspeak:state>
+      <groundspeak:short_description html="False">Mizzz Hendrix! What are you DOING!? Yeah, I know it won't stay, but it'll be good while it lasts.</groundspeak:short_description>
+      <groundspeak:long_description html="False">I admit that it's weird to place one of my "reality" caches in such an UNREAL place, but it's not like that...See, the past few days I've been picking up one of the workers from inside the building because he is temporarily carless. Think when you are here of all of the hard labor that goes into our fun. The Mirage you see around you is created on the backs of the worker bees. Take a moment in the windy peace to pay homage to those members of the proletariat. That's why I planted this (what I'm sure will be VERY) temporary cache. Thank you for your support!!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Lucky number...</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="195011705">
+          <groundspeak:date>2011-10-26T22:45:11Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">That was a lot trickier than I expected, but I got here eventually. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="199965771">
+          <groundspeak:date>2011-10-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">This travel bug didn't fit in the cache, but he enjoyed the sites.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>

@@ -1,0 +1,43 @@
+<wpt lat="32.249633" lon="-64.84835" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0">
+    <time>2012-04-17T07:00:00Z</time>
+    <name>GC3HAQT</name>
+    <desc>The New Church Bay Park and View by TogetherWeFind, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ceeff05f-7872-4ddf-ac18-369abca52b81</url>
+    <urlname>The New Church Bay Park and View</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2876238" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The New Church Bay Park and View</groundspeak:name>
+      <groundspeak:placed_by>TogetherWeFind</groundspeak:placed_by>
+      <groundspeak:owner id="1975204">TogetherWeFind</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Bermuda</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">This cache is a series of Stop and View pull off's in Bermuda.
+
+These caches will take you to some of the most beautiful views of Bermuda from up above looking down.
+
+Church Bay Bermuda, located in Southampton parish, has always been one of our great favorites of all the beaches that are excellent for snorkeling.
+
+This is a little cove formed by coral cliffs at the western end of the south-shore beaches.
+
+
+We would take bus #7 to reach the Church bay beach park. The beach park is at the top of a small hill. A steep road from the park leads down to this wonderful beach.</groundspeak:long_description>
+      <groundspeak:encoded_hints>put your back to the ocean</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="325656171">
+          <groundspeak:date>2013-06-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1790402">dmcassel</groundspeak:finder>
+          <groundspeak:text encoded="False">Looked around for a little bit before making the find. A couple muggles drove or walked by, so we had to pause for a bit, but we found one of those Bermuda lizards while we were waiting. Found with dawnie22 and 19acassel.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs/>
+    </groundspeak:cache>
+  </wpt>
